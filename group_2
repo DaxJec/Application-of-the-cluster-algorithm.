@@ -1,0 +1,461 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit,label
+Europe,Bulgaria,Office Supplies,Online,L,6266,651.21,524.96,4080481.86,3289399.36,791082.5,2
+Sub-Saharan Africa,Angola,Office Supplies,Offline,C,9224,651.21,524.96,6006761.04,4842231.04,1164530.0,2
+Middle East and North Africa,Lebanon,Household,Offline,M,6492,668.27,502.54,4338408.84,3262489.68,1075919.16,2
+Europe,San Marino,Office Supplies,Online,H,6905,651.21,524.96,4496605.05,3624848.8,871756.25,2
+Sub-Saharan Africa,Eritrea,Household,Online,H,6747,668.27,502.54,4508817.69,3390637.38,1118180.31,2
+Europe,Portugal,Office Supplies,Online,M,9956,651.21,524.96,6483446.76,5226501.76,1256945.0,2
+Asia,Malaysia,Household,Online,L,6775,668.27,502.54,4527529.25,3404708.5,1122820.75,2
+Central America and the Caribbean,Antigua and Barbuda ,Household,Online,M,7830,668.27,502.54,5232554.1,3934888.2,1297665.9,2
+Sub-Saharan Africa,Eritrea,Office Supplies,Offline,H,8853,651.21,524.96,5765162.13,4647470.88,1117691.25,2
+Europe,Poland,Office Supplies,Offline,M,8815,651.21,524.96,5740416.15,4627522.4,1112893.75,2
+Sub-Saharan Africa,Sudan,Office Supplies,Online,C,6277,651.21,524.96,4087645.17,3295173.92,792471.25,2
+Middle East and North Africa,Azerbaijan,Office Supplies,Online,C,9481,651.21,524.96,6174122.01,4977145.76,1196976.25,2
+Sub-Saharan Africa,Swaziland,Household,Offline,C,7153,668.27,502.54,4780135.31,3594668.62,1185466.69,2
+North America,United States of America,Office Supplies,Online,L,8733,651.21,524.96,5687016.93,4584475.68,1102541.25,2
+Asia,Philippines,Household,Offline,H,8702,668.27,502.54,5815285.54,4373103.08,1442182.46,2
+Sub-Saharan Africa,South Africa,Office Supplies,Offline,L,5501,651.21,524.96,3582306.21,2887804.96,694501.25,2
+Sub-Saharan Africa,Uganda,Office Supplies,Offline,C,4862,651.21,524.96,3166183.02,2552355.52,613827.5,2
+Asia,Sri Lanka,Office Supplies,Offline,L,9272,651.21,524.96,6038019.12,4867429.12,1170590.0,2
+Middle East and North Africa,Egypt,Household,Online,M,5554,668.27,502.54,3711571.58,2791107.16,920464.42,2
+Europe,Albania,Cosmetics,Offline,L,9619,437.2,263.33,4205426.8,2532971.27,1672455.53,2
+Australia and Oceania,Vanuatu,Office Supplies,Offline,M,8155,651.21,524.96,5310617.55,4281048.8,1029568.75,2
+Asia,India,Office Supplies,Online,C,7835,651.21,524.96,5102230.35,4113061.6,989168.75,2
+Australia and Oceania,Tonga,Office Supplies,Online,L,8287,651.21,524.96,5396577.27,4350343.52,1046233.75,2
+Asia,Turkmenistan,Office Supplies,Offline,L,9113,651.21,524.96,5934476.73,4783960.48,1150516.25,2
+Asia,Turkmenistan,Household,Offline,H,8894,668.27,502.54,5943593.38,4469590.76,1474002.62,2
+Sub-Saharan Africa,Comoros,Household,Offline,M,5578,668.27,502.54,3727610.06,2803168.12,924441.94,2
+Central America and the Caribbean,Cuba,Office Supplies,Offline,L,6866,651.21,524.96,4471207.86,3604375.36,866832.5,2
+Middle East and North Africa,Tunisia ,Household,Offline,M,5415,668.27,502.54,3618682.05,2721254.1,897427.95,2
+North America,United States of America,Household,Offline,M,4529,668.27,502.54,3026594.83,2276003.66,750591.17,2
+Asia,India,Office Supplies,Online,M,6844,651.21,524.96,4456881.24,3592826.24,864055.0,2
+Australia and Oceania,Nauru,Cosmetics,Online,M,9524,437.2,263.33,4163892.8,2507954.92,1655937.88,2
+Australia and Oceania,Samoa ,Office Supplies,Online,M,6868,651.21,524.96,4472510.28,3605425.28,867085.0,2
+Europe,Bosnia and Herzegovina,Office Supplies,Offline,C,6660,651.21,524.96,4337058.6,3496233.6,840825.0,2
+Central America and the Caribbean,Barbados,Household,Offline,L,6223,668.27,502.54,4158644.21,3127306.42,1031337.79,2
+Sub-Saharan Africa,Central African Republic,Household,Online,C,6733,668.27,502.54,4499461.91,3383601.82,1115860.09,2
+North America,Greenland,Household,Offline,H,9025,668.27,502.54,6031136.75,4535423.5,1495713.25,2
+Central America and the Caribbean,Grenada,Household,Online,C,6140,668.27,502.54,4103177.8,3085595.6,1017582.2,2
+Sub-Saharan Africa,Botswana,Household,Offline,M,9210,668.27,502.54,6154766.7,4628393.4,1526373.3,2
+Europe,Russia,Office Supplies,Offline,H,9270,651.21,524.96,6036716.7,4866379.2,1170337.5,2
+Australia and Oceania,Vanuatu,Office Supplies,Offline,H,9496,651.21,524.96,6183890.16,4985020.16,1198870.0,2
+Asia,South Korea,Household,Offline,C,5122,668.27,502.54,3422878.94,2574009.88,848869.06,2
+Sub-Saharan Africa,Malawi,Office Supplies,Online,C,7396,651.21,524.96,4816349.16,3882604.16,933745.0,2
+Sub-Saharan Africa,Liberia,Office Supplies,Offline,M,9937,651.21,524.96,6471073.77,5216527.52,1254546.25,2
+Sub-Saharan Africa,Botswana,Office Supplies,Online,H,6553,651.21,524.96,4267379.13,3440062.88,827316.25,2
+Middle East and North Africa,Egypt,Household,Offline,L,8299,668.27,502.54,5545972.73,4170579.46,1375393.27,2
+Europe,Croatia,Household,Online,L,9680,668.27,502.54,6468853.6,4864587.2,1604266.4,2
+Sub-Saharan Africa,Mali,Office Supplies,Offline,M,9542,651.21,524.96,6213845.82,5009168.32,1204677.5,2
+Europe,Italy,Office Supplies,Offline,C,9453,651.21,524.96,6155888.13,4962446.88,1193441.25,2
+Australia and Oceania,Solomon Islands,Household,Online,L,8794,668.27,502.54,5876766.38,4419336.76,1457429.62,2
+Australia and Oceania,Samoa ,Household,Offline,L,8532,668.27,502.54,5701679.64,4287671.28,1414008.36,2
+Sub-Saharan Africa,Zimbabwe,Household,Offline,M,5372,668.27,502.54,3589946.44,2699644.88,890301.56,2
+Sub-Saharan Africa,Ghana,Office Supplies,Offline,H,7408,651.21,524.96,4824163.68,3888903.68,935260.0,2
+Sub-Saharan Africa,Republic of the Congo,Household,Online,M,8409,668.27,502.54,5619482.43,4225858.86,1393623.57,2
+Sub-Saharan Africa,The Gambia,Household,Online,M,7713,668.27,502.54,5154366.51,3876091.02,1278275.49,2
+Sub-Saharan Africa,Swaziland,Household,Offline,C,5565,668.27,502.54,3718922.55,2796635.1,922287.45,2
+Europe,Finland,Office Supplies,Offline,H,5201,651.21,524.96,3386943.21,2730316.96,656626.25,2
+Middle East and North Africa,Egypt,Household,Online,C,6545,668.27,502.54,4373827.15,3289124.3,1084702.85,2
+Central America and the Caribbean,El Salvador,Household,Online,M,9540,668.27,502.54,6375295.8,4794231.6,1581064.2,2
+Middle East and North Africa,Turkey,Household,Offline,H,9254,668.27,502.54,6184170.58,4650505.16,1533665.42,2
+Asia,Nepal,Household,Offline,M,7579,668.27,502.54,5064818.33,3808750.66,1256067.67,2
+Europe,Slovenia,Household,Online,C,6992,668.27,502.54,4672543.84,3513759.68,1158784.16,2
+Australia and Oceania,New Zealand,Office Supplies,Online,L,7523,651.21,524.96,4899052.83,3949274.08,949778.75,2
+Asia,South Korea,Household,Offline,L,6539,668.27,502.54,4369817.53,3286109.06,1083708.47,2
+North America,Mexico,Office Supplies,Offline,H,9623,651.21,524.96,6266593.83,5051690.08,1214903.75,2
+Asia,Brunei,Office Supplies,Online,H,9164,651.21,524.96,5967688.44,4810733.44,1156955.0,2
+Sub-Saharan Africa,Swaziland,Office Supplies,Offline,M,8480,651.21,524.96,5522260.8,4451660.8,1070600.0,2
+Sub-Saharan Africa,Burkina Faso,Household,Online,M,5603,668.27,502.54,3744316.81,2815731.62,928585.19,2
+Central America and the Caribbean,Jamaica,Household,Online,H,6902,668.27,502.54,4612399.54,3468531.08,1143868.46,2
+Asia,Myanmar,Household,Online,H,6001,668.27,502.54,4010288.27,3015742.54,994545.73,2
+Middle East and North Africa,Turkey,Household,Offline,C,8013,668.27,502.54,5354847.51,4026853.02,1327994.49,2
+Australia and Oceania,Fiji,Household,Online,C,5171,668.27,502.54,3455624.17,2598634.34,856989.83,2
+Asia,Myanmar,Household,Online,L,6921,668.27,502.54,4625096.67,3478079.34,1147017.33,2
+Europe,Sweden,Household,Offline,H,5926,668.27,502.54,3960168.02,2978052.04,982115.98,2
+Asia,Singapore,Office Supplies,Online,M,7694,651.21,524.96,5010409.74,4039042.24,971367.5,2
+Central America and the Caribbean,Honduras,Office Supplies,Offline,C,8885,651.21,524.96,5786000.85,4664269.6,1121731.25,2
+Europe,San Marino,Office Supplies,Offline,L,8597,651.21,524.96,5598452.37,4513081.12,1085371.25,2
+Europe,Germany,Household,Offline,M,5933,668.27,502.54,3964845.91,2981569.82,983276.09,2
+Central America and the Caribbean,Dominica,Cosmetics,Offline,L,9572,437.2,263.33,4184878.4,2520594.76,1664283.64,2
+Sub-Saharan Africa,Angola,Office Supplies,Online,C,9064,651.21,524.96,5902567.44,4758237.44,1144330.0,2
+Sub-Saharan Africa,Benin,Cosmetics,Online,M,9927,437.2,263.33,4340084.4,2614076.91,1726007.49,2
+Europe,Ukraine,Office Supplies,Offline,M,7872,651.21,524.96,5126325.12,4132485.12,993840.0,2
+Asia,Tajikistan,Office Supplies,Online,M,5928,651.21,524.96,3860372.88,3111962.88,748410.0,2
+Sub-Saharan Africa,Uganda,Household,Online,M,7271,668.27,502.54,4858991.17,3653968.34,1205022.83,2
+Central America and the Caribbean,Grenada,Office Supplies,Offline,L,6943,651.21,524.96,4521351.03,3644797.28,876553.75,2
+North America,Canada,Household,Online,H,8456,668.27,502.54,5650891.12,4249478.24,1401412.88,2
+Sub-Saharan Africa,Nigeria,Office Supplies,Online,L,7368,651.21,524.96,4798115.28,3867905.28,930210.0,2
+Europe,San Marino,Household,Offline,H,9985,668.27,502.54,6672675.95,5017861.9,1654814.05,2
+Middle East and North Africa,Oman,Office Supplies,Online,L,6738,651.21,524.96,4387852.98,3537180.48,850672.5,2
+Central America and the Caribbean,Costa Rica,Office Supplies,Online,C,6533,651.21,524.96,4254354.93,3429563.68,824791.25,2
+Sub-Saharan Africa,Sudan,Household,Online,M,4790,668.27,502.54,3201013.3,2407166.6,793846.7,2
+Sub-Saharan Africa,Democratic Republic of the Congo,Household,Offline,C,6716,668.27,502.54,4488101.32,3375058.64,1113042.68,2
+Europe,Macedonia,Household,Offline,L,9311,668.27,502.54,6222261.97,4679149.94,1543112.03,2
+Europe,Germany,Cosmetics,Offline,M,9569,437.2,263.33,4183566.8,2519804.77,1663762.03,2
+Europe,Slovenia,Office Supplies,Online,H,9736,651.21,524.96,6340180.56,5111010.56,1229170.0,2
+Sub-Saharan Africa,Botswana,Cosmetics,Offline,C,9268,437.2,263.33,4051969.6,2440542.44,1611427.16,2
+Sub-Saharan Africa,Cote d'Ivoire,Household,Offline,C,8748,668.27,502.54,5846025.96,4396219.92,1449806.04,2
+Sub-Saharan Africa,Benin,Household,Online,H,6510,668.27,502.54,4350437.7,3271535.4,1078902.3,2
+North America,United States of America,Office Supplies,Online,M,7510,651.21,524.96,4890587.1,3942449.6,948137.5,2
+Europe,Croatia,Household,Online,M,5258,668.27,502.54,3513763.66,2642355.32,871408.34,2
+North America,Greenland,Household,Online,M,5683,668.27,502.54,3797778.41,2855934.82,941843.59,2
+Asia,China,Household,Online,L,9687,668.27,502.54,6473531.49,4868104.98,1605426.51,2
+Central America and the Caribbean,Cuba,Household,Online,C,5833,668.27,502.54,3898018.91,2931315.82,966703.09,2
+Europe,Liechtenstein,Household,Online,C,7658,668.27,502.54,5117611.66,3848451.32,1269160.34,2
+Asia,Sri Lanka,Office Supplies,Offline,H,8906,651.21,524.96,5799676.26,4675293.76,1124382.5,2
+Europe,Serbia,Office Supplies,Offline,C,9284,651.21,524.96,6045833.64,4873728.64,1172105.0,2
+Australia and Oceania,Federated States of Micronesia,Office Supplies,Offline,L,9391,651.21,524.96,6115513.11,4929899.36,1185613.75,2
+Australia and Oceania,Tuvalu,Household,Online,M,6826,668.27,502.54,4561611.02,3430338.04,1131272.98,2
+Sub-Saharan Africa,Sao Tome and Principe,Household,Offline,M,7122,668.27,502.54,4759418.94,3579089.88,1180329.06,2
+Europe,Albania,Cosmetics,Offline,C,9560,437.2,263.33,4179632.0,2517434.8,1662197.2,2
+Middle East and North Africa,Iran,Office Supplies,Offline,H,9569,651.21,524.96,6231428.49,5023342.24,1208086.25,2
+Europe,Ireland,Household,Offline,H,8473,668.27,502.54,5662251.71,4258021.42,1404230.29,2
+Australia and Oceania,Kiribati,Office Supplies,Offline,L,9683,651.21,524.96,6305666.43,5083187.68,1222478.75,2
+Asia,Laos,Household,Offline,M,9282,668.27,502.54,6202882.14,4664576.28,1538305.86,2
+Asia,Indonesia,Household,Online,M,9472,668.27,502.54,6329853.44,4760058.88,1569794.56,2
+Australia and Oceania,Tonga,Office Supplies,Offline,M,5790,651.21,524.96,3770505.9,3039518.4,730987.5,2
+Europe,Malta,Office Supplies,Offline,M,8858,651.21,524.96,5768418.18,4650095.68,1118322.5,2
+Middle East and North Africa,Azerbaijan,Office Supplies,Online,H,9086,651.21,524.96,5916894.06,4769786.56,1147107.5,2
+Europe,Macedonia,Office Supplies,Offline,C,7410,651.21,524.96,4825466.1,3889953.6,935512.5,2
+Middle East and North Africa,Azerbaijan,Household,Online,M,8078,668.27,502.54,5398285.06,4059518.12,1338766.94,2
+Europe,Poland,Household,Online,L,5864,668.27,502.54,3918735.28,2946894.56,971840.72,2
+Middle East and North Africa,Qatar,Household,Offline,C,8855,668.27,502.54,5917530.85,4449991.7,1467539.15,2
+Europe,Greece,Office Supplies,Online,L,6850,651.21,524.96,4460788.5,3595976.0,864812.5,2
+Central America and the Caribbean,Panama,Office Supplies,Offline,H,5921,651.21,524.96,3855814.41,3108288.16,747526.25,2
+Europe,Belarus,Office Supplies,Offline,H,8131,651.21,524.96,5294988.51,4268449.76,1026538.75,2
+Sub-Saharan Africa,Lesotho,Household,Offline,L,7935,668.27,502.54,5302722.45,3987654.9,1315067.55,2
+Sub-Saharan Africa,Ethiopia,Office Supplies,Offline,H,6706,651.21,524.96,4367014.26,3520381.76,846632.5,2
+Asia,Nepal,Household,Offline,H,8996,668.27,502.54,6011756.92,4520849.84,1490907.08,2
+Sub-Saharan Africa,Madagascar,Office Supplies,Online,C,8812,651.21,524.96,5738462.52,4625947.52,1112515.0,2
+Europe,Slovakia,Office Supplies,Online,M,5342,651.21,524.96,3478763.82,2804336.32,674427.5,2
+Middle East and North Africa,Libya,Office Supplies,Offline,M,8070,651.21,524.96,5255264.7,4236427.2,1018837.5,2
+Asia,India,Household,Online,C,5001,668.27,502.54,3342018.27,2513202.54,828815.73,2
+Australia and Oceania,Tuvalu,Cosmetics,Online,C,9305,437.2,263.33,4068146.0,2450285.65,1617860.35,2
+Asia,Japan,Office Supplies,Offline,L,5472,651.21,524.96,3563421.12,2872581.12,690840.0,2
+Europe,Slovenia,Household,Offline,L,8644,668.27,502.54,5776525.88,4343955.76,1432570.12,2
+Sub-Saharan Africa,Sierra Leone,Household,Offline,L,9926,668.27,502.54,6633248.02,4988212.04,1645035.98,2
+Sub-Saharan Africa,Uganda,Office Supplies,Online,H,8291,651.21,524.96,5399182.11,4352443.36,1046738.75,2
+Asia,Myanmar,Household,Offline,H,8073,668.27,502.54,5394943.71,4057005.42,1337938.29,2
+Asia,Uzbekistan,Household,Online,C,5520,668.27,502.54,3688850.4,2774020.8,914829.6,2
+Sub-Saharan Africa,Zambia,Office Supplies,Offline,L,4993,651.21,524.96,3251491.53,2621125.28,630366.25,2
+Sub-Saharan Africa,Cape Verde,Office Supplies,Online,L,9972,651.21,524.96,6493866.12,5234901.12,1258965.0,2
+Sub-Saharan Africa,Mozambique,Household,Offline,M,6624,668.27,502.54,4426620.48,3328824.96,1097795.52,2
+Australia and Oceania,Marshall Islands,Household,Offline,H,5712,668.27,502.54,3817158.24,2870508.48,946649.76,2
+Middle East and North Africa,Iraq,Office Supplies,Offline,L,6927,651.21,524.96,4510931.67,3636397.92,874533.75,2
+Australia and Oceania,Australia,Household,Online,L,7505,668.27,502.54,5015366.35,3771562.7,1243803.65,2
+Asia,South Korea,Household,Online,C,6888,668.27,502.54,4603043.76,3461495.52,1141548.24,2
+Middle East and North Africa,Pakistan,Office Supplies,Offline,L,8447,651.21,524.96,5500770.87,4434337.12,1066433.75,2
+North America,Mexico,Office Supplies,Offline,C,7521,651.21,524.96,4897750.41,3948224.16,949526.25,2
+Central America and the Caribbean,Grenada,Household,Offline,C,5190,668.27,502.54,3468321.3,2608182.6,860138.7,2
+Sub-Saharan Africa,Rwanda,Office Supplies,Online,M,8785,651.21,524.96,5720879.85,4611773.6,1109106.25,2
+Sub-Saharan Africa,Seychelles ,Household,Offline,L,5910,668.27,502.54,3949475.7,2970011.4,979464.3,2
+Europe,Lithuania,Office Supplies,Offline,M,6609,651.21,524.96,4303846.89,3469460.64,834386.25,2
+Europe,Sweden,Household,Offline,C,7769,668.27,502.54,5191789.63,3904233.26,1287556.37,2
+Europe,Ireland,Household,Offline,C,7498,668.27,502.54,5010688.46,3768044.92,1242643.54,2
+Asia,Brunei,Cosmetics,Offline,C,9777,437.2,263.33,4274504.4,2574577.41,1699926.99,2
+Europe,Italy,Household,Online,C,5657,668.27,502.54,3780403.39,2842868.78,937534.61,2
+Europe,Germany,Office Supplies,Offline,H,9044,651.21,524.96,5889543.24,4747738.24,1141805.0,2
+Sub-Saharan Africa,Ghana,Household,Offline,L,8547,668.27,502.54,5711703.69,4295209.38,1416494.31,2
+Australia and Oceania,Nauru,Office Supplies,Offline,H,8838,651.21,524.96,5755393.98,4639596.48,1115797.5,2
+Middle East and North Africa,Bahrain,Office Supplies,Offline,L,6124,651.21,524.96,3988010.04,3214855.04,773155.0,2
+Middle East and North Africa,Lebanon,Office Supplies,Offline,M,8740,651.21,524.96,5691575.4,4588150.4,1103425.0,2
+Central America and the Caribbean,Belize,Office Supplies,Online,C,9625,651.21,524.96,6267896.25,5052740.0,1215156.25,2
+Sub-Saharan Africa,Sudan,Office Supplies,Offline,M,6248,651.21,524.96,4068760.08,3279950.08,788810.0,2
+Central America and the Caribbean,Saint Vincent and the Grenadines,Household,Offline,M,9751,668.27,502.54,6516300.77,4900267.54,1616033.23,2
+Central America and the Caribbean,Trinidad and Tobago,Household,Online,M,8725,668.27,502.54,5830655.75,4384661.5,1445994.25,2
+Sub-Saharan Africa,Benin,Office Supplies,Online,M,6858,651.21,524.96,4465998.18,3600175.68,865822.5,2
+Central America and the Caribbean,Jamaica,Household,Offline,L,7441,668.27,502.54,4972597.07,3739400.14,1233196.93,2
+Asia,Cambodia,Household,Offline,C,5542,668.27,502.54,3703552.34,2785076.68,918475.66,2
+Europe,Czech Republic,Office Supplies,Online,M,5479,651.21,524.96,3567979.59,2876255.84,691723.75,2
+Europe,Romania,Office Supplies,Online,L,7679,651.21,524.96,5000641.59,4031167.84,969473.75,2
+Sub-Saharan Africa,Mauritius ,Household,Online,M,5950,668.27,502.54,3976206.5,2990113.0,986093.5,2
+Central America and the Caribbean,Saint Kitts and Nevis ,Office Supplies,Online,H,7704,651.21,524.96,5016921.84,4044291.84,972630.0,2
+North America,Canada,Household,Online,M,9742,668.27,502.54,6510286.34,4895744.68,1614541.66,2
+Europe,Austria,Office Supplies,Offline,C,5839,651.21,524.96,3802415.19,3065241.44,737173.75,2
+Sub-Saharan Africa,Rwanda,Office Supplies,Online,H,8360,651.21,524.96,5444115.6,4388665.6,1055450.0,2
+Sub-Saharan Africa,Mauritania,Household,Offline,M,9939,668.27,502.54,6641935.53,4994745.06,1647190.47,2
+Europe,Russia,Household,Online,H,7416,668.27,502.54,4955890.32,3726836.64,1229053.68,2
+Europe,Ireland,Office Supplies,Offline,C,6707,651.21,524.96,4367665.47,3520906.72,846758.75,2
+Asia,Brunei,Office Supplies,Offline,L,8945,651.21,524.96,5825073.45,4695767.2,1129306.25,2
+Europe,Slovakia,Household,Online,C,5124,668.27,502.54,3424215.48,2575014.96,849200.52,2
+Asia,Malaysia,Office Supplies,Offline,H,6526,651.21,524.96,4249796.46,3425888.96,823907.5,2
+Sub-Saharan Africa,Madagascar,Household,Online,H,5134,668.27,502.54,3430898.18,2580040.36,850857.82,2
+Asia,Cambodia,Household,Online,H,6432,668.27,502.54,4298312.64,3232337.28,1065975.36,2
+Middle East and North Africa,Qatar,Household,Offline,M,8360,668.27,502.54,5586737.2,4201234.4,1385502.8,2
+Asia,Sri Lanka,Household,Offline,C,9756,668.27,502.54,6519642.12,4902780.24,1616861.88,2
+Europe,Cyprus,Household,Online,C,8778,668.27,502.54,5866074.06,4411296.12,1454777.94,2
+Middle East and North Africa,Afghanistan,Office Supplies,Offline,C,6397,651.21,524.96,4165790.37,3358169.12,807621.25,2
+Central America and the Caribbean,Saint Vincent and the Grenadines,Office Supplies,Online,M,5619,651.21,524.96,3659148.99,2949750.24,709398.75,2
+Sub-Saharan Africa,Benin,Household,Online,M,8859,668.27,502.54,5920203.93,4452001.86,1468202.07,2
+Sub-Saharan Africa,Uganda,Office Supplies,Online,C,7973,651.21,524.96,5192097.33,4185506.08,1006591.25,2
+Europe,Italy,Office Supplies,Offline,M,8764,651.21,524.96,5707204.44,4600749.44,1106455.0,2
+Central America and the Caribbean,Cuba,Office Supplies,Offline,C,9275,651.21,524.96,6039972.75,4869004.0,1170968.75,2
+Europe,Albania,Household,Offline,M,5486,668.27,502.54,3666129.22,2756934.44,909194.78,2
+Australia and Oceania,East Timor,Household,Online,L,7843,668.27,502.54,5241241.61,3941421.22,1299820.39,2
+Sub-Saharan Africa,Togo,Office Supplies,Online,C,5373,651.21,524.96,3498951.33,2820610.08,678341.25,2
+Sub-Saharan Africa,Angola,Household,Online,L,7984,668.27,502.54,5335467.68,4012279.36,1323188.32,2
+Sub-Saharan Africa,Togo,Office Supplies,Offline,H,7327,651.21,524.96,4771415.67,3846381.92,925033.75,2
+Sub-Saharan Africa,Equatorial Guinea,Household,Offline,M,7771,668.27,502.54,5193126.17,3905238.34,1287887.83,2
+Europe,Hungary,Office Supplies,Online,H,5552,651.21,524.96,3615517.92,2914577.92,700940.0,2
+Sub-Saharan Africa,Rwanda,Office Supplies,Online,L,5225,651.21,524.96,3402572.25,2742916.0,659656.25,2
+Asia,Tajikistan,Office Supplies,Offline,L,5231,651.21,524.96,3406479.51,2746065.76,660413.75,2
+Europe,Ireland,Office Supplies,Offline,H,5597,651.21,524.96,3644822.37,2938201.12,706621.25,2
+Sub-Saharan Africa,The Gambia,Office Supplies,Offline,C,6663,651.21,524.96,4339012.23,3497808.48,841203.75,2
+Sub-Saharan Africa,Tanzania,Household,Offline,H,9197,668.27,502.54,6146079.19,4621860.38,1524218.81,2
+Sub-Saharan Africa,Rwanda,Office Supplies,Offline,M,8874,651.21,524.96,5778837.54,4658495.04,1120342.5,2
+Europe,Finland,Office Supplies,Online,H,6589,651.21,524.96,4290822.69,3458961.44,831861.25,2
+Sub-Saharan Africa,Sierra Leone,Household,Online,C,8846,668.27,502.54,5911516.42,4445468.84,1466047.58,2
+Europe,Hungary,Office Supplies,Offline,C,8179,651.21,524.96,5326246.59,4293647.84,1032598.75,2
+Middle East and North Africa,Iran,Household,Online,M,8767,668.27,502.54,5858723.09,4405768.18,1452954.91,2
+Middle East and North Africa,Turkey,Household,Online,H,6130,668.27,502.54,4096495.1,3080570.2,1015924.9,2
+Sub-Saharan Africa,Democratic Republic of the Congo,Cosmetics,Online,H,9827,437.2,263.33,4296364.4,2587743.91,1708620.49,2
+Australia and Oceania,Palau,Cosmetics,Offline,H,9756,437.2,263.33,4265323.2,2569047.48,1696275.72,2
+Australia and Oceania,New Zealand,Cosmetics,Offline,M,9613,437.2,263.33,4202803.6,2531391.29,1671412.31,2
+Australia and Oceania,Vanuatu,Household,Online,L,7512,668.27,502.54,5020044.24,3775080.48,1244963.76,2
+Sub-Saharan Africa,South Africa,Household,Offline,C,5737,668.27,502.54,3833864.99,2883071.98,950793.01,2
+Central America and the Caribbean,Nicaragua,Household,Online,C,5688,668.27,502.54,3801119.76,2858447.52,942672.24,2
+Central America and the Caribbean,El Salvador,Office Supplies,Offline,C,6156,651.21,524.96,4008848.76,3231653.76,777195.0,2
+Asia,Mongolia,Household,Offline,C,5651,668.27,502.54,3776393.77,2839853.54,936540.23,2
+Asia,Laos,Office Supplies,Online,H,6554,651.21,524.96,4268030.34,3440587.84,827442.5,2
+Australia and Oceania,Solomon Islands,Office Supplies,Online,H,6851,651.21,524.96,4461439.71,3596500.96,864938.75,2
+Europe,France,Office Supplies,Online,C,5682,651.21,524.96,3700175.22,2982822.72,717352.5,2
+Australia and Oceania,Vanuatu,Household,Offline,M,8108,668.27,502.54,5418333.16,4074594.32,1343738.84,2
+Middle East and North Africa,Tunisia ,Household,Offline,M,5952,668.27,502.54,3977543.04,2991118.08,986424.96,2
+Europe,San Marino,Office Supplies,Offline,M,6744,651.21,524.96,4391760.24,3540330.24,851430.0,2
+Central America and the Caribbean,Panama,Household,Offline,C,9238,668.27,502.54,6173478.26,4642464.52,1531013.74,2
+Sub-Saharan Africa,Niger,Household,Offline,H,9514,668.27,502.54,6357920.78,4781165.56,1576755.22,2
+Sub-Saharan Africa,Eritrea,Office Supplies,Online,M,5435,651.21,524.96,3539326.35,2853157.6,686168.75,2
+Sub-Saharan Africa,Burkina Faso,Cosmetics,Online,H,9866,437.2,263.33,4313415.2,2598013.78,1715401.42,2
+Sub-Saharan Africa,Tanzania,Household,Online,L,8937,668.27,502.54,5972328.99,4491199.98,1481129.01,2
+Central America and the Caribbean,Panama,Household,Offline,H,7267,668.27,502.54,4856318.09,3651958.18,1204359.91,2
+Sub-Saharan Africa,Mali,Office Supplies,Online,H,6548,651.21,524.96,4264123.08,3437438.08,826685.0,2
+Central America and the Caribbean,Guatemala,Household,Offline,L,9353,668.27,502.54,6250329.31,4700256.62,1550072.69,2
+Central America and the Caribbean,Grenada,Household,Offline,L,7747,668.27,502.54,5177087.69,3893177.38,1283910.31,2
+Asia,Taiwan,Household,Offline,C,7272,668.27,502.54,4859659.44,3654470.88,1205188.56,2
+Sub-Saharan Africa,Sudan,Household,Offline,C,6585,668.27,502.54,4400557.95,3309225.9,1091332.05,2
+Europe,Slovakia,Office Supplies,Online,C,7633,651.21,524.96,4970685.93,4007019.68,963666.25,2
+Central America and the Caribbean,Barbados,Office Supplies,Online,H,7391,651.21,524.96,4813093.11,3879979.36,933113.75,2
+Australia and Oceania,Australia,Household,Online,L,5056,668.27,502.54,3378773.12,2540842.24,837930.88,2
+Europe,Belgium,Office Supplies,Offline,L,5419,651.21,524.96,3528906.99,2844758.24,684148.75,2
+Australia and Oceania,Fiji,Cosmetics,Online,L,9740,437.2,263.33,4258328.0,2564834.2,1693493.8,2
+Asia,Taiwan,Office Supplies,Online,M,6234,651.21,524.96,4059643.14,3272600.64,787042.5,2
+Europe,Monaco,Household,Online,L,9370,668.27,502.54,6261689.9,4708799.8,1552890.1,2
+Europe,Albania,Household,Online,L,5534,668.27,502.54,3698206.18,2781056.36,917149.82,2
+Sub-Saharan Africa,Madagascar,Household,Online,M,7861,668.27,502.54,5253270.47,3950466.94,1302803.53,2
+Australia and Oceania,Palau,Household,Offline,H,5672,668.27,502.54,3790427.44,2850406.88,940020.56,2
+Asia,Bangladesh,Cosmetics,Offline,C,9585,437.2,263.33,4190562.0,2524018.05,1666543.95,2
+Middle East and North Africa,Iraq,Office Supplies,Online,L,7948,651.21,524.96,5175817.08,4172382.08,1003435.0,2
+Sub-Saharan Africa,Equatorial Guinea,Office Supplies,Offline,L,5505,651.21,524.96,3584911.05,2889904.8,695006.25,2
+Europe,Cyprus,Household,Online,L,7302,668.27,502.54,4879707.54,3669547.08,1210160.46,2
+Europe,Andorra,Household,Online,C,8439,668.27,502.54,5639530.53,4240935.06,1398595.47,2
+Sub-Saharan Africa,Eritrea,Office Supplies,Online,C,7715,651.21,524.96,5024085.15,4050066.4,974018.75,2
+Central America and the Caribbean,Dominica,Household,Online,M,8372,668.27,502.54,5594756.44,4207264.88,1387491.56,2
+Central America and the Caribbean,Nicaragua,Office Supplies,Offline,M,5370,651.21,524.96,3496997.7,2819035.2,677962.5,2
+Asia,Myanmar,Household,Offline,L,8846,668.27,502.54,5911516.42,4445468.84,1466047.58,2
+Sub-Saharan Africa,Equatorial Guinea,Office Supplies,Offline,M,7494,651.21,524.96,4880167.74,3934050.24,946117.5,2
+Sub-Saharan Africa,Angola,Household,Online,H,5782,668.27,502.54,3863937.14,2905686.28,958250.86,2
+Middle East and North Africa,Iran,Household,Offline,C,6972,668.27,502.54,4659178.44,3503708.88,1155469.56,2
+Europe,Bulgaria,Household,Online,H,5871,668.27,502.54,3923413.17,2950412.34,973000.83,2
+Sub-Saharan Africa,Guinea-Bissau,Household,Offline,C,7494,668.27,502.54,5008015.38,3766034.76,1241980.62,2
+Middle East and North Africa,Qatar,Household,Online,L,8199,668.27,502.54,5479145.73,4120325.46,1358820.27,2
+Europe,Estonia,Office Supplies,Offline,H,5129,651.21,524.96,3340056.09,2692519.84,647536.25,2
+Asia,Indonesia,Household,Online,M,8610,668.27,502.54,5753804.7,4326869.4,1426935.3,2
+Australia and Oceania,Kiribati,Office Supplies,Offline,L,6790,651.21,524.96,4421715.9,3564478.4,857237.5,2
+Australia and Oceania,Vanuatu,Office Supplies,Online,C,8167,651.21,524.96,5318432.07,4287348.32,1031083.75,2
+Australia and Oceania,Tuvalu,Household,Offline,H,9599,668.27,502.54,6414723.73,4823881.46,1590842.27,2
+Sub-Saharan Africa,Tanzania,Office Supplies,Offline,L,5023,651.21,524.96,3271027.83,2636874.08,634153.75,2
+Europe,Czech Republic,Household,Offline,L,7009,668.27,502.54,4683904.43,3522302.86,1161601.57,2
+Sub-Saharan Africa,Lesotho,Household,Online,M,5497,668.27,502.54,3673480.19,2762462.38,911017.81,2
+Europe,Lithuania,Household,Offline,M,4839,668.27,502.54,3233758.53,2431791.06,801967.47,2
+North America,Canada,Office Supplies,Online,L,7624,651.21,524.96,4964825.04,4002295.04,962530.0,2
+Sub-Saharan Africa,Comoros,Household,Online,C,6352,668.27,502.54,4244851.04,3192134.08,1052716.96,2
+Sub-Saharan Africa,Djibouti,Household,Offline,L,8266,668.27,502.54,5523919.82,4153995.64,1369924.18,2
+Europe,Serbia,Office Supplies,Online,M,8918,651.21,524.96,5807490.78,4681593.28,1125897.5,2
+Sub-Saharan Africa,Kenya,Office Supplies,Offline,H,8021,651.21,524.96,5223355.41,4210704.16,1012651.25,2
+Asia,Bhutan,Office Supplies,Online,H,6329,651.21,524.96,4121508.09,3322471.84,799036.25,2
+Sub-Saharan Africa,Gabon,Household,Offline,C,4956,668.27,502.54,3311946.12,2490588.24,821357.88,2
+North America,Canada,Household,Online,C,6355,668.27,502.54,4246855.85,3193641.7,1053214.15,2
+Asia,South Korea,Office Supplies,Online,M,8948,651.21,524.96,5827027.08,4697342.08,1129685.0,2
+Europe,Latvia,Office Supplies,Online,L,6287,651.21,524.96,4094157.27,3300423.52,793733.75,2
+North America,Greenland,Cosmetics,Online,M,9797,437.2,263.33,4283248.4,2579844.01,1703404.39,2
+Europe,Greece,Household,Offline,M,9146,668.27,502.54,6111997.42,4596230.84,1515766.58,2
+Sub-Saharan Africa,Niger,Household,Offline,C,7413,668.27,502.54,4953885.51,3725329.02,1228556.49,2
+Europe,Russia,Cosmetics,Offline,H,9357,437.2,263.33,4090880.4,2463978.81,1626901.59,2
+Sub-Saharan Africa,South Sudan,Household,Offline,H,6641,668.27,502.54,4437981.07,3337368.14,1100612.93,2
+Asia,Philippines,Office Supplies,Online,L,9227,651.21,524.96,6008714.67,4843805.92,1164908.75,2
+Sub-Saharan Africa,Niger,Office Supplies,Online,H,5311,651.21,524.96,3458576.31,2788062.56,670513.75,2
+Middle East and North Africa,Egypt,Household,Offline,M,7395,668.27,502.54,4941856.65,3716283.3,1225573.35,2
+Sub-Saharan Africa,South Sudan,Office Supplies,Online,M,8147,651.21,524.96,5305407.87,4276849.12,1028558.75,2
+Europe,Ukraine,Office Supplies,Offline,H,7376,651.21,524.96,4803324.96,3872104.96,931220.0,2
+Europe,Vatican City,Household,Offline,L,6134,668.27,502.54,4099168.18,3082580.36,1016587.82,2
+Sub-Saharan Africa,Senegal,Household,Online,M,9634,668.27,502.54,6438113.18,4841470.36,1596642.82,2
+Europe,Liechtenstein,Office Supplies,Online,M,7322,651.21,524.96,4768159.62,3843757.12,924402.5,2
+Central America and the Caribbean,Saint Vincent and the Grenadines,Household,Online,C,5937,668.27,502.54,3967518.99,2983579.98,983939.01,2
+Europe,Kosovo,Office Supplies,Offline,C,6375,651.21,524.96,4151463.75,3346620.0,804843.75,2
+Asia,South Korea,Household,Online,L,9674,668.27,502.54,6464843.98,4861571.96,1603272.02,2
+Sub-Saharan Africa,Kenya,Office Supplies,Offline,H,5017,651.21,524.96,3267120.57,2633724.32,633396.25,2
+Europe,United Kingdom,Household,Online,C,7756,668.27,502.54,5183102.12,3897700.24,1285401.88,2
+Europe,Ukraine,Office Supplies,Online,C,7347,651.21,524.96,4784439.87,3856881.12,927558.75,2
+Sub-Saharan Africa,Nigeria,Household,Online,C,8317,668.27,502.54,5558001.59,4179625.18,1378376.41,2
+Europe,Bosnia and Herzegovina,Household,Online,C,5095,668.27,502.54,3404835.65,2560441.3,844394.35,2
+Sub-Saharan Africa,Rwanda,Household,Online,C,8508,668.27,502.54,5685641.16,4275610.32,1410030.84,2
+Sub-Saharan Africa,Lesotho,Household,Online,H,7964,668.27,502.54,5322102.28,4002228.56,1319873.72,2
+Sub-Saharan Africa,Zambia,Household,Online,M,6321,668.27,502.54,4224134.67,3176555.34,1047579.33,2
+Europe,Andorra,Cosmetics,Online,H,9780,437.2,263.33,4275816.0,2575367.4,1700448.6,2
+Sub-Saharan Africa,Sao Tome and Principe,Office Supplies,Online,C,9839,651.21,524.96,6407255.19,5165081.44,1242173.75,2
+Asia,Nepal,Household,Online,C,6232,668.27,502.54,4164658.64,3131829.28,1032829.36,2
+Middle East and North Africa,Morocco,Office Supplies,Online,L,5190,651.21,524.96,3379779.9,2724542.4,655237.5,2
+Sub-Saharan Africa,Burkina Faso,Household,Offline,H,5373,668.27,502.54,3590614.71,2700147.42,890467.29,2
+Sub-Saharan Africa,Cote d'Ivoire,Office Supplies,Offline,H,6616,651.21,524.96,4308405.36,3473135.36,835270.0,2
+Europe,Hungary,Household,Offline,L,8151,668.27,502.54,5447068.77,4096203.54,1350865.23,2
+Sub-Saharan Africa,Republic of the Congo,Office Supplies,Offline,H,8586,651.21,524.96,5591289.06,4507306.56,1083982.5,2
+Europe,Belarus,Household,Online,M,6526,668.27,502.54,4361130.02,3279576.04,1081553.98,2
+Sub-Saharan Africa,Togo,Household,Offline,M,5008,668.27,502.54,3346696.16,2516720.32,829975.84,2
+Sub-Saharan Africa,Ethiopia,Office Supplies,Offline,C,5478,651.21,524.96,3567328.38,2875730.88,691597.5,2
+Middle East and North Africa,Oman,Cosmetics,Offline,H,9512,437.2,263.33,4158646.4,2504794.96,1653851.44,2
+Europe,Austria,Office Supplies,Online,H,6672,651.21,524.96,4344873.12,3502533.12,842340.0,2
+Sub-Saharan Africa,Burundi,Household,Offline,H,7548,668.27,502.54,5044101.96,3793171.92,1250930.04,2
+Middle East and North Africa,Kuwait,Household,Offline,C,7469,668.27,502.54,4991308.63,3753471.26,1237837.37,2
+North America,Mexico,Household,Offline,H,9304,668.27,502.54,6217584.08,4675632.16,1541951.92,2
+Sub-Saharan Africa,Mauritania,Household,Offline,C,7336,668.27,502.54,4902428.72,3686633.44,1215795.28,2
+Middle East and North Africa,Kuwait,Office Supplies,Offline,M,9045,651.21,524.96,5890194.45,4748263.2,1141931.25,2
+Sub-Saharan Africa,Guinea-Bissau,Office Supplies,Online,L,8067,651.21,524.96,5253311.07,4234852.32,1018458.75,2
+Asia,India,Office Supplies,Offline,L,5893,651.21,524.96,3837580.53,3093589.28,743991.25,2
+Europe,Belgium,Office Supplies,Offline,M,9067,651.21,524.96,5904521.07,4759812.32,1144708.75,2
+Sub-Saharan Africa,South Sudan,Household,Offline,H,9604,668.27,502.54,6418065.08,4826394.16,1591670.92,2
+Sub-Saharan Africa,Seychelles ,Office Supplies,Offline,H,8218,651.21,524.96,5351643.78,4314121.28,1037522.5,2
+Sub-Saharan Africa,Zimbabwe,Office Supplies,Offline,M,8136,651.21,524.96,5298244.56,4271074.56,1027170.0,2
+Sub-Saharan Africa,Botswana,Household,Online,M,7927,668.27,502.54,5297376.29,3983634.58,1313741.71,2
+Asia,Malaysia,Household,Offline,L,9591,668.27,502.54,6409377.57,4819861.14,1589516.43,2
+Asia,Thailand,Household,Offline,C,7329,668.27,502.54,4897750.83,3683115.66,1214635.17,2
+Europe,Bosnia and Herzegovina,Office Supplies,Offline,H,5856,651.21,524.96,3813485.76,3074165.76,739320.0,2
+Sub-Saharan Africa,Sudan,Household,Offline,H,6366,668.27,502.54,4254206.82,3199169.64,1055037.18,2
+Sub-Saharan Africa,Cameroon,Office Supplies,Offline,M,5372,651.21,524.96,3498300.12,2820085.12,678215.0,2
+Middle East and North Africa,Israel,Office Supplies,Offline,L,8476,651.21,524.96,5519655.96,4449560.96,1070095.0,2
+Middle East and North Africa,Oman,Office Supplies,Online,L,7865,651.21,524.96,5121766.65,4128810.4,992956.25,2
+Sub-Saharan Africa,Cameroon,Household,Online,L,6787,668.27,502.54,4535548.49,3410738.98,1124809.51,2
+Europe,Lithuania,Office Supplies,Online,H,5967,651.21,524.96,3885770.07,3132436.32,753333.75,2
+Middle East and North Africa,Iran,Household,Online,H,5072,668.27,502.54,3389465.44,2548882.88,840582.56,2
+Europe,Armenia,Household,Offline,L,7461,668.27,502.54,4985962.47,3749450.94,1236511.53,2
+Europe,Luxembourg,Household,Offline,C,5773,668.27,502.54,3857922.71,2901163.42,956759.29,2
+Australia and Oceania,Marshall Islands,Household,Online,M,9507,668.27,502.54,6353242.89,4777647.78,1575595.11,2
+Europe,Macedonia,Office Supplies,Offline,C,9264,651.21,524.96,6032809.44,4863229.44,1169580.0,2
+Asia,North Korea,Household,Offline,L,8769,668.27,502.54,5860059.63,4406773.26,1453286.37,2
+Sub-Saharan Africa,Ghana,Household,Online,M,6764,668.27,502.54,4520178.28,3399180.56,1120997.72,2
+Europe,Kosovo,Office Supplies,Offline,H,7962,651.21,524.96,5184934.02,4179731.52,1005202.5,2
+Central America and the Caribbean,Grenada,Household,Offline,H,6737,668.27,502.54,4502134.99,3385611.98,1116523.01,2
+Middle East and North Africa,Israel,Household,Offline,L,5789,668.27,502.54,3868615.03,2909204.06,959410.97,2
+Asia,Bangladesh,Cosmetics,Offline,C,9426,437.2,263.33,4121047.2,2482148.58,1638898.62,2
+Asia,Nepal,Household,Offline,H,7390,668.27,502.54,4938515.3,3713770.6,1224744.7,2
+Europe,France,Household,Online,L,9419,668.27,502.54,6294435.13,4733424.26,1561010.87,2
+Asia,India,Household,Online,M,9281,668.27,502.54,6202213.87,4664073.74,1538140.13,2
+Australia and Oceania,Tonga,Office Supplies,Offline,H,6328,651.21,524.96,4120856.88,3321946.88,798910.0,2
+Europe,Russia,Office Supplies,Online,C,9648,651.21,524.96,6282874.08,5064814.08,1218060.0,2
+Australia and Oceania,Solomon Islands,Office Supplies,Offline,L,6592,651.21,524.96,4292776.32,3460536.32,832240.0,2
+Europe,Czech Republic,Household,Online,L,8220,668.27,502.54,5493179.4,4130878.8,1362300.6,2
+Europe,Latvia,Household,Online,H,7426,668.27,502.54,4962573.02,3731862.04,1230710.98,2
+Europe,Liechtenstein,Household,Online,H,5368,668.27,502.54,3587273.36,2697634.72,889638.64,2
+Sub-Saharan Africa,Democratic Republic of the Congo,Office Supplies,Offline,L,4951,651.21,524.96,3224140.71,2599076.96,625063.75,2
+Europe,Denmark,Household,Online,L,7684,668.27,502.54,5134986.68,3861517.36,1273469.32,2
+Europe,Czech Republic,Office Supplies,Online,M,5957,651.21,524.96,3879257.97,3127186.72,752071.25,2
+Europe,Iceland,Office Supplies,Offline,L,8253,651.21,524.96,5374436.13,4332494.88,1041941.25,2
+Sub-Saharan Africa,Rwanda,Office Supplies,Online,L,9240,651.21,524.96,6017180.4,4850630.4,1166550.0,2
+Europe,Czech Republic,Household,Online,L,9405,668.27,502.54,6285079.35,4726388.7,1558690.65,2
+Sub-Saharan Africa,South Africa,Household,Offline,C,6203,668.27,502.54,4145278.81,3117255.62,1028023.19,2
+Sub-Saharan Africa,Comoros,Office Supplies,Offline,M,6193,651.21,524.96,4032943.53,3251077.28,781866.25,2
+Sub-Saharan Africa,Sudan,Office Supplies,Offline,C,8846,651.21,524.96,5760603.66,4643796.16,1116807.5,2
+Europe,Portugal,Office Supplies,Offline,C,9997,651.21,524.96,6510146.37,5248025.12,1262121.25,2
+Sub-Saharan Africa,Sierra Leone,Household,Online,M,5752,668.27,502.54,3843889.04,2890610.08,953278.96,2
+Middle East and North Africa,Libya,Household,Offline,M,8329,668.27,502.54,5566020.83,4185655.66,1380365.17,2
+Asia,Turkmenistan,Household,Offline,C,8776,668.27,502.54,5864737.52,4410291.04,1454446.48,2
+Europe,Russia,Office Supplies,Offline,M,9766,651.21,524.96,6359716.86,5126759.36,1232957.5,2
+Sub-Saharan Africa,Comoros,Household,Offline,M,4469,668.27,502.54,2986498.63,2245851.26,740647.37,2
+Sub-Saharan Africa,Cape Verde,Household,Offline,M,6088,668.27,502.54,4068427.76,3059463.52,1008964.24,2
+Asia,Maldives,Office Supplies,Online,M,5590,651.21,524.96,3640263.9,2934526.4,705737.5,2
+Europe,Czech Republic,Household,Offline,H,7522,668.27,502.54,5026726.94,3780105.88,1246621.06,2
+Central America and the Caribbean,Cuba,Office Supplies,Offline,L,9905,651.21,524.96,6450235.05,5199728.8,1250506.25,2
+Europe,France,Office Supplies,Offline,M,7813,651.21,524.96,5087903.73,4101512.48,986391.25,2
+Sub-Saharan Africa,Ethiopia,Cosmetics,Offline,L,9817,437.2,263.33,4291992.4,2585110.61,1706881.79,2
+Sub-Saharan Africa,Niger,Office Supplies,Offline,M,8434,651.21,524.96,5492305.14,4427512.64,1064792.5,2
+Sub-Saharan Africa,The Gambia,Office Supplies,Offline,M,8764,651.21,524.96,5707204.44,4600749.44,1106455.0,2
+Sub-Saharan Africa,Sao Tome and Principe,Office Supplies,Offline,M,9006,651.21,524.96,5864797.26,4727789.76,1137007.5,2
+Europe,Albania,Office Supplies,Online,H,8775,651.21,524.96,5714367.75,4606524.0,1107843.75,2
+Europe,Kosovo,Office Supplies,Online,C,5217,651.21,524.96,3397362.57,2738716.32,658646.25,2
+Sub-Saharan Africa,Ghana,Office Supplies,Offline,L,9876,651.21,524.96,6431349.96,5184504.96,1246845.0,2
+Central America and the Caribbean,El Salvador,Household,Offline,C,9587,668.27,502.54,6406704.49,4817850.98,1588853.51,2
+Europe,Sweden,Cosmetics,Offline,C,9492,437.2,263.33,4149902.4,2499528.36,1650374.04,2
+Asia,Kyrgyzstan,Office Supplies,Offline,H,5183,651.21,524.96,3375221.43,2720867.68,654353.75,2
+Middle East and North Africa,Somalia,Household,Offline,M,9035,668.27,502.54,6037819.45,4540448.9,1497370.55,2
+Sub-Saharan Africa,Zambia,Office Supplies,Offline,H,8500,651.21,524.96,5535285.0,4462160.0,1073125.0,2
+Europe,Ukraine,Office Supplies,Offline,C,7577,651.21,524.96,4934218.17,3977621.92,956596.25,2
+Asia,South Korea,Household,Offline,C,7838,668.27,502.54,5237900.26,3938908.52,1298991.74,2
+Central America and the Caribbean,Trinidad and Tobago,Household,Offline,C,7397,668.27,502.54,4943193.19,3717288.38,1225904.81,2
+Central America and the Caribbean,Cuba,Office Supplies,Online,L,9014,651.21,524.96,5870006.94,4731989.44,1138017.5,2
+Europe,Serbia,Household,Online,M,6115,668.27,502.54,4086471.05,3073032.1,1013438.95,2
+Europe,Andorra,Household,Offline,L,7518,668.27,502.54,5024053.86,3778095.72,1245958.14,2
+Middle East and North Africa,Libya,Household,Offline,M,5613,668.27,502.54,3750999.51,2820757.02,930242.49,2
+Sub-Saharan Africa,Mozambique,Household,Online,L,5355,668.27,502.54,3578585.85,2691101.7,887484.15,2
+Asia,Uzbekistan,Office Supplies,Online,H,7669,651.21,524.96,4994129.49,4025918.24,968211.25,2
+Sub-Saharan Africa,Seychelles ,Office Supplies,Online,H,9736,651.21,524.96,6340180.56,5111010.56,1229170.0,2
+Sub-Saharan Africa,Guinea-Bissau,Office Supplies,Online,M,8622,651.21,524.96,5614732.62,4526205.12,1088527.5,2
+Europe,Belarus,Household,Offline,M,5754,668.27,502.54,3845225.58,2891615.16,953610.42,2
+Europe,Slovakia,Office Supplies,Online,H,8307,651.21,524.96,5409601.47,4360842.72,1048758.75,2
+Australia and Oceania,Kiribati,Office Supplies,Online,C,8196,651.21,524.96,5337317.16,4302572.16,1034745.0,2
+Middle East and North Africa,Oman,Office Supplies,Offline,C,5486,651.21,524.96,3572538.06,2879930.56,692607.5,2
+Sub-Saharan Africa,Mozambique,Office Supplies,Offline,L,5149,651.21,524.96,3353080.29,2703019.04,650061.25,2
+Sub-Saharan Africa,Republic of the Congo,Office Supplies,Offline,M,9654,651.21,524.96,6286781.34,5067963.84,1218817.5,2
+Middle East and North Africa,Pakistan,Household,Online,C,7147,668.27,502.54,4776125.69,3591653.38,1184472.31,2
+Asia,Indonesia,Household,Online,L,7806,668.27,502.54,5216515.62,3922827.24,1293688.38,2
+Sub-Saharan Africa,The Gambia,Household,Offline,H,9449,668.27,502.54,6314483.23,4748500.46,1565982.77,2
+Australia and Oceania,Palau,Cosmetics,Online,H,9526,437.2,263.33,4164767.2,2508481.58,1656285.62,2
+Asia,Vietnam,Household,Online,H,7257,668.27,502.54,4849635.39,3646932.78,1202702.61,2
+North America,United States of America,Household,Online,L,5451,668.27,502.54,3642739.77,2739345.54,903394.23,2
+Europe,Luxembourg,Office Supplies,Offline,H,9321,651.21,524.96,6069928.41,4893152.16,1176776.25,2
+Asia,India,Office Supplies,Offline,L,9589,651.21,524.96,6244452.69,5033841.44,1210611.25,2
+Europe,Norway,Office Supplies,Online,L,7923,651.21,524.96,5159536.83,4159258.08,1000278.75,2
+Sub-Saharan Africa,Niger,Office Supplies,Offline,H,8581,651.21,524.96,5588033.01,4504681.76,1083351.25,2
+Europe,Bosnia and Herzegovina,Office Supplies,Offline,L,8632,651.21,524.96,5621244.72,4531454.72,1089790.0,2
+Middle East and North Africa,Iraq,Household,Online,H,8781,668.27,502.54,5868078.87,4412803.74,1455275.13,2
+Central America and the Caribbean,Nicaragua,Office Supplies,Online,M,9673,651.21,524.96,6299154.33,5077938.08,1221216.25,2
+Australia and Oceania,Nauru,Office Supplies,Online,H,7769,651.21,524.96,5059250.49,4078414.24,980836.25,2
+Sub-Saharan Africa,South Sudan,Cosmetics,Online,H,9882,437.2,263.33,4320410.4,2602227.06,1718183.34,2
+Sub-Saharan Africa,Lesotho,Office Supplies,Online,C,7320,651.21,524.96,4766857.2,3842707.2,924150.0,2
+Asia,Turkmenistan,Office Supplies,Online,C,5377,651.21,524.96,3501556.17,2822709.92,678846.25,2
+North America,Mexico,Office Supplies,Offline,H,7480,651.21,524.96,4871050.8,3926700.8,944350.0,2
+Central America and the Caribbean,Dominican Republic,Household,Offline,L,6473,668.27,502.54,4325711.71,3252941.42,1072770.29,2
+Europe,Bosnia and Herzegovina,Household,Offline,M,7245,668.27,502.54,4841616.15,3640902.3,1200713.85,2
+Middle East and North Africa,Qatar,Cosmetics,Offline,M,9835,437.2,263.33,4299862.0,2589850.55,1710011.45,2
+Sub-Saharan Africa,Sudan,Household,Online,L,7357,668.27,502.54,4916462.39,3697186.78,1219275.61,2
+Australia and Oceania,Federated States of Micronesia,Office Supplies,Offline,H,8488,651.21,524.96,5527470.48,4455860.48,1071610.0,2
+Sub-Saharan Africa,Niger,Household,Online,M,4815,668.27,502.54,3217720.05,2419730.1,797989.95,2
+Sub-Saharan Africa,Guinea,Household,Online,H,9511,668.27,502.54,6355915.97,4779657.94,1576258.03,2
+Sub-Saharan Africa,Djibouti,Household,Online,L,8750,668.27,502.54,5847362.5,4397225.0,1450137.5,2
+Middle East and North Africa,Yemen,Household,Offline,C,5679,668.27,502.54,3795105.33,2853924.66,941180.67,2
+Sub-Saharan Africa,Gabon,Office Supplies,Offline,C,5918,651.21,524.96,3853860.78,3106713.28,747147.5,2
+Sub-Saharan Africa,Mali,Household,Online,H,9966,668.27,502.54,6659978.82,5008313.64,1651665.18,2
+Sub-Saharan Africa,Lesotho,Household,Online,C,8825,668.27,502.54,5897482.75,4434915.5,1462567.25,2
+Sub-Saharan Africa,Madagascar,Office Supplies,Offline,H,8824,651.21,524.96,5746277.04,4632247.04,1114030.0,2
+Asia,Bhutan,Household,Online,M,8095,668.27,502.54,5409645.65,4068061.3,1341584.35,2
+Sub-Saharan Africa,Central African Republic,Office Supplies,Offline,L,9022,651.21,524.96,5875216.62,4736189.12,1139027.5,2
+Sub-Saharan Africa,Burundi,Office Supplies,Offline,M,9183,651.21,524.96,5980061.43,4820707.68,1159353.75,2
+Middle East and North Africa,Iran,Cosmetics,Offline,H,9600,437.2,263.33,4197120.0,2527968.0,1669152.0,2
+Sub-Saharan Africa,Botswana,Household,Offline,H,4876,668.27,502.54,3258484.52,2450385.04,808099.48,2
+Sub-Saharan Africa,Ethiopia,Cosmetics,Offline,M,9463,437.2,263.33,4137223.6,2491891.79,1645331.81,2
+Middle East and North Africa,Libya,Household,Online,C,7018,668.27,502.54,4689918.86,3526825.72,1163093.14,2
+Middle East and North Africa,Jordan,Household,Offline,C,6546,668.27,502.54,4374495.42,3289626.84,1084868.58,2
+Middle East and North Africa,Qatar,Office Supplies,Online,H,5632,651.21,524.96,3667614.72,2956574.72,711040.0,2
+Europe,Norway,Cosmetics,Offline,L,9634,437.2,263.33,4211984.8,2536921.22,1675063.58,2
+Australia and Oceania,Papua New Guinea,Office Supplies,Offline,L,7497,651.21,524.96,4882121.37,3935625.12,946496.25,2
+Europe,Macedonia,Household,Online,C,6199,668.27,502.54,4142605.73,3115245.46,1027360.27,2
+Europe,Netherlands,Office Supplies,Online,C,9691,651.21,524.96,6310876.11,5087387.36,1223488.75,2
+North America,Canada,Office Supplies,Online,M,5828,651.21,524.96,3795251.88,3059466.88,735785.0,2
+Europe,Slovakia,Office Supplies,Offline,H,6918,651.21,524.96,4505070.78,3631673.28,873397.5,2
+Europe,Armenia,Office Supplies,Offline,H,7462,651.21,524.96,4859329.02,3917251.52,942077.5,2
+Europe,Austria,Office Supplies,Offline,C,7516,651.21,524.96,4894494.36,3945599.36,948895.0,2
+Middle East and North Africa,United Arab Emirates,Household,Online,L,6799,668.27,502.54,4543567.73,3416769.46,1126798.27,2
+Sub-Saharan Africa,Gabon,Office Supplies,Online,L,6620,651.21,524.96,4311010.2,3475235.2,835775.0,2
+Asia,Mongolia,Household,Offline,M,7197,668.27,502.54,4809539.19,3616780.38,1192758.81,2
+Central America and the Caribbean,Grenada,Office Supplies,Offline,C,7687,651.21,524.96,5005851.27,4035367.52,970483.75,2
+Asia,Malaysia,Office Supplies,Offline,L,5664,651.21,524.96,3688453.44,2973373.44,715080.0,2
+Sub-Saharan Africa,Gabon,Office Supplies,Online,M,7246,651.21,524.96,4718667.66,3803860.16,914807.5,2
+Australia and Oceania,New Zealand,Household,Offline,C,5305,668.27,502.54,3545172.35,2665974.7,879197.65,2

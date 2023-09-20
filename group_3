@@ -1,0 +1,1550 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit,label
+Central America and the Caribbean,Panama,Snacks,Offline,C,2167,152.58,97.44,330640.86,211152.48,119488.38,3
+Europe,Czech Republic,Beverages,Offline,C,4778,47.45,31.79,226716.1,151892.62,74823.48,3
+Asia,Sri Lanka,Snacks,Offline,C,7542,152.58,97.44,1150758.36,734892.48,415865.88,3
+Middle East and North Africa,Morocco,Personal Care,Offline,L,48,81.73,56.67,3923.04,2720.16,1202.88,3
+Australia and Oceania,Federated States of Micronesia,Clothes,Offline,H,8258,109.28,35.84,902434.24,295966.72,606467.52,3
+Middle East and North Africa,Afghanistan,Clothes,Offline,M,8841,109.28,35.84,966144.48,316861.44,649283.04,3
+Europe,Austria,Cereal,Offline,C,5616,205.7,117.11,1155211.2,657689.76,497521.44,3
+Central America and the Caribbean,Trinidad and Tobago,Baby Food,Offline,C,5172,255.28,159.42,1320308.16,824520.24,495787.92,3
+Middle East and North Africa,Libya,Beverages,Offline,L,1718,47.45,31.79,81519.1,54615.22,26903.88,3
+Middle East and North Africa,Algeria,Baby Food,Offline,M,3572,255.28,159.42,911860.16,569448.24,342411.92,3
+Australia and Oceania,Tuvalu,Beverages,Offline,L,7132,47.45,31.79,338413.4,226726.28,111687.12,3
+Middle East and North Africa,Saudi Arabia,Snacks,Offline,L,3378,152.58,97.44,515415.24,329152.32,186262.92,3
+Europe,Montenegro,Fruits,Offline,L,1390,9.33,6.92,12968.7,9618.8,3349.9,3
+Australia and Oceania,Australia,Clothes,Offline,M,3744,109.28,35.84,409144.32,134184.96,274959.36,3
+Europe,Luxembourg,Vegetables,Offline,L,7291,154.06,90.93,1123251.46,662970.63,460280.83,3
+Middle East and North Africa,Somalia,Clothes,Offline,L,6031,109.28,35.84,659067.68,216151.04,442916.64,3
+Middle East and North Africa,Saudi Arabia,Personal Care,Offline,L,3407,81.73,56.67,278454.11,193074.69,85379.42,3
+Middle East and North Africa,Algeria,Baby Food,Offline,M,1003,255.28,159.42,256045.84,159898.26,96147.58,3
+Australia and Oceania,Kiribati,Clothes,Offline,M,2694,109.28,35.84,294400.32,96552.96,197847.36,3
+Asia,Kyrgyzstan,Vegetables,Offline,H,7626,154.06,90.93,1174861.56,693432.18,481429.38,3
+Sub-Saharan Africa,Central African Republic,Personal Care,Offline,H,7995,81.73,56.67,653431.35,453076.65,200354.7,3
+Asia,Uzbekistan,Cereal,Offline,L,6099,205.7,117.11,1254564.3,714253.89,540310.41,3
+Asia,South Korea,Vegetables,Offline,H,1934,154.06,90.93,297952.04,175858.62,122093.42,3
+Central America and the Caribbean,Saint Vincent and the Grenadines,Clothes,Offline,H,7916,109.28,35.84,865060.48,283709.44,581351.04,3
+Middle East and North Africa,Algeria,Clothes,Offline,M,3730,109.28,35.84,407614.4,133683.2,273931.2,3
+Middle East and North Africa,Azerbaijan,Baby Food,Offline,H,5326,255.28,159.42,1359621.28,849070.92,510550.36,3
+Asia,Mongolia,Beverages,Offline,H,2758,47.45,31.79,130867.1,87676.82,43190.28,3
+Sub-Saharan Africa,Senegal,Beverages,Offline,L,117,47.45,31.79,5551.65,3719.43,1832.22,3
+Central America and the Caribbean,Haiti,Vegetables,Offline,C,4120,154.06,90.93,634727.2,374631.6,260095.6,3
+Australia and Oceania,Vanuatu,Fruits,Offline,L,2932,9.33,6.92,27355.56,20289.44,7066.12,3
+Australia and Oceania,Tuvalu,Personal Care,Offline,M,6501,81.73,56.67,531326.73,368411.67,162915.06,3
+Central America and the Caribbean,Haiti,Clothes,Offline,L,830,109.28,35.84,90702.4,29747.2,60955.2,3
+Asia,Singapore,Personal Care,Offline,M,8875,81.73,56.67,725353.75,502946.25,222407.5,3
+Europe,Cyprus,Fruits,Offline,M,4622,9.33,6.92,43123.26,31984.24,11139.02,3
+Asia,Thailand,Beverages,Offline,C,658,47.45,31.79,31222.1,20917.82,10304.28,3
+Asia,Singapore,Personal Care,Offline,M,5663,81.73,56.67,462836.99,320922.21,141914.78,3
+Europe,Bulgaria,Snacks,Offline,L,1225,152.58,97.44,186910.5,119364.0,67546.5,3
+Sub-Saharan Africa,Seychelles ,Fruits,Offline,M,3797,9.33,6.92,35426.01,26275.24,9150.77,3
+Asia,South Korea,Snacks,Offline,H,1191,152.58,97.44,181722.78,116051.04,65671.74,3
+Europe,Finland,Vegetables,Offline,L,4453,154.06,90.93,686029.18,404911.29,281117.89,3
+Australia and Oceania,Solomon Islands,Beverages,Offline,L,606,47.45,31.79,28754.7,19264.74,9489.96,3
+Australia and Oceania,Samoa ,Personal Care,Offline,L,5870,81.73,56.67,479755.1,332652.9,147102.2,3
+Middle East and North Africa,Pakistan,Vegetables,Offline,L,5465,154.06,90.93,841937.9,496932.45,345005.45,3
+Australia and Oceania,Tonga,Vegetables,Offline,C,9550,154.06,90.93,1471273.0,868381.5,602891.5,3
+Central America and the Caribbean,Cuba,Cereal,Offline,H,2745,205.7,117.11,564646.5,321466.95,243179.55,3
+Sub-Saharan Africa,Equatorial Guinea,Vegetables,Offline,M,9383,154.06,90.93,1445544.98,853196.19,592348.79,3
+Middle East and North Africa,Turkey,Personal Care,Offline,H,2506,81.73,56.67,204815.38,142015.02,62800.36,3
+Asia,Kazakhstan,Personal Care,Offline,H,1713,81.73,56.67,140003.49,97075.71,42927.78,3
+Central America and the Caribbean,Nicaragua,Snacks,Offline,H,4255,152.58,97.44,649227.9,414607.2,234620.7,3
+Sub-Saharan Africa,Chad,Cereal,Offline,C,772,205.7,117.11,158800.4,90408.92,68391.48,3
+Asia,Japan,Baby Food,Offline,C,3930,255.28,159.42,1003250.4,626520.6,376729.8,3
+Middle East and North Africa,Libya,Personal Care,Offline,H,2207,81.73,56.67,180378.11,125070.69,55307.42,3
+Asia,Singapore,Snacks,Offline,M,699,152.58,97.44,106653.42,68110.56,38542.86,3
+Europe,Cyprus,Vegetables,Offline,C,9558,154.06,90.93,1472505.48,869108.94,603396.54,3
+Asia,Singapore,Vegetables,Offline,C,6360,154.06,90.93,979821.6,578314.8,401506.8,3
+Asia,India,Snacks,Offline,M,7422,152.58,97.44,1132448.76,723199.68,409249.08,3
+Europe,Kosovo,Vegetables,Offline,C,2337,154.06,90.93,360038.22,212503.41,147534.81,3
+Central America and the Caribbean,Cuba,Beverages,Offline,L,5466,47.45,31.79,259361.7,173764.14,85597.56,3
+Sub-Saharan Africa,Eritrea,Fruits,Offline,M,1380,9.33,6.92,12875.4,9549.6,3325.8,3
+Sub-Saharan Africa,Comoros,Clothes,Offline,M,9859,109.28,35.84,1077391.52,353346.56,724044.96,3
+Sub-Saharan Africa,Cote d'Ivoire,Cereal,Offline,H,772,205.7,117.11,158800.4,90408.92,68391.48,3
+Sub-Saharan Africa,Uganda,Clothes,Offline,H,5989,109.28,35.84,654477.92,214645.76,439832.16,3
+Asia,Taiwan,Personal Care,Offline,C,9356,81.73,56.67,764665.88,530204.52,234461.36,3
+Middle East and North Africa,Israel,Personal Care,Offline,M,9432,81.73,56.67,770877.36,534511.44,236365.92,3
+Asia,South Korea,Vegetables,Offline,M,7000,154.06,90.93,1078420.0,636510.0,441910.0,3
+Europe,Norway,Personal Care,Offline,M,7480,81.73,56.67,611340.4,423891.6,187448.8,3
+Europe,Malta,Personal Care,Offline,M,1201,81.73,56.67,98157.73,68060.67,30097.06,3
+Sub-Saharan Africa,Eritrea,Personal Care,Offline,L,9633,81.73,56.67,787305.09,545902.11,241402.98,3
+Sub-Saharan Africa,Republic of the Congo,Meat,Offline,M,941,421.89,364.69,396998.49,343173.29,53825.2,3
+Central America and the Caribbean,Trinidad and Tobago,Snacks,Offline,H,7787,152.58,97.44,1188140.46,758765.28,429375.18,3
+Middle East and North Africa,Somalia,Beverages,Offline,H,3634,47.45,31.79,172433.3,115524.86,56908.44,3
+Asia,Kyrgyzstan,Fruits,Offline,L,414,9.33,6.92,3862.62,2864.88,997.74,3
+Middle East and North Africa,Lebanon,Personal Care,Offline,H,121,81.73,56.67,9889.33,6857.07,3032.26,3
+Middle East and North Africa,Algeria,Clothes,Offline,M,1570,109.28,35.84,171569.6,56268.8,115300.8,3
+Europe,Greece,Personal Care,Offline,M,8626,81.73,56.67,705002.98,488835.42,216167.56,3
+Asia,Uzbekistan,Baby Food,Offline,C,3205,255.28,159.42,818172.4,510941.1,307231.3,3
+Central America and the Caribbean,Cuba,Vegetables,Offline,C,8719,154.06,90.93,1343249.14,792818.67,550430.47,3
+Sub-Saharan Africa,Zambia,Snacks,Offline,M,843,152.58,97.44,128624.94,82141.92,46483.02,3
+Asia,Indonesia,Beverages,Offline,H,1674,47.45,31.79,79431.3,53216.46,26214.84,3
+Asia,Thailand,Snacks,Offline,M,5340,152.58,97.44,814777.2,520329.6,294447.6,3
+Sub-Saharan Africa,Republic of the Congo,Personal Care,Offline,C,846,81.73,56.67,69143.58,47942.82,21200.76,3
+Sub-Saharan Africa,Equatorial Guinea,Fruits,Offline,M,6255,9.33,6.92,58359.15,43284.6,15074.55,3
+Asia,Tajikistan,Beverages,Offline,C,7197,47.45,31.79,341497.65,228792.63,112705.02,3
+Central America and the Caribbean,Dominican Republic,Fruits,Offline,L,3357,9.33,6.92,31320.81,23230.44,8090.37,3
+Europe,Belgium,Vegetables,Offline,C,4988,154.06,90.93,768451.28,453558.84,314892.44,3
+Middle East and North Africa,Qatar,Clothes,Offline,L,396,109.28,35.84,43274.88,14192.64,29082.24,3
+Australia and Oceania,Samoa ,Cereal,Offline,C,5840,205.7,117.11,1201288.0,683922.4,517365.6,3
+Europe,Slovenia,Fruits,Offline,M,6225,9.33,6.92,58079.25,43077.0,15002.25,3
+Sub-Saharan Africa,Liberia,Cereal,Offline,H,4235,205.7,117.11,871139.5,495960.85,375178.65,3
+Middle East and North Africa,Kuwait,Personal Care,Offline,L,9187,81.73,56.67,750853.51,520627.29,230226.22,3
+North America,United States of America,Cereal,Offline,M,876,205.7,117.11,180193.2,102588.36,77604.84,3
+Sub-Saharan Africa,Rwanda,Snacks,Offline,M,2038,152.58,97.44,310958.04,198582.72,112375.32,3
+Sub-Saharan Africa,Central African Republic,Beverages,Offline,H,9488,47.45,31.79,450205.6,301623.52,148582.08,3
+Sub-Saharan Africa,Cote d'Ivoire,Beverages,Offline,L,4297,47.45,31.79,203892.65,136601.63,67291.02,3
+Europe,Poland,Personal Care,Offline,C,5060,81.73,56.67,413553.8,286750.2,126803.6,3
+Sub-Saharan Africa,Madagascar,Vegetables,Offline,C,2472,154.06,90.93,380836.32,224778.96,156057.36,3
+Sub-Saharan Africa,Senegal,Fruits,Offline,H,8631,9.33,6.92,80527.23,59726.52,20800.71,3
+Europe,Poland,Beverages,Offline,C,6348,47.45,31.79,301212.6,201802.92,99409.68,3
+Asia,Brunei,Snacks,Offline,M,3331,152.58,97.44,508243.98,324572.64,183671.34,3
+Australia and Oceania,Vanuatu,Snacks,Offline,M,5770,152.58,97.44,880386.6,562228.8,318157.8,3
+Asia,Japan,Baby Food,Offline,H,2685,255.28,159.42,685426.8,428042.7,257384.1,3
+Middle East and North Africa,Morocco,Vegetables,Offline,H,18,154.06,90.93,2773.08,1636.74,1136.34,3
+Europe,Croatia,Beverages,Offline,L,1668,47.45,31.79,79146.6,53025.72,26120.88,3
+Asia,Thailand,Clothes,Offline,L,68,109.28,35.84,7431.04,2437.12,4993.92,3
+Sub-Saharan Africa,Sao Tome and Principe,Vegetables,Offline,L,7453,154.06,90.93,1148209.18,677701.29,470507.89,3
+Australia and Oceania,New Zealand,Personal Care,Offline,H,5604,81.73,56.67,458014.92,317578.68,140436.24,3
+Europe,Bosnia and Herzegovina,Personal Care,Offline,L,6742,81.73,56.67,551023.66,382069.14,168954.52,3
+Europe,Hungary,Beverages,Offline,M,5540,47.45,31.79,262873.0,176116.6,86756.4,3
+Europe,Sweden,Cereal,Offline,L,1352,205.7,117.11,278106.4,158332.72,119773.68,3
+Middle East and North Africa,Morocco,Baby Food,Offline,M,1152,255.28,159.42,294082.56,183651.84,110430.72,3
+Europe,Czech Republic,Baby Food,Offline,H,810,255.28,159.42,206776.8,129130.2,77646.6,3
+Australia and Oceania,East Timor,Snacks,Offline,H,654,152.58,97.44,99787.32,63725.76,36061.56,3
+Asia,Nepal,Fruits,Offline,L,7962,9.33,6.92,74285.46,55097.04,19188.42,3
+Australia and Oceania,Tuvalu,Vegetables,Offline,C,6631,154.06,90.93,1021571.86,602956.83,418615.03,3
+Asia,Philippines,Cereal,Offline,M,4463,205.7,117.11,918039.1,522661.93,395377.17,3
+North America,United States of America,Vegetables,Offline,H,7080,154.06,90.93,1090744.8,643784.4,446960.4,3
+Sub-Saharan Africa,Tanzania,Fruits,Offline,M,1363,9.33,6.92,12716.79,9431.96,3284.83,3
+Europe,Portugal,Beverages,Offline,H,3256,47.45,31.79,154497.2,103508.24,50988.96,3
+Europe,Germany,Cereal,Offline,C,4629,205.7,117.11,952185.3,542102.19,410083.11,3
+Europe,Estonia,Beverages,Offline,C,8412,47.45,31.79,399149.4,267417.48,131731.92,3
+Europe,Ireland,Vegetables,Offline,C,3331,154.06,90.93,513173.86,302887.83,210286.03,3
+Middle East and North Africa,Lebanon,Clothes,Offline,C,8216,109.28,35.84,897844.48,294461.44,603383.04,3
+Central America and the Caribbean,El Salvador,Fruits,Offline,C,9416,9.33,6.92,87851.28,65158.72,22692.56,3
+Australia and Oceania,Palau,Baby Food,Offline,H,1020,255.28,159.42,260385.6,162608.4,97777.2,3
+Sub-Saharan Africa,Botswana,Baby Food,Offline,L,2089,255.28,159.42,533279.92,333028.38,200251.54,3
+Europe,Norway,Cereal,Offline,L,6416,205.7,117.11,1319771.2,751377.76,568393.44,3
+Asia,Maldives,Fruits,Offline,L,5099,9.33,6.92,47573.67,35285.08,12288.59,3
+Sub-Saharan Africa,Sierra Leone,Personal Care,Offline,L,6461,81.73,56.67,528057.53,366144.87,161912.66,3
+Middle East and North Africa,Morocco,Vegetables,Offline,H,3537,154.06,90.93,544910.22,321619.41,223290.81,3
+Asia,Japan,Beverages,Offline,M,1021,47.45,31.79,48446.45,32457.59,15988.86,3
+Europe,Vatican City,Clothes,Offline,H,1642,109.28,35.84,179437.76,58849.28,120588.48,3
+Middle East and North Africa,Egypt,Snacks,Offline,M,789,152.58,97.44,120385.62,76880.16,43505.46,3
+Asia,Thailand,Clothes,Offline,L,197,109.28,35.84,21528.16,7060.48,14467.68,3
+Sub-Saharan Africa,Botswana,Vegetables,Offline,L,2184,154.06,90.93,336467.04,198591.12,137875.92,3
+Sub-Saharan Africa,Sao Tome and Principe,Fruits,Offline,M,7200,9.33,6.92,67176.0,49824.0,17352.0,3
+Europe,Croatia,Baby Food,Offline,H,5247,255.28,159.42,1339454.16,836476.74,502977.42,3
+Middle East and North Africa,Pakistan,Personal Care,Offline,H,6298,81.73,56.67,514735.54,356907.66,157827.88,3
+Asia,Malaysia,Snacks,Offline,L,2010,152.58,97.44,306685.8,195854.4,110831.4,3
+Central America and the Caribbean,Antigua and Barbuda ,Cosmetics,Offline,M,588,437.2,263.33,257073.6,154838.04,102235.56,3
+Europe,Macedonia,Beverages,Offline,M,9353,47.45,31.79,443799.85,297331.87,146467.98,3
+Asia,Uzbekistan,Clothes,Offline,L,5149,109.28,35.84,562682.72,184540.16,378142.56,3
+Sub-Saharan Africa,Seychelles ,Beverages,Offline,M,3402,47.45,31.79,161424.9,108149.58,53275.32,3
+Australia and Oceania,Australia,Beverages,Offline,H,9855,47.45,31.79,467619.75,313290.45,154329.3,3
+Asia,Tajikistan,Beverages,Offline,C,1141,47.45,31.79,54140.45,36272.39,17868.06,3
+Sub-Saharan Africa,Niger,Baby Food,Offline,M,4018,255.28,159.42,1025715.04,640549.56,385165.48,3
+Asia,Turkmenistan,Beverages,Offline,M,718,47.45,31.79,34069.1,22825.22,11243.88,3
+Asia,Sri Lanka,Vegetables,Offline,C,7967,154.06,90.93,1227396.02,724439.31,502956.71,3
+Sub-Saharan Africa,Sao Tome and Principe,Fruits,Offline,L,8002,9.33,6.92,74658.66,55373.84,19284.82,3
+Sub-Saharan Africa,Benin,Beverages,Offline,L,5417,47.45,31.79,257036.65,172206.43,84830.22,3
+Sub-Saharan Africa,Mali,Fruits,Offline,H,5385,9.33,6.92,50242.05,37264.2,12977.85,3
+Asia,Vietnam,Beverages,Offline,H,7712,47.45,31.79,365934.4,245164.48,120769.92,3
+Middle East and North Africa,Pakistan,Clothes,Offline,L,5081,109.28,35.84,555251.68,182103.04,373148.64,3
+Sub-Saharan Africa,Democratic Republic of the Congo,Snacks,Offline,M,8156,152.58,97.44,1244442.48,794720.64,449721.84,3
+Australia and Oceania,East Timor,Vegetables,Offline,L,6581,154.06,90.93,1013868.86,598410.33,415458.53,3
+Middle East and North Africa,Somalia,Personal Care,Offline,L,5759,81.73,56.67,470683.07,326362.53,144320.54,3
+Europe,Andorra,Snacks,Offline,C,9048,152.58,97.44,1380543.84,881637.12,498906.72,3
+Central America and the Caribbean,Saint Vincent and the Grenadines,Vegetables,Offline,L,7366,154.06,90.93,1134805.96,669790.38,465015.58,3
+Europe,Bulgaria,Personal Care,Offline,H,9530,81.73,56.67,778886.9,540065.1,238821.8,3
+Europe,Ireland,Personal Care,Offline,H,1011,81.73,56.67,82629.03,57293.37,25335.66,3
+Middle East and North Africa,Qatar,Vegetables,Offline,H,3377,154.06,90.93,520260.62,307070.61,213190.01,3
+Asia,Malaysia,Cereal,Offline,H,825,205.7,117.11,169702.5,96615.75,73086.75,3
+Europe,Finland,Cereal,Offline,M,1458,205.7,117.11,299910.6,170746.38,129164.22,3
+Asia,Turkmenistan,Clothes,Offline,H,8110,109.28,35.84,886260.8,290662.4,595598.4,3
+Asia,Indonesia,Beverages,Offline,C,6054,47.45,31.79,287262.3,192456.66,94805.64,3
+Europe,Andorra,Fruits,Offline,C,7360,9.33,6.92,68668.8,50931.2,17737.6,3
+Europe,Italy,Snacks,Offline,L,6413,152.58,97.44,978495.54,624882.72,353612.82,3
+Asia,Kyrgyzstan,Personal Care,Offline,L,6871,81.73,56.67,561566.83,389379.57,172187.26,3
+Europe,Sweden,Fruits,Offline,L,3464,9.33,6.92,32319.12,23970.88,8348.24,3
+Australia and Oceania,Federated States of Micronesia,Personal Care,Offline,M,6145,81.73,56.67,502230.85,348237.15,153993.7,3
+Europe,Lithuania,Personal Care,Offline,M,7683,81.73,56.67,627931.59,435395.61,192535.98,3
+Europe,Germany,Personal Care,Offline,H,8702,81.73,56.67,711214.46,493142.34,218072.12,3
+Middle East and North Africa,Israel,Vegetables,Offline,L,7242,154.06,90.93,1115702.52,658515.06,457187.46,3
+Middle East and North Africa,Egypt,Personal Care,Offline,L,6014,81.73,56.67,491524.22,340813.38,150710.84,3
+Asia,Japan,Snacks,Offline,H,955,152.58,97.44,145713.9,93055.2,52658.7,3
+Asia,Malaysia,Snacks,Offline,L,5541,152.58,97.44,845445.78,539915.04,305530.74,3
+Central America and the Caribbean,Trinidad and Tobago,Beverages,Offline,M,6642,47.45,31.79,315162.9,211149.18,104013.72,3
+Central America and the Caribbean,Haiti,Cosmetics,Offline,M,199,437.2,263.33,87002.8,52402.67,34600.13,3
+Sub-Saharan Africa,Uganda,Clothes,Offline,L,3610,109.28,35.84,394500.8,129382.4,265118.4,3
+Europe,France,Vegetables,Offline,L,5504,154.06,90.93,847946.24,500478.72,347467.52,3
+Sub-Saharan Africa,Chad,Fruits,Offline,C,1847,9.33,6.92,17232.51,12781.24,4451.27,3
+Europe,Austria,Fruits,Offline,M,8733,9.33,6.92,81478.89,60432.36,21046.53,3
+Middle East and North Africa,United Arab Emirates,Baby Food,Offline,C,264,255.28,159.42,67393.92,42086.88,25307.04,3
+Sub-Saharan Africa,Mauritius ,Cosmetics,Offline,C,449,437.2,263.33,196302.8,118235.17,78067.63,3
+Sub-Saharan Africa,Zimbabwe,Baby Food,Offline,M,4765,255.28,159.42,1216409.2,759636.3,456772.9,3
+Europe,Romania,Personal Care,Offline,L,1251,81.73,56.67,102244.23,70894.17,31350.06,3
+Europe,Switzerland,Fruits,Offline,M,8910,9.33,6.92,83130.3,61657.2,21473.1,3
+North America,Canada,Clothes,Offline,H,1495,109.28,35.84,163373.6,53580.8,109792.8,3
+Central America and the Caribbean,Panama,Fruits,Offline,C,6836,9.33,6.92,63779.88,47305.12,16474.76,3
+Sub-Saharan Africa,Cameroon,Fruits,Offline,L,472,9.33,6.92,4403.76,3266.24,1137.52,3
+Europe,Austria,Beverages,Offline,C,8863,47.45,31.79,420549.35,281754.77,138794.58,3
+Middle East and North Africa,Somalia,Fruits,Offline,H,3245,9.33,6.92,30275.85,22455.4,7820.45,3
+Europe,San Marino,Clothes,Offline,M,8503,109.28,35.84,929207.84,304747.52,624460.32,3
+Europe,Ukraine,Snacks,Offline,C,1443,152.58,97.44,220172.94,140605.92,79567.02,3
+Sub-Saharan Africa,Zimbabwe,Beverages,Offline,H,59,47.45,31.79,2799.55,1875.61,923.94,3
+Europe,San Marino,Cereal,Offline,C,3981,205.7,117.11,818891.7,466214.91,352676.79,3
+Sub-Saharan Africa,Guinea-Bissau,Baby Food,Offline,C,3339,255.28,159.42,852379.92,532303.38,320076.54,3
+Europe,Germany,Personal Care,Offline,H,1547,81.73,56.67,126436.31,87668.49,38767.82,3
+Sub-Saharan Africa,Nigeria,Beverages,Offline,H,3996,47.45,31.79,189610.2,127032.84,62577.36,3
+Asia,Taiwan,Clothes,Offline,M,5979,109.28,35.84,653385.12,214287.36,439097.76,3
+Middle East and North Africa,Qatar,Fruits,Offline,L,6205,9.33,6.92,57892.65,42938.6,14954.05,3
+Europe,San Marino,Snacks,Offline,L,6302,152.58,97.44,961559.16,614066.88,347492.28,3
+Sub-Saharan Africa,Gabon,Vegetables,Offline,M,8177,154.06,90.93,1259748.62,743534.61,516214.01,3
+North America,Greenland,Personal Care,Offline,H,9898,81.73,56.67,808963.54,560919.66,248043.88,3
+Sub-Saharan Africa,Mali,Fruits,Offline,M,2044,9.33,6.92,19070.52,14144.48,4926.04,3
+Middle East and North Africa,Iraq,Beverages,Offline,C,4329,47.45,31.79,205411.05,137618.91,67792.14,3
+Sub-Saharan Africa,Djibouti,Personal Care,Offline,C,1472,81.73,56.67,120306.56,83418.24,36888.32,3
+Middle East and North Africa,Somalia,Fruits,Offline,M,1579,9.33,6.92,14732.07,10926.68,3805.39,3
+Central America and the Caribbean,Grenada,Cereal,Offline,L,6542,205.7,117.11,1345689.4,766133.62,579555.78,3
+Sub-Saharan Africa,Rwanda,Personal Care,Offline,C,4329,81.73,56.67,353809.17,245324.43,108484.74,3
+Sub-Saharan Africa,Chad,Snacks,Offline,C,7324,152.58,97.44,1117495.92,713650.56,403845.36,3
+Europe,Iceland,Snacks,Offline,L,8441,152.58,97.44,1287927.78,822491.04,465436.74,3
+Asia,Brunei,Clothes,Offline,H,9854,109.28,35.84,1076845.12,353167.36,723677.76,3
+Sub-Saharan Africa,Zimbabwe,Snacks,Offline,L,727,152.58,97.44,110925.66,70838.88,40086.78,3
+Middle East and North Africa,Iran,Snacks,Offline,M,7285,152.58,97.44,1111545.3,709850.4,401694.9,3
+Europe,Belgium,Cosmetics,Offline,C,17,437.2,263.33,7432.4,4476.61,2955.79,3
+Asia,Japan,Fruits,Offline,H,1299,9.33,6.92,12119.67,8989.08,3130.59,3
+Europe,Luxembourg,Fruits,Offline,L,614,9.33,6.92,5728.62,4248.88,1479.74,3
+Central America and the Caribbean,Jamaica,Personal Care,Offline,L,444,81.73,56.67,36288.12,25161.48,11126.64,3
+Europe,Andorra,Personal Care,Offline,L,4390,81.73,56.67,358794.7,248781.3,110013.4,3
+Sub-Saharan Africa,Benin,Beverages,Offline,H,6816,47.45,31.79,323419.2,216680.64,106738.56,3
+Middle East and North Africa,Bahrain,Snacks,Offline,H,2353,152.58,97.44,359020.74,229276.32,129744.42,3
+Sub-Saharan Africa,Seychelles ,Cereal,Offline,H,7174,205.7,117.11,1475691.8,840147.14,635544.66,3
+Middle East and North Africa,Yemen,Baby Food,Offline,L,514,255.28,159.42,131213.92,81941.88,49272.04,3
+Europe,Serbia,Vegetables,Offline,L,5731,154.06,90.93,882917.86,521119.83,361798.03,3
+Australia and Oceania,Federated States of Micronesia,Vegetables,Offline,C,990,154.06,90.93,152519.4,90020.7,62498.7,3
+Central America and the Caribbean,Haiti,Personal Care,Offline,C,9449,81.73,56.67,772266.77,535474.83,236791.94,3
+Middle East and North Africa,Azerbaijan,Fruits,Offline,C,3673,9.33,6.92,34269.09,25417.16,8851.93,3
+Sub-Saharan Africa,Senegal,Fruits,Offline,M,5537,9.33,6.92,51660.21,38316.04,13344.17,3
+Sub-Saharan Africa,Malawi,Vegetables,Offline,C,6162,154.06,90.93,949317.72,560310.66,389007.06,3
+Middle East and North Africa,Azerbaijan,Beverages,Offline,H,2340,47.45,31.79,111033.0,74388.6,36644.4,3
+Middle East and North Africa,Egypt,Fruits,Offline,M,5619,9.33,6.92,52425.27,38883.48,13541.79,3
+Europe,Slovakia,Meat,Offline,H,166,421.89,364.69,70033.74,60538.54,9495.2,3
+Sub-Saharan Africa,Central African Republic,Beverages,Offline,M,1608,47.45,31.79,76299.6,51118.32,25181.28,3
+Europe,Bulgaria,Beverages,Offline,C,5185,47.45,31.79,246028.25,164831.15,81197.1,3
+Central America and the Caribbean,El Salvador,Snacks,Offline,C,6499,152.58,97.44,991617.42,633262.56,358354.86,3
+Asia,Laos,Personal Care,Offline,L,6241,81.73,56.67,510076.93,353677.47,156399.46,3
+Australia and Oceania,Solomon Islands,Baby Food,Offline,L,4626,255.28,159.42,1180925.28,737476.92,443448.36,3
+Europe,Germany,Vegetables,Offline,C,833,154.06,90.93,128331.98,75744.69,52587.29,3
+Europe,Romania,Meat,Offline,L,17,421.89,364.69,7172.13,6199.73,972.4,3
+North America,Greenland,Snacks,Offline,M,1415,152.58,97.44,215900.7,137877.6,78023.1,3
+Asia,Cambodia,Vegetables,Offline,C,4324,154.06,90.93,666155.44,393181.32,272974.12,3
+Sub-Saharan Africa,Mozambique,Personal Care,Offline,L,8690,81.73,56.67,710233.7,492462.3,217771.4,3
+Europe,Armenia,Fruits,Offline,L,3524,9.33,6.92,32878.92,24386.08,8492.84,3
+Asia,Japan,Beverages,Offline,H,9296,47.45,31.79,441095.2,295519.84,145575.36,3
+Sub-Saharan Africa,Ghana,Baby Food,Offline,M,5177,255.28,159.42,1321584.56,825317.34,496267.22,3
+Sub-Saharan Africa,Lesotho,Beverages,Offline,M,2108,47.45,31.79,100024.6,67013.32,33011.28,3
+Asia,Indonesia,Beverages,Offline,M,5280,47.45,31.79,250536.0,167851.2,82684.8,3
+Sub-Saharan Africa,Chad,Beverages,Offline,M,8777,47.45,31.79,416468.65,279020.83,137447.82,3
+Europe,San Marino,Vegetables,Offline,M,492,154.06,90.93,75797.52,44737.56,31059.96,3
+Middle East and North Africa,Morocco,Fruits,Offline,C,7911,9.33,6.92,73809.63,54744.12,19065.51,3
+Sub-Saharan Africa,Ethiopia,Cereal,Offline,M,5373,205.7,117.11,1105226.1,629232.03,475994.07,3
+Sub-Saharan Africa,Niger,Beverages,Offline,L,3368,47.45,31.79,159811.6,107068.72,52742.88,3
+Central America and the Caribbean,Nicaragua,Vegetables,Offline,H,3085,154.06,90.93,475275.1,280519.05,194756.05,3
+Asia,Kazakhstan,Cereal,Offline,H,6152,205.7,117.11,1265466.4,720460.72,545005.68,3
+Sub-Saharan Africa,Lesotho,Clothes,Offline,L,2262,109.28,35.84,247191.36,81070.08,166121.28,3
+Sub-Saharan Africa,Burundi,Fruits,Offline,M,7070,9.33,6.92,65963.1,48924.4,17038.7,3
+Middle East and North Africa,Saudi Arabia,Snacks,Offline,L,9873,152.58,97.44,1506422.34,962025.12,544397.22,3
+Europe,Vatican City,Personal Care,Offline,M,1529,81.73,56.67,124965.17,86648.43,38316.74,3
+Australia and Oceania,Tonga,Vegetables,Offline,M,950,154.06,90.93,146357.0,86383.5,59973.5,3
+Europe,Netherlands,Baby Food,Offline,C,4077,255.28,159.42,1040776.56,649955.34,390821.22,3
+Sub-Saharan Africa,Cameroon,Personal Care,Offline,M,9397,81.73,56.67,768016.81,532527.99,235488.82,3
+Europe,Iceland,Personal Care,Offline,C,2715,81.73,56.67,221896.95,153859.05,68037.9,3
+Central America and the Caribbean,Panama,Cereal,Offline,M,2254,205.7,117.11,463647.8,263965.94,199681.86,3
+Europe,Macedonia,Snacks,Offline,M,8048,152.58,97.44,1227963.84,784197.12,443766.72,3
+Central America and the Caribbean,Haiti,Beverages,Offline,M,4053,47.45,31.79,192314.85,128844.87,63469.98,3
+Sub-Saharan Africa,Tanzania,Fruits,Offline,C,9817,9.33,6.92,91592.61,67933.64,23658.97,3
+Asia,Laos,Fruits,Offline,H,8296,9.33,6.92,77401.68,57408.32,19993.36,3
+Sub-Saharan Africa,Nigeria,Baby Food,Offline,L,2952,255.28,159.42,753586.56,470607.84,282978.72,3
+Europe,Andorra,Baby Food,Offline,M,4543,255.28,159.42,1159737.04,724245.06,435491.98,3
+Australia and Oceania,Papua New Guinea,Beverages,Offline,L,2504,47.45,31.79,118814.8,79602.16,39212.64,3
+Europe,Latvia,Personal Care,Offline,H,7870,81.73,56.67,643215.1,445992.9,197222.2,3
+Asia,Bhutan,Clothes,Offline,H,5106,109.28,35.84,557983.68,182999.04,374984.64,3
+Europe,Andorra,Fruits,Offline,H,983,9.33,6.92,9171.39,6802.36,2369.03,3
+Australia and Oceania,Australia,Beverages,Offline,M,3887,47.45,31.79,184438.15,123567.73,60870.42,3
+Europe,Austria,Fruits,Offline,H,3042,9.33,6.92,28381.86,21050.64,7331.22,3
+Asia,Sri Lanka,Beverages,Offline,H,4703,47.45,31.79,223157.35,149508.37,73648.98,3
+Asia,Bhutan,Vegetables,Offline,C,7155,154.06,90.93,1102299.3,650604.15,451695.15,3
+Australia and Oceania,Vanuatu,Beverages,Offline,L,5717,47.45,31.79,271271.65,181743.43,89528.22,3
+Sub-Saharan Africa,The Gambia,Baby Food,Offline,M,2537,255.28,159.42,647645.36,404448.54,243196.82,3
+Middle East and North Africa,Algeria,Fruits,Offline,L,520,9.33,6.92,4851.6,3598.4,1253.2,3
+Sub-Saharan Africa,Democratic Republic of the Congo,Snacks,Offline,H,9839,152.58,97.44,1501234.62,958712.16,542522.46,3
+Central America and the Caribbean,The Bahamas,Clothes,Offline,M,359,109.28,35.84,39231.52,12866.56,26364.96,3
+Middle East and North Africa,Algeria,Clothes,Offline,H,7574,109.28,35.84,827686.72,271452.16,556234.56,3
+Middle East and North Africa,Oman,Clothes,Offline,L,2264,109.28,35.84,247409.92,81141.76,166268.16,3
+Europe,Armenia,Baby Food,Offline,H,791,255.28,159.42,201926.48,126101.22,75825.26,3
+Europe,France,Snacks,Offline,M,8538,152.58,97.44,1302728.04,831942.72,470785.32,3
+Sub-Saharan Africa,Rwanda,Clothes,Offline,M,8732,109.28,35.84,954232.96,312954.88,641278.08,3
+Europe,Portugal,Snacks,Offline,H,2767,152.58,97.44,422188.86,269616.48,152572.38,3
+Australia and Oceania,Solomon Islands,Beverages,Offline,C,6385,47.45,31.79,302968.25,202979.15,99989.1,3
+Central America and the Caribbean,Haiti,Fruits,Offline,H,5954,9.33,6.92,55550.82,41201.68,14349.14,3
+Central America and the Caribbean,Costa Rica,Fruits,Offline,H,2915,9.33,6.92,27196.95,20171.8,7025.15,3
+Asia,Brunei,Fruits,Offline,L,4672,9.33,6.92,43589.76,32330.24,11259.52,3
+Europe,Montenegro,Vegetables,Offline,H,8869,154.06,90.93,1366358.14,806458.17,559899.97,3
+Australia and Oceania,East Timor,Personal Care,Offline,H,9326,81.73,56.67,762213.98,528504.42,233709.56,3
+Sub-Saharan Africa,Nigeria,Snacks,Offline,L,6647,152.58,97.44,1014199.26,647683.68,366515.58,3
+Europe,San Marino,Beverages,Offline,L,5122,47.45,31.79,243038.9,162828.38,80210.52,3
+Sub-Saharan Africa,Republic of the Congo,Baby Food,Offline,L,2122,255.28,159.42,541704.16,338289.24,203414.92,3
+Sub-Saharan Africa,Mauritius ,Cereal,Offline,L,1275,205.7,117.11,262267.5,149315.25,112952.25,3
+Sub-Saharan Africa,Comoros,Beverages,Offline,M,3081,47.45,31.79,146193.45,97944.99,48248.46,3
+Europe,Vatican City,Personal Care,Offline,M,1854,81.73,56.67,151527.42,105066.18,46461.24,3
+Central America and the Caribbean,Antigua and Barbuda ,Snacks,Offline,M,6922,152.58,97.44,1056158.76,674479.68,381679.08,3
+Europe,Lithuania,Personal Care,Offline,L,1875,81.73,56.67,153243.75,106256.25,46987.5,3
+Central America and the Caribbean,Panama,Baby Food,Offline,H,1811,255.28,159.42,462312.08,288709.62,173602.46,3
+North America,United States of America,Beverages,Offline,C,5509,47.45,31.79,261402.05,175131.11,86270.94,3
+Europe,Ireland,Fruits,Offline,H,7486,9.33,6.92,69844.38,51803.12,18041.26,3
+Europe,Andorra,Cereal,Offline,M,5116,205.7,117.11,1052361.2,599134.76,453226.44,3
+Europe,Ireland,Beverages,Offline,H,4606,47.45,31.79,218554.7,146424.74,72129.96,3
+Sub-Saharan Africa,Burkina Faso,Vegetables,Offline,M,2008,154.06,90.93,309352.48,182587.44,126765.04,3
+Australia and Oceania,Solomon Islands,Fruits,Offline,H,7850,9.33,6.92,73240.5,54322.0,18918.5,3
+Europe,Slovenia,Beverages,Offline,H,8337,47.45,31.79,395590.65,265033.23,130557.42,3
+Central America and the Caribbean,Grenada,Clothes,Offline,L,4712,109.28,35.84,514927.36,168878.08,346049.28,3
+Middle East and North Africa,Turkey,Clothes,Offline,L,9856,109.28,35.84,1077063.68,353239.04,723824.64,3
+Sub-Saharan Africa,Ethiopia,Snacks,Offline,L,703,152.58,97.44,107263.74,68500.32,38763.42,3
+Asia,Kazakhstan,Beverages,Offline,H,5632,47.45,31.79,267238.4,179041.28,88197.12,3
+Europe,Netherlands,Fruits,Offline,C,9024,9.33,6.92,84193.92,62446.08,21747.84,3
+Sub-Saharan Africa,Cameroon,Fruits,Offline,H,3872,9.33,6.92,36125.76,26794.24,9331.52,3
+Central America and the Caribbean,Cuba,Baby Food,Offline,H,4244,255.28,159.42,1083408.32,676578.48,406829.84,3
+Sub-Saharan Africa,Kenya,Clothes,Offline,M,8304,109.28,35.84,907461.12,297615.36,609845.76,3
+Asia,Brunei,Fruits,Offline,L,2205,9.33,6.92,20572.65,15258.6,5314.05,3
+Asia,Japan,Fruits,Offline,H,9373,9.33,6.92,87450.09,64861.16,22588.93,3
+Asia,Cambodia,Cereal,Offline,H,1332,205.7,117.11,273992.4,155990.52,118001.88,3
+Europe,Italy,Personal Care,Offline,L,6993,81.73,56.67,571537.89,396293.31,175244.58,3
+Europe,Spain,Cereal,Offline,M,5222,205.7,117.11,1074165.4,611548.42,462616.98,3
+Central America and the Caribbean,Cuba,Fruits,Offline,M,5372,9.33,6.92,50120.76,37174.24,12946.52,3
+Central America and the Caribbean,Saint Vincent and the Grenadines,Clothes,Offline,M,5199,109.28,35.84,568146.72,186332.16,381814.56,3
+Europe,San Marino,Beverages,Offline,M,9559,47.45,31.79,453574.55,303880.61,149693.94,3
+Central America and the Caribbean,Trinidad and Tobago,Cereal,Offline,L,1335,205.7,117.11,274609.5,156341.85,118267.65,3
+Central America and the Caribbean,Costa Rica,Cereal,Offline,L,920,205.7,117.11,189244.0,107741.2,81502.8,3
+Asia,India,Personal Care,Offline,C,3320,81.73,56.67,271343.6,188144.4,83199.2,3
+Europe,Netherlands,Beverages,Offline,C,6699,47.45,31.79,317867.55,212961.21,104906.34,3
+Europe,San Marino,Baby Food,Offline,L,1856,255.28,159.42,473799.68,295883.52,177916.16,3
+Europe,Georgia,Snacks,Offline,L,6191,152.58,97.44,944622.78,603251.04,341371.74,3
+Europe,Greece,Fruits,Offline,H,9034,9.33,6.92,84287.22,62515.28,21771.94,3
+Australia and Oceania,Papua New Guinea,Beverages,Offline,C,3235,47.45,31.79,153500.75,102840.65,50660.1,3
+Middle East and North Africa,Azerbaijan,Clothes,Offline,M,1512,109.28,35.84,165231.36,54190.08,111041.28,3
+Central America and the Caribbean,Barbados,Fruits,Offline,H,8567,9.33,6.92,79930.11,59283.64,20646.47,3
+Australia and Oceania,Samoa ,Fruits,Offline,C,5894,9.33,6.92,54991.02,40786.48,14204.54,3
+Europe,Belarus,Clothes,Offline,M,9773,109.28,35.84,1067993.44,350264.32,717729.12,3
+Asia,Myanmar,Cereal,Offline,M,4577,205.7,117.11,941488.9,536012.47,405476.43,3
+Sub-Saharan Africa,Sudan,Snacks,Offline,L,4767,152.58,97.44,727348.86,464496.48,262852.38,3
+Middle East and North Africa,Tunisia ,Vegetables,Offline,H,167,154.06,90.93,25728.02,15185.31,10542.71,3
+Europe,Monaco,Clothes,Offline,H,8790,109.28,35.84,960571.2,315033.6,645537.6,3
+Europe,Estonia,Clothes,Offline,L,7147,109.28,35.84,781024.16,256148.48,524875.68,3
+Central America and the Caribbean,Costa Rica,Cereal,Offline,C,3257,205.7,117.11,669964.9,381427.27,288537.63,3
+Sub-Saharan Africa,Benin,Beverages,Offline,L,6947,47.45,31.79,329635.15,220845.13,108790.02,3
+North America,United States of America,Baby Food,Offline,H,1382,255.28,159.42,352796.96,220318.44,132478.52,3
+Europe,Andorra,Beverages,Offline,L,1255,47.45,31.79,59549.75,39896.45,19653.3,3
+Europe,Ireland,Beverages,Offline,M,2227,47.45,31.79,105671.15,70796.33,34874.82,3
+Australia and Oceania,Tonga,Beverages,Offline,M,7585,47.45,31.79,359908.25,241127.15,118781.1,3
+Central America and the Caribbean,Grenada,Beverages,Offline,C,7645,47.45,31.79,362755.25,243034.55,119720.7,3
+Asia,Vietnam,Cereal,Offline,H,7358,205.7,117.11,1513540.6,861695.38,651845.22,3
+Central America and the Caribbean,Belize,Personal Care,Offline,H,481,81.73,56.67,39312.13,27258.27,12053.86,3
+Europe,Serbia,Vegetables,Offline,M,2973,154.06,90.93,458020.38,270334.89,187685.49,3
+Sub-Saharan Africa,Senegal,Personal Care,Offline,M,4079,81.73,56.67,333376.67,231156.93,102219.74,3
+Sub-Saharan Africa,Ghana,Fruits,Offline,M,2756,9.33,6.92,25713.48,19071.52,6641.96,3
+Middle East and North Africa,Afghanistan,Vegetables,Offline,H,4408,154.06,90.93,679096.48,400819.44,278277.04,3
+Sub-Saharan Africa,Ghana,Baby Food,Offline,M,319,255.28,159.42,81434.32,50854.98,30579.34,3
+Europe,Czech Republic,Fruits,Offline,M,6956,9.33,6.92,64899.48,48135.52,16763.96,3
+Central America and the Caribbean,Honduras,Personal Care,Offline,H,4209,81.73,56.67,344001.57,238524.03,105477.54,3
+Sub-Saharan Africa,The Gambia,Beverages,Offline,M,5057,47.45,31.79,239954.65,160762.03,79192.62,3
+Europe,Germany,Personal Care,Offline,C,6028,81.73,56.67,492668.44,341606.76,151061.68,3
+Europe,Ukraine,Clothes,Offline,H,5382,109.28,35.84,588144.96,192890.88,395254.08,3
+Sub-Saharan Africa,Mozambique,Vegetables,Offline,C,6749,154.06,90.93,1039750.94,613686.57,426064.37,3
+Europe,Andorra,Clothes,Offline,L,2531,109.28,35.84,276587.68,90711.04,185876.64,3
+Europe,Norway,Baby Food,Offline,L,2396,255.28,159.42,611650.88,381970.32,229680.56,3
+Sub-Saharan Africa,Mauritius ,Personal Care,Offline,H,2969,81.73,56.67,242656.37,168253.23,74403.14,3
+Europe,Monaco,Clothes,Offline,L,9711,109.28,35.84,1061218.08,348042.24,713175.84,3
+North America,United States of America,Personal Care,Offline,L,1253,81.73,56.67,102407.69,71007.51,31400.18,3
+Central America and the Caribbean,Saint Kitts and Nevis ,Vegetables,Offline,H,6737,154.06,90.93,1037902.22,612595.41,425306.81,3
+Sub-Saharan Africa,Botswana,Cereal,Offline,M,6652,205.7,117.11,1368316.4,779015.72,589300.68,3
+Europe,Czech Republic,Meat,Offline,M,634,421.89,364.69,267478.26,231213.46,36264.8,3
+North America,Mexico,Vegetables,Offline,C,555,154.06,90.93,85503.3,50466.15,35037.15,3
+Middle East and North Africa,Bahrain,Fruits,Offline,M,8392,9.33,6.92,78297.36,58072.64,20224.72,3
+Middle East and North Africa,Iran,Clothes,Offline,H,1589,109.28,35.84,173645.92,56949.76,116696.16,3
+Sub-Saharan Africa,Sudan,Snacks,Offline,H,85,152.58,97.44,12969.3,8282.4,4686.9,3
+Australia and Oceania,Marshall Islands,Personal Care,Offline,C,6014,81.73,56.67,491524.22,340813.38,150710.84,3
+Middle East and North Africa,Pakistan,Fruits,Offline,C,7300,9.33,6.92,68109.0,50516.0,17593.0,3
+Europe,Norway,Fruits,Offline,C,4486,9.33,6.92,41854.38,31043.12,10811.26,3
+Sub-Saharan Africa,Madagascar,Snacks,Offline,M,5169,152.58,97.44,788686.02,503667.36,285018.66,3
+Europe,Serbia,Clothes,Offline,L,5742,109.28,35.84,627485.76,205793.28,421692.48,3
+Sub-Saharan Africa,Malawi,Baby Food,Offline,H,4115,255.28,159.42,1050477.2,656013.3,394463.9,3
+Asia,Taiwan,Vegetables,Offline,M,9020,154.06,90.93,1389621.2,820188.6,569432.6,3
+Central America and the Caribbean,Haiti,Vegetables,Offline,L,4485,154.06,90.93,690959.1,407821.05,283138.05,3
+Europe,Portugal,Snacks,Offline,C,6592,152.58,97.44,1005807.36,642324.48,363482.88,3
+Central America and the Caribbean,Saint Lucia,Vegetables,Offline,C,4095,154.06,90.93,630875.7,372358.35,258517.35,3
+Europe,Romania,Fruits,Offline,L,9958,9.33,6.92,92908.14,68909.36,23998.78,3
+Sub-Saharan Africa,Ghana,Cereal,Offline,M,3039,205.7,117.11,625122.3,355897.29,269225.01,3
+Europe,Ireland,Personal Care,Offline,L,5143,81.73,56.67,420337.39,291453.81,128883.58,3
+Europe,Romania,Clothes,Offline,L,9610,109.28,35.84,1050180.8,344422.4,705758.4,3
+Sub-Saharan Africa,Burkina Faso,Personal Care,Offline,M,8886,81.73,56.67,726252.78,503569.62,222683.16,3
+Europe,Bulgaria,Clothes,Offline,C,8504,109.28,35.84,929317.12,304783.36,624533.76,3
+Asia,Brunei,Fruits,Offline,C,1649,9.33,6.92,15385.17,11411.08,3974.09,3
+Middle East and North Africa,Iraq,Meat,Offline,L,770,421.89,364.69,324855.3,280811.3,44044.0,3
+Middle East and North Africa,Bahrain,Cereal,Offline,H,1769,205.7,117.11,363883.3,207167.59,156715.71,3
+Central America and the Caribbean,Grenada,Fruits,Offline,C,6129,9.33,6.92,57183.57,42412.68,14770.89,3
+North America,Greenland,Vegetables,Offline,C,4556,154.06,90.93,701897.36,414277.08,287620.28,3
+North America,Canada,Snacks,Offline,M,173,152.58,97.44,26396.34,16857.12,9539.22,3
+Middle East and North Africa,Algeria,Vegetables,Offline,M,5973,154.06,90.93,920200.38,543124.89,377075.49,3
+Middle East and North Africa,Qatar,Vegetables,Offline,L,3318,154.06,90.93,511171.08,301705.74,209465.34,3
+Sub-Saharan Africa,Rwanda,Beverages,Offline,M,8769,47.45,31.79,416089.05,278766.51,137322.54,3
+Europe,Russia,Fruits,Offline,H,9127,9.33,6.92,85154.91,63158.84,21996.07,3
+Europe,Denmark,Personal Care,Offline,C,2802,81.73,56.67,229007.46,158789.34,70218.12,3
+Middle East and North Africa,Oman,Baby Food,Offline,L,4820,255.28,159.42,1230449.6,768404.4,462045.2,3
+Europe,Vatican City,Vegetables,Offline,L,5037,154.06,90.93,776000.22,458014.41,317985.81,3
+Central America and the Caribbean,Antigua and Barbuda ,Cereal,Offline,L,7064,205.7,117.11,1453064.8,827265.04,625799.76,3
+Europe,Bulgaria,Snacks,Offline,L,422,152.58,97.44,64388.76,41119.68,23269.08,3
+Central America and the Caribbean,Antigua and Barbuda ,Clothes,Offline,H,3763,109.28,35.84,411220.64,134865.92,276354.72,3
+Asia,Sri Lanka,Vegetables,Offline,H,9136,154.06,90.93,1407492.16,830736.48,576755.68,3
+Europe,San Marino,Personal Care,Offline,H,2624,81.73,56.67,214459.52,148702.08,65757.44,3
+Europe,Russia,Baby Food,Offline,L,574,255.28,159.42,146530.72,91507.08,55023.64,3
+Middle East and North Africa,Pakistan,Vegetables,Offline,H,5423,154.06,90.93,835467.38,493113.39,342353.99,3
+Central America and the Caribbean,The Bahamas,Personal Care,Offline,M,713,81.73,56.67,58273.49,40405.71,17867.78,3
+Sub-Saharan Africa,Togo,Cosmetics,Offline,L,674,437.2,263.33,294672.8,177484.42,117188.38,3
+North America,Greenland,Meat,Offline,C,813,421.89,364.69,342996.57,296492.97,46503.6,3
+Sub-Saharan Africa,Cameroon,Personal Care,Offline,M,8771,81.73,56.67,716853.83,497052.57,219801.26,3
+Middle East and North Africa,Egypt,Beverages,Offline,H,1293,47.45,31.79,61352.85,41104.47,20248.38,3
+Middle East and North Africa,Lebanon,Beverages,Offline,C,7364,47.45,31.79,349421.8,234101.56,115320.24,3
+Australia and Oceania,Tuvalu,Personal Care,Offline,L,9961,81.73,56.67,814112.53,564489.87,249622.66,3
+Europe,Bulgaria,Clothes,Offline,L,6153,109.28,35.84,672399.84,220523.52,451876.32,3
+Europe,United Kingdom,Fruits,Offline,M,7290,9.33,6.92,68015.7,50446.8,17568.9,3
+Central America and the Caribbean,The Bahamas,Beverages,Offline,H,956,47.45,31.79,45362.2,30391.24,14970.96,3
+Sub-Saharan Africa,Madagascar,Vegetables,Offline,C,8399,154.06,90.93,1293949.94,763721.07,530228.87,3
+Europe,Romania,Personal Care,Offline,M,1935,81.73,56.67,158147.55,109656.45,48491.1,3
+Central America and the Caribbean,Saint Kitts and Nevis ,Personal Care,Offline,L,1643,81.73,56.67,134282.39,93108.81,41173.58,3
+Europe,Kosovo,Vegetables,Offline,C,6893,154.06,90.93,1061935.58,626780.49,435155.09,3
+Central America and the Caribbean,Nicaragua,Clothes,Offline,C,7707,109.28,35.84,842220.96,276218.88,566002.08,3
+Europe,Malta,Baby Food,Offline,C,3504,255.28,159.42,894501.12,558607.68,335893.44,3
+North America,Mexico,Beverages,Offline,L,8282,47.45,31.79,392980.9,263284.78,129696.12,3
+Asia,North Korea,Fruits,Offline,H,3916,9.33,6.92,36536.28,27098.72,9437.56,3
+Sub-Saharan Africa,Botswana,Clothes,Offline,H,7916,109.28,35.84,865060.48,283709.44,581351.04,3
+Central America and the Caribbean,Saint Vincent and the Grenadines,Fruits,Offline,H,4497,9.33,6.92,41957.01,31119.24,10837.77,3
+Sub-Saharan Africa,Guinea,Clothes,Offline,H,7516,109.28,35.84,821348.48,269373.44,551975.04,3
+Middle East and North Africa,Qatar,Fruits,Offline,L,3867,9.33,6.92,36079.11,26759.64,9319.47,3
+Sub-Saharan Africa,Tanzania,Snacks,Offline,L,6800,152.58,97.44,1037544.0,662592.0,374952.0,3
+Middle East and North Africa,Qatar,Vegetables,Offline,H,9611,154.06,90.93,1480670.66,873928.23,606742.43,3
+Europe,France,Fruits,Offline,C,374,9.33,6.92,3489.42,2588.08,901.34,3
+Sub-Saharan Africa,Eritrea,Personal Care,Offline,M,3617,81.73,56.67,295617.41,204975.39,90642.02,3
+Sub-Saharan Africa,Togo,Cereal,Offline,C,4754,205.7,117.11,977897.8,556740.94,421156.86,3
+Middle East and North Africa,Oman,Cereal,Offline,H,2706,205.7,117.11,556624.2,316899.66,239724.54,3
+Europe,Switzerland,Personal Care,Offline,H,2958,81.73,56.67,241757.34,167629.86,74127.48,3
+Sub-Saharan Africa,Eritrea,Cereal,Offline,M,4321,205.7,117.11,888829.7,506032.31,382797.39,3
+Asia,Indonesia,Clothes,Offline,H,9065,109.28,35.84,990623.2,324889.6,665733.6,3
+Europe,Moldova ,Personal Care,Offline,L,6605,81.73,56.67,539826.65,374305.35,165521.3,3
+Australia and Oceania,Tonga,Meat,Offline,C,229,421.89,364.69,96612.81,83514.01,13098.8,3
+Central America and the Caribbean,Grenada,Vegetables,Offline,M,8354,154.06,90.93,1287017.24,759629.22,527388.02,3
+Europe,Hungary,Personal Care,Offline,H,7785,81.73,56.67,636268.05,441175.95,195092.1,3
+Sub-Saharan Africa,Cote d'Ivoire,Baby Food,Offline,C,3116,255.28,159.42,795452.48,496752.72,298699.76,3
+Sub-Saharan Africa,Mali,Fruits,Offline,L,1106,9.33,6.92,10318.98,7653.52,2665.46,3
+Asia,North Korea,Clothes,Offline,C,1697,109.28,35.84,185448.16,60820.48,124627.68,3
+Europe,France,Personal Care,Offline,C,7954,81.73,56.67,650080.42,450753.18,199327.24,3
+Middle East and North Africa,Iran,Fruits,Offline,C,2462,9.33,6.92,22970.46,17037.04,5933.42,3
+Australia and Oceania,East Timor,Beverages,Offline,L,4,47.45,31.79,189.8,127.16,62.64,3
+Central America and the Caribbean,Dominica,Vegetables,Offline,H,7303,154.06,90.93,1125100.18,664061.79,461038.39,3
+North America,Mexico,Snacks,Offline,L,4977,152.58,97.44,759390.66,484958.88,274431.78,3
+Asia,Malaysia,Beverages,Offline,L,9313,47.45,31.79,441901.85,296060.27,145841.58,3
+Middle East and North Africa,Pakistan,Snacks,Offline,M,9726,152.58,97.44,1483993.08,947701.44,536291.64,3
+Europe,Montenegro,Beverages,Offline,C,4041,47.45,31.79,191745.45,128463.39,63282.06,3
+North America,Greenland,Cereal,Offline,H,4815,205.7,117.11,990445.5,563884.65,426560.85,3
+Sub-Saharan Africa,Niger,Vegetables,Offline,C,8942,154.06,90.93,1377604.52,813096.06,564508.46,3
+Middle East and North Africa,Pakistan,Beverages,Offline,M,2390,47.45,31.79,113405.5,75978.1,37427.4,3
+Europe,Finland,Fruits,Offline,H,54,9.33,6.92,503.82,373.68,130.14,3
+Europe,Latvia,Clothes,Offline,M,8566,109.28,35.84,936092.48,307005.44,629087.04,3
+Central America and the Caribbean,Dominican Republic,Cereal,Offline,H,2471,205.7,117.11,508284.7,289378.81,218905.89,3
+Asia,China,Clothes,Offline,C,5725,109.28,35.84,625628.0,205184.0,420444.0,3
+Sub-Saharan Africa,Malawi,Fruits,Offline,C,7898,9.33,6.92,73688.34,54654.16,19034.18,3
+Europe,Luxembourg,Personal Care,Offline,M,6765,81.73,56.67,552903.45,383372.55,169530.9,3
+Europe,Denmark,Clothes,Offline,H,4301,109.28,35.84,470013.28,154147.84,315865.44,3
+Australia and Oceania,Samoa ,Personal Care,Offline,C,3562,81.73,56.67,291122.26,201858.54,89263.72,3
+Asia,Philippines,Snacks,Offline,M,916,152.58,97.44,139763.28,89255.04,50508.24,3
+Europe,Liechtenstein,Vegetables,Offline,H,7523,154.06,90.93,1158993.38,684066.39,474926.99,3
+Asia,Thailand,Fruits,Offline,M,8474,9.33,6.92,79062.42,58640.08,20422.34,3
+Sub-Saharan Africa,Seychelles ,Vegetables,Offline,C,1613,154.06,90.93,248498.78,146670.09,101828.69,3
+Asia,Sri Lanka,Fruits,Offline,L,9071,9.33,6.92,84632.43,62771.32,21861.11,3
+Central America and the Caribbean,Dominican Republic,Clothes,Offline,L,1544,109.28,35.84,168728.32,55336.96,113391.36,3
+Sub-Saharan Africa,Central African Republic,Cereal,Offline,H,6260,205.7,117.11,1287682.0,733108.6,554573.4,3
+Europe,United Kingdom,Personal Care,Offline,H,9999,81.73,56.67,817218.27,566643.33,250574.94,3
+Asia,Myanmar,Snacks,Offline,L,8887,152.58,97.44,1355978.46,865949.28,490029.18,3
+Europe,Serbia,Beverages,Offline,H,7648,47.45,31.79,362897.6,243129.92,119767.68,3
+Europe,Cyprus,Clothes,Offline,M,7468,109.28,35.84,816103.04,267653.12,548449.92,3
+Asia,Taiwan,Beverages,Offline,C,8719,47.45,31.79,413716.55,277177.01,136539.54,3
+Central America and the Caribbean,Haiti,Clothes,Offline,H,5034,109.28,35.84,550115.52,180418.56,369696.96,3
+Sub-Saharan Africa,Democratic Republic of the Congo,Snacks,Offline,M,9749,152.58,97.44,1487502.42,949942.56,537559.86,3
+Middle East and North Africa,Syria,Vegetables,Offline,C,7337,154.06,90.93,1130338.22,667153.41,463184.81,3
+Europe,France,Fruits,Offline,C,6373,9.33,6.92,59460.09,44101.16,15358.93,3
+Europe,Latvia,Beverages,Offline,L,9014,47.45,31.79,427714.3,286555.06,141159.24,3
+North America,United States of America,Clothes,Offline,H,609,109.28,35.84,66551.52,21826.56,44724.96,3
+Asia,Vietnam,Beverages,Offline,C,5055,47.45,31.79,239859.75,160698.45,79161.3,3
+Europe,Germany,Meat,Offline,H,1151,421.89,364.69,485595.39,419758.19,65837.2,3
+Europe,Lithuania,Clothes,Offline,C,9620,109.28,35.84,1051273.6,344780.8,706492.8,3
+Sub-Saharan Africa,Nigeria,Vegetables,Offline,H,1216,154.06,90.93,187336.96,110570.88,76766.08,3
+Europe,Serbia,Snacks,Offline,C,8288,152.58,97.44,1264583.04,807582.72,457000.32,3
+Sub-Saharan Africa,Angola,Fruits,Offline,M,8910,9.33,6.92,83130.3,61657.2,21473.1,3
+Europe,Russia,Clothes,Offline,H,3685,109.28,35.84,402696.8,132070.4,270626.4,3
+Europe,Slovenia,Baby Food,Offline,M,1525,255.28,159.42,389302.0,243115.5,146186.5,3
+Australia and Oceania,Nauru,Clothes,Offline,H,509,109.28,35.84,55623.52,18242.56,37380.96,3
+Europe,Malta,Fruits,Offline,C,6349,9.33,6.92,59236.17,43935.08,15301.09,3
+Sub-Saharan Africa,Liberia,Clothes,Offline,L,114,109.28,35.84,12457.92,4085.76,8372.16,3
+Sub-Saharan Africa,Zambia,Clothes,Offline,C,153,109.28,35.84,16719.84,5483.52,11236.32,3
+Australia and Oceania,Samoa ,Vegetables,Offline,L,3797,154.06,90.93,584965.82,345261.21,239704.61,3
+Europe,Norway,Beverages,Offline,L,8944,47.45,31.79,424392.8,284329.76,140063.04,3
+Sub-Saharan Africa,Cameroon,Personal Care,Offline,L,9209,81.73,56.67,752651.57,521874.03,230777.54,3
+Sub-Saharan Africa,South Africa,Clothes,Offline,L,9492,109.28,35.84,1037285.76,340193.28,697092.48,3
+Europe,Albania,Beverages,Offline,H,2264,47.45,31.79,107426.8,71972.56,35454.24,3
+Sub-Saharan Africa,Uganda,Beverages,Offline,M,6526,47.45,31.79,309658.7,207461.54,102197.16,3
+Central America and the Caribbean,Guatemala,Personal Care,Offline,M,747,81.73,56.67,61052.31,42332.49,18719.82,3
+Sub-Saharan Africa,Djibouti,Vegetables,Offline,C,6453,154.06,90.93,994149.18,586771.29,407377.89,3
+Middle East and North Africa,Algeria,Beverages,Offline,C,9013,47.45,31.79,427666.85,286523.27,141143.58,3
+Middle East and North Africa,Somalia,Clothes,Offline,M,7212,109.28,35.84,788127.36,258478.08,529649.28,3
+Asia,North Korea,Snacks,Offline,M,2547,152.58,97.44,388621.26,248179.68,140441.58,3
+Sub-Saharan Africa,Sao Tome and Principe,Snacks,Offline,M,5423,152.58,97.44,827441.34,528417.12,299024.22,3
+Middle East and North Africa,United Arab Emirates,Cosmetics,Offline,L,860,437.2,263.33,375992.0,226463.8,149528.2,3
+Sub-Saharan Africa,Guinea,Fruits,Offline,C,5279,9.33,6.92,49253.07,36530.68,12722.39,3
+Europe,Portugal,Cosmetics,Offline,C,263,437.2,263.33,114983.6,69255.79,45727.81,3
+Sub-Saharan Africa,Mali,Personal Care,Offline,M,9494,81.73,56.67,775944.62,538024.98,237919.64,3
+Europe,Armenia,Snacks,Offline,L,1747,152.58,97.44,266557.26,170227.68,96329.58,3
+Asia,North Korea,Fruits,Offline,H,6613,9.33,6.92,61699.29,45761.96,15937.33,3
+Sub-Saharan Africa,Cameroon,Personal Care,Offline,C,1617,81.73,56.67,132157.41,91635.39,40522.02,3
+Asia,Kyrgyzstan,Beverages,Offline,L,5928,47.45,31.79,281283.6,188451.12,92832.48,3
+Sub-Saharan Africa,Benin,Vegetables,Offline,C,9703,154.06,90.93,1494844.18,882293.79,612550.39,3
+Middle East and North Africa,Pakistan,Personal Care,Offline,C,5554,81.73,56.67,453928.42,314745.18,139183.24,3
+Australia and Oceania,Tuvalu,Baby Food,Offline,C,3018,255.28,159.42,770435.04,481129.56,289305.48,3
+Central America and the Caribbean,Grenada,Snacks,Offline,C,8660,152.58,97.44,1321342.8,843830.4,477512.4,3
+Middle East and North Africa,Syria,Snacks,Offline,C,808,152.58,97.44,123284.64,78731.52,44553.12,3
+Europe,San Marino,Fruits,Offline,L,6662,9.33,6.92,62156.46,46101.04,16055.42,3
+Asia,North Korea,Clothes,Offline,C,7128,109.28,35.84,778947.84,255467.52,523480.32,3
+Europe,Georgia,Personal Care,Offline,L,2129,81.73,56.67,174003.17,120650.43,53352.74,3
+Asia,Cambodia,Beverages,Offline,L,6285,47.45,31.79,298223.25,199800.15,98423.1,3
+Europe,Macedonia,Beverages,Offline,M,4695,47.45,31.79,222777.75,149254.05,73523.7,3
+Central America and the Caribbean,Grenada,Personal Care,Offline,H,8148,81.73,56.67,665936.04,461747.16,204188.88,3
+Sub-Saharan Africa,Senegal,Baby Food,Offline,C,1563,255.28,159.42,399002.64,249173.46,149829.18,3
+Europe,San Marino,Cosmetics,Offline,C,334,437.2,263.33,146024.8,87952.22,58072.58,3
+Europe,Estonia,Vegetables,Offline,L,6481,154.06,90.93,998462.86,589317.33,409145.53,3
+Europe,United Kingdom,Personal Care,Offline,L,4509,81.73,56.67,368520.57,255525.03,112995.54,3
+Middle East and North Africa,Saudi Arabia,Vegetables,Offline,H,3497,154.06,90.93,538747.82,317982.21,220765.61,3
+Asia,Indonesia,Vegetables,Offline,H,7860,154.06,90.93,1210911.6,714709.8,496201.8,3
+Middle East and North Africa,Oman,Beverages,Offline,M,7323,47.45,31.79,347476.35,232798.17,114678.18,3
+Sub-Saharan Africa,Comoros,Beverages,Offline,H,4511,47.45,31.79,214046.95,143404.69,70642.26,3
+Middle East and North Africa,Oman,Beverages,Offline,C,9117,47.45,31.79,432601.65,289829.43,142772.22,3
+Middle East and North Africa,Egypt,Cereal,Offline,M,4833,205.7,117.11,994148.1,565992.63,428155.47,3
+Australia and Oceania,Samoa ,Clothes,Offline,M,1235,109.28,35.84,134960.8,44262.4,90698.4,3
+Sub-Saharan Africa,Seychelles ,Beverages,Offline,M,9080,47.45,31.79,430846.0,288653.2,142192.8,3
+Australia and Oceania,Australia,Vegetables,Offline,H,917,154.06,90.93,141273.02,83382.81,57890.21,3
+Europe,Serbia,Baby Food,Offline,L,4780,255.28,159.42,1220238.4,762027.6,458210.8,3
+Sub-Saharan Africa,South Africa,Snacks,Offline,H,1805,152.58,97.44,275406.9,175879.2,99527.7,3
+Australia and Oceania,Marshall Islands,Fruits,Offline,L,3995,9.33,6.92,37273.35,27645.4,9627.95,3
+Asia,Cambodia,Vegetables,Offline,M,6368,154.06,90.93,981054.08,579042.24,402011.84,3
+Europe,Switzerland,Fruits,Offline,L,3118,9.33,6.92,29090.94,21576.56,7514.38,3
+Middle East and North Africa,Israel,Fruits,Offline,M,3339,9.33,6.92,31152.87,23105.88,8046.99,3
+Europe,Vatican City,Beverages,Offline,H,1465,47.45,31.79,69514.25,46572.35,22941.9,3
+Sub-Saharan Africa,Sierra Leone,Cereal,Offline,M,4342,205.7,117.11,893149.4,508491.62,384657.78,3
+Asia,Uzbekistan,Baby Food,Offline,M,5408,255.28,159.42,1380554.24,862143.36,518410.88,3
+Australia and Oceania,Marshall Islands,Beverages,Offline,L,9260,47.45,31.79,439387.0,294375.4,145011.6,3
+Central America and the Caribbean,Costa Rica,Fruits,Offline,H,8758,9.33,6.92,81712.14,60605.36,21106.78,3
+Central America and the Caribbean,Honduras,Baby Food,Offline,L,1795,255.28,159.42,458227.6,286158.9,172068.7,3
+Central America and the Caribbean,Panama,Personal Care,Offline,M,1817,81.73,56.67,148503.41,102969.39,45534.02,3
+Europe,Poland,Beverages,Offline,H,3574,47.45,31.79,169586.3,113617.46,55968.84,3
+Europe,San Marino,Vegetables,Offline,L,5310,154.06,90.93,818058.6,482838.3,335220.3,3
+Australia and Oceania,Nauru,Baby Food,Offline,C,4157,255.28,159.42,1061198.96,662708.94,398490.02,3
+Europe,Netherlands,Personal Care,Offline,C,1173,81.73,56.67,95869.29,66473.91,29395.38,3
+Sub-Saharan Africa,Gabon,Personal Care,Offline,C,440,81.73,56.67,35961.2,24934.8,11026.4,3
+Europe,Switzerland,Baby Food,Offline,C,4429,255.28,159.42,1130635.12,706071.18,424563.94,3
+Sub-Saharan Africa,Chad,Beverages,Offline,C,306,47.45,31.79,14519.7,9727.74,4791.96,3
+Central America and the Caribbean,Costa Rica,Vegetables,Offline,C,7796,154.06,90.93,1201051.76,708890.28,492161.48,3
+Europe,Estonia,Clothes,Offline,C,123,109.28,35.84,13441.44,4408.32,9033.12,3
+Europe,Ukraine,Cereal,Offline,C,2771,205.7,117.11,569994.7,324511.81,245482.89,3
+Europe,San Marino,Snacks,Offline,C,2099,152.58,97.44,320265.42,204526.56,115738.86,3
+Asia,Nepal,Vegetables,Offline,L,3322,154.06,90.93,511787.32,302069.46,209717.86,3
+Sub-Saharan Africa,South Sudan,Baby Food,Offline,M,3229,255.28,159.42,824299.12,514767.18,309531.94,3
+Europe,Bosnia and Herzegovina,Snacks,Offline,L,785,152.58,97.44,119775.3,76490.4,43284.9,3
+Australia and Oceania,Tuvalu,Beverages,Offline,M,1524,47.45,31.79,72313.8,48447.96,23865.84,3
+Middle East and North Africa,Bahrain,Vegetables,Offline,M,5682,154.06,90.93,875368.92,516664.26,358704.66,3
+Central America and the Caribbean,Costa Rica,Baby Food,Offline,L,347,255.28,159.42,88582.16,55318.74,33263.42,3
+Europe,Belgium,Clothes,Offline,M,8181,109.28,35.84,894019.68,293207.04,600812.64,3
+Europe,Serbia,Vegetables,Offline,M,7454,154.06,90.93,1148363.24,677792.22,470571.02,3
+Sub-Saharan Africa,Gabon,Meat,Offline,H,38,421.89,364.69,16031.82,13858.22,2173.6,3
+Asia,Tajikistan,Fruits,Offline,C,7221,9.33,6.92,67371.93,49969.32,17402.61,3
+Europe,Macedonia,Snacks,Offline,M,5639,152.58,97.44,860398.62,549464.16,310934.46,3
+Middle East and North Africa,Kuwait,Fruits,Offline,L,1986,9.33,6.92,18529.38,13743.12,4786.26,3
+Sub-Saharan Africa,Namibia,Fruits,Offline,H,8368,9.33,6.92,78073.44,57906.56,20166.88,3
+Europe,Andorra,Fruits,Offline,L,5258,9.33,6.92,49057.14,36385.36,12671.78,3
+Australia and Oceania,Nauru,Beverages,Offline,H,2616,47.45,31.79,124129.2,83162.64,40966.56,3
+Australia and Oceania,Tonga,Cereal,Offline,M,6104,205.7,117.11,1255592.8,714839.44,540753.36,3
+Middle East and North Africa,Somalia,Baby Food,Offline,C,2672,255.28,159.42,682108.16,425970.24,256137.92,3
+Sub-Saharan Africa,Swaziland,Clothes,Offline,L,5566,109.28,35.84,608252.48,199485.44,408767.04,3
+Asia,Maldives,Beverages,Offline,M,6333,47.45,31.79,300500.85,201326.07,99174.78,3
+Asia,Bhutan,Snacks,Offline,M,8762,152.58,97.44,1336905.96,853769.28,483136.68,3
+Asia,Laos,Personal Care,Offline,C,6430,81.73,56.67,525523.9,364388.1,161135.8,3
+Sub-Saharan Africa,Cote d'Ivoire,Fruits,Offline,M,4752,9.33,6.92,44336.16,32883.84,11452.32,3
+Sub-Saharan Africa,Uganda,Beverages,Offline,H,8675,47.45,31.79,411628.75,275778.25,135850.5,3
+Central America and the Caribbean,Dominican Republic,Personal Care,Offline,L,8132,81.73,56.67,664628.36,460840.44,203787.92,3
+Middle East and North Africa,Iran,Clothes,Offline,L,1778,109.28,35.84,194299.84,63723.52,130576.32,3
+Sub-Saharan Africa,Burundi,Fruits,Offline,L,9975,9.33,6.92,93066.75,69027.0,24039.75,3
+Middle East and North Africa,Pakistan,Personal Care,Offline,H,5583,81.73,56.67,456298.59,316388.61,139909.98,3
+Sub-Saharan Africa,Swaziland,Fruits,Offline,H,5872,9.33,6.92,54785.76,40634.24,14151.52,3
+Central America and the Caribbean,Barbados,Beverages,Offline,C,4459,47.45,31.79,211579.55,141751.61,69827.94,3
+Europe,Italy,Baby Food,Offline,C,4377,255.28,159.42,1117360.56,697781.34,419579.22,3
+Europe,Estonia,Fruits,Offline,L,9616,9.33,6.92,89717.28,66542.72,23174.56,3
+Australia and Oceania,East Timor,Fruits,Offline,M,765,9.33,6.92,7137.45,5293.8,1843.65,3
+Europe,Norway,Fruits,Offline,M,3229,9.33,6.92,30126.57,22344.68,7781.89,3
+Australia and Oceania,Marshall Islands,Personal Care,Offline,M,26,81.73,56.67,2124.98,1473.42,651.56,3
+Europe,Latvia,Personal Care,Offline,C,8732,81.73,56.67,713666.36,494842.44,218823.92,3
+Asia,South Korea,Baby Food,Offline,L,5187,255.28,159.42,1324137.36,826911.54,497225.82,3
+Europe,Austria,Snacks,Offline,M,6873,152.58,97.44,1048682.34,669705.12,378977.22,3
+Sub-Saharan Africa,Cameroon,Vegetables,Offline,M,478,154.06,90.93,73640.68,43464.54,30176.14,3
+Sub-Saharan Africa,Senegal,Vegetables,Offline,L,6535,154.06,90.93,1006782.1,594227.55,412554.55,3
+Middle East and North Africa,Tunisia ,Vegetables,Offline,M,1000,154.06,90.93,154060.0,90930.0,63130.0,3
+Sub-Saharan Africa,Central African Republic,Personal Care,Offline,H,4714,81.73,56.67,385275.22,267142.38,118132.84,3
+Europe,Slovenia,Clothes,Offline,L,8750,109.28,35.84,956200.0,313600.0,642600.0,3
+Australia and Oceania,East Timor,Beverages,Offline,L,2223,47.45,31.79,105481.35,70669.17,34812.18,3
+North America,United States of America,Beverages,Offline,M,3945,47.45,31.79,187190.25,125411.55,61778.7,3
+Europe,Italy,Beverages,Offline,H,5192,47.45,31.79,246360.4,165053.68,81306.72,3
+Europe,Greece,Beverages,Offline,H,7990,47.45,31.79,379125.5,254002.1,125123.4,3
+Sub-Saharan Africa,Guinea-Bissau,Fruits,Offline,C,9006,9.33,6.92,84025.98,62321.52,21704.46,3
+Middle East and North Africa,Somalia,Cereal,Offline,M,3362,205.7,117.11,691563.4,393723.82,297839.58,3
+Central America and the Caribbean,Antigua and Barbuda ,Clothes,Offline,H,6154,109.28,35.84,672509.12,220559.36,451949.76,3
+Australia and Oceania,Federated States of Micronesia,Fruits,Offline,C,8506,9.33,6.92,79360.98,58861.52,20499.46,3
+Sub-Saharan Africa,The Gambia,Snacks,Offline,H,146,152.58,97.44,22276.68,14226.24,8050.44,3
+Europe,Hungary,Clothes,Offline,C,8098,109.28,35.84,884949.44,290232.32,594717.12,3
+Europe,Germany,Beverages,Offline,L,956,47.45,31.79,45362.2,30391.24,14970.96,3
+Middle East and North Africa,United Arab Emirates,Fruits,Offline,C,1462,9.33,6.92,13640.46,10117.04,3523.42,3
+Middle East and North Africa,Iran,Fruits,Offline,L,538,9.33,6.92,5019.54,3722.96,1296.58,3
+Central America and the Caribbean,Jamaica,Snacks,Offline,L,8574,152.58,97.44,1308220.92,835450.56,472770.36,3
+Europe,Kosovo,Cereal,Offline,H,3346,205.7,117.11,688272.2,391850.06,296422.14,3
+Central America and the Caribbean,Saint Vincent and the Grenadines,Fruits,Offline,C,7054,9.33,6.92,65813.82,48813.68,17000.14,3
+Asia,Kazakhstan,Vegetables,Offline,M,6329,154.06,90.93,975045.74,575495.97,399549.77,3
+Europe,Germany,Vegetables,Offline,C,5579,154.06,90.93,859500.74,507298.47,352202.27,3
+Europe,Armenia,Cereal,Offline,H,5046,205.7,117.11,1037962.2,590937.06,447025.14,3
+Australia and Oceania,Palau,Snacks,Offline,M,3782,152.58,97.44,577057.56,368518.08,208539.48,3
+Middle East and North Africa,Saudi Arabia,Snacks,Offline,M,6591,152.58,97.44,1005654.78,642227.04,363427.74,3
+Middle East and North Africa,Azerbaijan,Vegetables,Offline,M,8932,154.06,90.93,1376063.92,812186.76,563877.16,3
+Asia,Myanmar,Vegetables,Offline,C,7837,154.06,90.93,1207368.22,712618.41,494749.81,3
+Sub-Saharan Africa,Mozambique,Personal Care,Offline,M,5816,81.73,56.67,475341.68,329592.72,145748.96,3
+Asia,Brunei,Baby Food,Offline,C,73,255.28,159.42,18635.44,11637.66,6997.78,3
+Europe,Sweden,Fruits,Offline,L,5306,9.33,6.92,49504.98,36717.52,12787.46,3
+Asia,Taiwan,Vegetables,Offline,M,8843,154.06,90.93,1362352.58,804093.99,558258.59,3
+Sub-Saharan Africa,Zimbabwe,Baby Food,Offline,H,969,255.28,159.42,247366.32,154477.98,92888.34,3
+Europe,Germany,Cereal,Offline,M,3867,205.7,117.11,795441.9,452864.37,342577.53,3
+Australia and Oceania,Solomon Islands,Clothes,Offline,M,7500,109.28,35.84,819600.0,268800.0,550800.0,3
+Europe,Slovenia,Personal Care,Offline,L,3119,81.73,56.67,254915.87,176753.73,78162.14,3
+Europe,Andorra,Baby Food,Offline,C,1085,255.28,159.42,276978.8,172970.7,104008.1,3
+Europe,Vatican City,Snacks,Offline,L,2013,152.58,97.44,307143.54,196146.72,110996.82,3
+Sub-Saharan Africa,Zimbabwe,Beverages,Offline,L,3567,47.45,31.79,169254.15,113394.93,55859.22,3
+Middle East and North Africa,Oman,Personal Care,Offline,L,4459,81.73,56.67,364434.07,252691.53,111742.54,3
+Central America and the Caribbean,Nicaragua,Cereal,Offline,M,2489,205.7,117.11,511987.3,291486.79,220500.51,3
+Middle East and North Africa,Kuwait,Snacks,Offline,C,4223,152.58,97.44,644345.34,411489.12,232856.22,3
+Asia,Bangladesh,Beverages,Offline,M,3145,47.45,31.79,149230.25,99979.55,49250.7,3
+Middle East and North Africa,Syria,Vegetables,Offline,C,6299,154.06,90.93,970423.94,572768.07,397655.87,3
+Sub-Saharan Africa,Benin,Vegetables,Offline,M,2926,154.06,90.93,450779.56,266061.18,184718.38,3
+Central America and the Caribbean,Dominican Republic,Snacks,Offline,C,9418,152.58,97.44,1436998.44,917689.92,519308.52,3
+Sub-Saharan Africa,Cote d'Ivoire,Vegetables,Offline,C,5371,154.06,90.93,827456.26,488385.03,339071.23,3
+Asia,India,Personal Care,Offline,H,6779,81.73,56.67,554047.67,384165.93,169881.74,3
+Europe,Norway,Snacks,Offline,M,8738,152.58,97.44,1333244.04,851430.72,481813.32,3
+North America,Greenland,Snacks,Offline,H,7707,152.58,97.44,1175934.06,750970.08,424963.98,3
+Central America and the Caribbean,The Bahamas,Vegetables,Offline,H,7839,154.06,90.93,1207676.34,712800.27,494876.07,3
+Europe,Slovenia,Clothes,Offline,C,9566,109.28,35.84,1045372.48,342845.44,702527.04,3
+Middle East and North Africa,Lebanon,Beverages,Offline,L,1585,47.45,31.79,75208.25,50387.15,24821.1,3
+Australia and Oceania,Papua New Guinea,Vegetables,Offline,H,7609,154.06,90.93,1172242.54,691886.37,480356.17,3
+Central America and the Caribbean,Cuba,Meat,Offline,C,113,421.89,364.69,47673.57,41209.97,6463.6,3
+Europe,France,Personal Care,Offline,C,9808,81.73,56.67,801607.84,555819.36,245788.48,3
+Asia,Malaysia,Fruits,Offline,L,7247,9.33,6.92,67614.51,50149.24,17465.27,3
+Central America and the Caribbean,Saint Kitts and Nevis ,Cereal,Offline,H,3378,205.7,117.11,694854.6,395597.58,299257.02,3
+Asia,Tajikistan,Beverages,Offline,C,7681,47.45,31.79,364463.45,244178.99,120284.46,3
+Sub-Saharan Africa,Burundi,Baby Food,Offline,M,3817,255.28,159.42,974403.76,608506.14,365897.62,3
+Sub-Saharan Africa,Botswana,Vegetables,Offline,C,7001,154.06,90.93,1078574.06,636600.93,441973.13,3
+Sub-Saharan Africa,Liberia,Personal Care,Offline,H,776,81.73,56.67,63422.48,43975.92,19446.56,3
+Australia and Oceania,Papua New Guinea,Snacks,Offline,L,2250,152.58,97.44,343305.0,219240.0,124065.0,3
+Sub-Saharan Africa,Togo,Beverages,Offline,M,3372,47.45,31.79,160001.4,107195.88,52805.52,3
+Australia and Oceania,Samoa ,Beverages,Offline,C,3319,47.45,31.79,157486.55,105511.01,51975.54,3
+Sub-Saharan Africa,Eritrea,Baby Food,Offline,C,1847,255.28,159.42,471502.16,294448.74,177053.42,3
+Sub-Saharan Africa,Guinea,Vegetables,Offline,H,4116,154.06,90.93,634110.96,374267.88,259843.08,3
+Australia and Oceania,Vanuatu,Fruits,Offline,H,2318,9.33,6.92,21626.94,16040.56,5586.38,3
+Europe,Andorra,Clothes,Offline,L,677,109.28,35.84,73982.56,24263.68,49718.88,3
+Sub-Saharan Africa,Niger,Cosmetics,Offline,H,448,437.2,263.33,195865.6,117971.84,77893.76,3
+Sub-Saharan Africa,Swaziland,Vegetables,Offline,H,1249,154.06,90.93,192420.94,113571.57,78849.37,3
+Middle East and North Africa,Morocco,Beverages,Offline,L,4842,47.45,31.79,229752.9,153927.18,75825.72,3
+Europe,Georgia,Personal Care,Offline,L,4934,81.73,56.67,403255.82,279609.78,123646.04,3
+Europe,Armenia,Meat,Offline,C,342,421.89,364.69,144286.38,124723.98,19562.4,3
+Sub-Saharan Africa,Angola,Vegetables,Offline,H,3291,154.06,90.93,507011.46,299250.63,207760.83,3
+Asia,Tajikistan,Cereal,Offline,H,5910,205.7,117.11,1215687.0,692120.1,523566.9,3
+North America,United States of America,Personal Care,Offline,H,1943,81.73,56.67,158801.39,110109.81,48691.58,3
+Sub-Saharan Africa,Madagascar,Snacks,Offline,H,8280,152.58,97.44,1263362.4,806803.2,456559.2,3
+Middle East and North Africa,Oman,Personal Care,Offline,M,369,81.73,56.67,30158.37,20911.23,9247.14,3
+Asia,Singapore,Baby Food,Offline,C,2428,255.28,159.42,619819.84,387071.76,232748.08,3
+Sub-Saharan Africa,Tanzania,Cereal,Offline,H,3076,205.7,117.11,632733.2,360230.36,272502.84,3
+Australia and Oceania,Papua New Guinea,Clothes,Offline,C,4067,109.28,35.84,444441.76,145761.28,298680.48,3
+Central America and the Caribbean,Saint Lucia,Fruits,Offline,M,9083,9.33,6.92,84744.39,62854.36,21890.03,3
+Europe,Serbia,Vegetables,Offline,C,1657,154.06,90.93,255277.42,150671.01,104606.41,3
+Sub-Saharan Africa,Niger,Clothes,Offline,H,4834,109.28,35.84,528259.52,173250.56,355008.96,3
+Sub-Saharan Africa,Swaziland,Fruits,Offline,M,7974,9.33,6.92,74397.42,55180.08,19217.34,3
+Middle East and North Africa,Lebanon,Beverages,Offline,H,6521,47.45,31.79,309421.45,207302.59,102118.86,3
+Middle East and North Africa,Azerbaijan,Fruits,Offline,C,6885,9.33,6.92,64237.05,47644.2,16592.85,3
+Australia and Oceania,East Timor,Beverages,Offline,M,867,47.45,31.79,41139.15,27561.93,13577.22,3
+Europe,San Marino,Vegetables,Offline,L,1485,154.06,90.93,228779.1,135031.05,93748.05,3
+Asia,India,Fruits,Offline,H,3650,9.33,6.92,34054.5,25258.0,8796.5,3
+Asia,Cambodia,Personal Care,Offline,L,8062,81.73,56.67,658907.26,456873.54,202033.72,3
+Europe,Portugal,Cereal,Offline,H,2093,205.7,117.11,430530.1,245111.23,185418.87,3
+Sub-Saharan Africa,Botswana,Fruits,Offline,M,6630,9.33,6.92,61857.9,45879.6,15978.3,3
+Central America and the Caribbean,Dominican Republic,Meat,Offline,H,729,421.89,364.69,307557.81,265859.01,41698.8,3
+Central America and the Caribbean,Costa Rica,Baby Food,Offline,H,3982,255.28,159.42,1016524.96,634810.44,381714.52,3
+Australia and Oceania,Palau,Personal Care,Offline,H,3081,81.73,56.67,251810.13,174600.27,77209.86,3
+Sub-Saharan Africa,Guinea,Vegetables,Offline,C,1459,154.06,90.93,224773.54,132666.87,92106.67,3
+Asia,Cambodia,Beverages,Offline,L,8770,47.45,31.79,416136.5,278798.3,137338.2,3
+Europe,Ukraine,Beverages,Offline,L,7271,47.45,31.79,345008.95,231145.09,113863.86,3
+Australia and Oceania,Papua New Guinea,Beverages,Offline,L,4398,47.45,31.79,208685.1,139812.42,68872.68,3
+Asia,Japan,Fruits,Offline,C,306,9.33,6.92,2854.98,2117.52,737.46,3
+Sub-Saharan Africa,Malawi,Personal Care,Offline,C,3436,81.73,56.67,280824.28,194718.12,86106.16,3
+Europe,Ireland,Personal Care,Offline,L,1053,81.73,56.67,86061.69,59673.51,26388.18,3
+Europe,Russia,Beverages,Offline,M,2598,47.45,31.79,123275.1,82590.42,40684.68,3
+Sub-Saharan Africa,Guinea-Bissau,Clothes,Offline,C,6638,109.28,35.84,725400.64,237905.92,487494.72,3
+Middle East and North Africa,Libya,Beverages,Offline,H,5030,47.45,31.79,238673.5,159903.7,78769.8,3
+Europe,Ukraine,Baby Food,Offline,L,1161,255.28,159.42,296380.08,185086.62,111293.46,3
+Sub-Saharan Africa,Guinea,Beverages,Offline,C,2269,47.45,31.79,107664.05,72131.51,35532.54,3
+Middle East and North Africa,Tunisia ,Cereal,Offline,C,2793,205.7,117.11,574520.1,327088.23,247431.87,3
+Middle East and North Africa,Somalia,Personal Care,Offline,L,7743,81.73,56.67,632835.39,438795.81,194039.58,3
+Asia,Malaysia,Vegetables,Offline,H,8740,154.06,90.93,1346484.4,794728.2,551756.2,3
+Central America and the Caribbean,Cuba,Cereal,Offline,M,2514,205.7,117.11,517129.8,294414.54,222715.26,3
+Australia and Oceania,Fiji,Vegetables,Offline,H,4729,154.06,90.93,728549.74,430007.97,298541.77,3
+Australia and Oceania,Marshall Islands,Beverages,Offline,M,7158,47.45,31.79,339647.1,227552.82,112094.28,3
+Asia,Philippines,Beverages,Offline,L,8773,47.45,31.79,416278.85,278893.67,137385.18,3
+Europe,Luxembourg,Personal Care,Offline,H,3376,81.73,56.67,275920.48,191317.92,84602.56,3
+Middle East and North Africa,Pakistan,Beverages,Offline,C,7454,47.45,31.79,353692.3,236962.66,116729.64,3
+Asia,Bhutan,Beverages,Offline,H,6128,47.45,31.79,290773.6,194809.12,95964.48,3
+Europe,Czech Republic,Cereal,Offline,C,905,205.7,117.11,186158.5,105984.55,80173.95,3
+Middle East and North Africa,Yemen,Personal Care,Offline,M,9044,81.73,56.67,739166.12,512523.48,226642.64,3
+Europe,Italy,Baby Food,Offline,L,4755,255.28,159.42,1213856.4,758042.1,455814.3,3
+Sub-Saharan Africa,Cape Verde,Vegetables,Offline,M,5851,154.06,90.93,901405.06,532031.43,369373.63,3
+Middle East and North Africa,Libya,Cereal,Offline,H,6179,205.7,117.11,1271020.3,723622.69,547397.61,3
+Sub-Saharan Africa,Republic of the Congo,Clothes,Offline,C,5905,109.28,35.84,645298.4,211635.2,433663.2,3
+Central America and the Caribbean,Saint Kitts and Nevis ,Snacks,Offline,H,7906,152.58,97.44,1206297.48,770360.64,435936.84,3
+Middle East and North Africa,Israel,Fruits,Offline,C,3705,9.33,6.92,34567.65,25638.6,8929.05,3
+Sub-Saharan Africa,Senegal,Baby Food,Offline,M,4031,255.28,159.42,1029033.68,642622.02,386411.66,3
+Europe,Switzerland,Cereal,Offline,M,4565,205.7,117.11,939020.5,534607.15,404413.35,3
+Asia,Maldives,Clothes,Offline,C,9768,109.28,35.84,1067447.04,350085.12,717361.92,3
+Asia,China,Beverages,Offline,C,2899,47.45,31.79,137557.55,92159.21,45398.34,3
+Central America and the Caribbean,Saint Kitts and Nevis ,Beverages,Offline,L,9648,47.45,31.79,457797.6,306709.92,151087.68,3
+Central America and the Caribbean,Costa Rica,Clothes,Offline,H,7047,109.28,35.84,770096.16,252564.48,517531.68,3
+North America,Greenland,Personal Care,Offline,L,3050,81.73,56.67,249276.5,172843.5,76433.0,3
+Central America and the Caribbean,Antigua and Barbuda ,Personal Care,Offline,H,5387,81.73,56.67,440279.51,305281.29,134998.22,3
+Europe,Spain,Snacks,Offline,M,4844,152.58,97.44,739097.52,471999.36,267098.16,3
+Australia and Oceania,Samoa ,Baby Food,Offline,L,1897,255.28,159.42,484266.16,302419.74,181846.42,3
+Sub-Saharan Africa,South Sudan,Baby Food,Offline,C,2486,255.28,159.42,634626.08,396318.12,238307.96,3
+Asia,Cambodia,Vegetables,Offline,L,9438,154.06,90.93,1454018.28,858197.34,595820.94,3
+Central America and the Caribbean,Barbados,Cereal,Offline,C,3123,205.7,117.11,642401.1,365734.53,276666.57,3
+Europe,Latvia,Fruits,Offline,H,5792,9.33,6.92,54039.36,40080.64,13958.72,3
+Europe,Bosnia and Herzegovina,Snacks,Offline,C,2203,152.58,97.44,336133.74,214660.32,121473.42,3
+Europe,Vatican City,Vegetables,Offline,L,1340,154.06,90.93,206440.4,121846.2,84594.2,3
+Europe,Portugal,Baby Food,Offline,M,1303,255.28,159.42,332629.84,207724.26,124905.58,3
+Middle East and North Africa,United Arab Emirates,Fruits,Offline,H,441,9.33,6.92,4114.53,3051.72,1062.81,3
+Asia,Turkmenistan,Fruits,Offline,C,1729,9.33,6.92,16131.57,11964.68,4166.89,3
+Central America and the Caribbean,Dominican Republic,Beverages,Offline,H,1148,47.45,31.79,54472.6,36494.92,17977.68,3
+Asia,Vietnam,Fruits,Offline,L,3921,9.33,6.92,36582.93,27133.32,9449.61,3
+Europe,Estonia,Cereal,Offline,H,6641,205.7,117.11,1366053.7,777727.51,588326.19,3
+Europe,Vatican City,Beverages,Offline,L,4924,47.45,31.79,233643.8,156533.96,77109.84,3
+Europe,Russia,Snacks,Offline,H,5598,152.58,97.44,854142.84,545469.12,308673.72,3
+Sub-Saharan Africa,Djibouti,Snacks,Offline,C,3035,152.58,97.44,463080.3,295730.4,167349.9,3
+Middle East and North Africa,Syria,Fruits,Offline,L,8175,9.33,6.92,76272.75,56571.0,19701.75,3
+Asia,Vietnam,Clothes,Offline,L,8126,109.28,35.84,888009.28,291235.84,596773.44,3
+Europe,Montenegro,Baby Food,Offline,C,616,255.28,159.42,157252.48,98202.72,59049.76,3
+Central America and the Caribbean,Belize,Clothes,Offline,M,2170,109.28,35.84,237137.6,77772.8,159364.8,3
+Europe,Montenegro,Personal Care,Offline,C,9625,81.73,56.67,786651.25,545448.75,241202.5,3
+Middle East and North Africa,Oman,Cereal,Offline,H,4401,205.7,117.11,905285.7,515401.11,389884.59,3
+Sub-Saharan Africa,Cote d'Ivoire,Personal Care,Offline,M,1168,81.73,56.67,95460.64,66190.56,29270.08,3
+Europe,Macedonia,Beverages,Offline,M,9340,47.45,31.79,443183.0,296918.6,146264.4,3
+Asia,Tajikistan,Meat,Offline,C,403,421.89,364.69,170021.67,146970.07,23051.6,3
+Asia,Bhutan,Cereal,Offline,M,2356,205.7,117.11,484629.2,275911.16,208718.04,3
+Asia,Maldives,Personal Care,Offline,M,1557,81.73,56.67,127253.61,88235.19,39018.42,3
+Sub-Saharan Africa,Burundi,Vegetables,Offline,H,8114,154.06,90.93,1250042.84,737806.02,512236.82,3
+Sub-Saharan Africa,Togo,Fruits,Offline,M,3231,9.33,6.92,30145.23,22358.52,7786.71,3
+Middle East and North Africa,Yemen,Baby Food,Offline,C,1200,255.28,159.42,306336.0,191304.0,115032.0,3
+Europe,Hungary,Fruits,Offline,C,5193,9.33,6.92,48450.69,35935.56,12515.13,3
+Sub-Saharan Africa,Gabon,Beverages,Offline,H,4618,47.45,31.79,219124.1,146806.22,72317.88,3
+Central America and the Caribbean,Saint Lucia,Personal Care,Offline,C,7990,81.73,56.67,653022.7,452793.3,200229.4,3
+Europe,Andorra,Beverages,Offline,L,9107,47.45,31.79,432127.15,289511.53,142615.62,3
+Middle East and North Africa,Oman,Beverages,Offline,H,2257,47.45,31.79,107094.65,71750.03,35344.62,3
+Europe,Croatia,Baby Food,Offline,C,1539,255.28,159.42,392875.92,245347.38,147528.54,3
+Sub-Saharan Africa,Ghana,Vegetables,Offline,C,2568,154.06,90.93,395626.08,233508.24,162117.84,3
+Europe,Vatican City,Fruits,Offline,H,6813,9.33,6.92,63565.29,47145.96,16419.33,3
+Middle East and North Africa,Qatar,Baby Food,Offline,M,1011,255.28,159.42,258088.08,161173.62,96914.46,3
+Europe,Netherlands,Beverages,Offline,M,7939,47.45,31.79,376705.55,252380.81,124324.74,3
+Middle East and North Africa,Kuwait,Vegetables,Offline,L,7682,154.06,90.93,1183488.92,698524.26,484964.66,3
+Sub-Saharan Africa,Zambia,Personal Care,Offline,M,8406,81.73,56.67,687022.38,476368.02,210654.36,3
+Sub-Saharan Africa,Niger,Fruits,Offline,M,5594,9.33,6.92,52192.02,38710.48,13481.54,3
+Europe,Bulgaria,Vegetables,Offline,C,7459,154.06,90.93,1149133.54,678246.87,470886.67,3
+Sub-Saharan Africa,Rwanda,Baby Food,Offline,M,4146,255.28,159.42,1058390.88,660955.32,397435.56,3
+Central America and the Caribbean,Nicaragua,Snacks,Offline,L,3569,152.58,97.44,544558.02,347763.36,196794.66,3
+Sub-Saharan Africa,Namibia,Fruits,Offline,L,3108,9.33,6.92,28997.64,21507.36,7490.28,3
+Europe,Ireland,Personal Care,Offline,M,3112,81.73,56.67,254343.76,176357.04,77986.72,3
+Europe,Portugal,Beverages,Offline,L,1603,47.45,31.79,76062.35,50959.37,25102.98,3
+Sub-Saharan Africa,Tanzania,Snacks,Offline,L,6871,152.58,97.44,1048377.18,669510.24,378866.94,3
+Europe,France,Clothes,Offline,M,3267,109.28,35.84,357017.76,117089.28,239928.48,3
+Europe,Belarus,Clothes,Offline,C,6266,109.28,35.84,684748.48,224573.44,460175.04,3
+Central America and the Caribbean,El Salvador,Snacks,Offline,M,5082,152.58,97.44,775411.56,495190.08,280221.48,3
+Sub-Saharan Africa,Tanzania,Clothes,Offline,L,8471,109.28,35.84,925710.88,303600.64,622110.24,3
+Europe,Poland,Vegetables,Offline,H,5090,154.06,90.93,784165.4,462833.7,321331.7,3
+Europe,Armenia,Snacks,Offline,M,3979,152.58,97.44,607115.82,387713.76,219402.06,3
+Europe,Albania,Cosmetics,Offline,L,1224,437.2,263.33,535132.8,322315.92,212816.88,3
+Asia,Singapore,Personal Care,Offline,M,6217,81.73,56.67,508115.41,352317.39,155798.02,3
+Sub-Saharan Africa,Djibouti,Snacks,Offline,M,4026,152.58,97.44,614287.08,392293.44,221993.64,3
+Middle East and North Africa,Israel,Personal Care,Offline,H,7011,81.73,56.67,573009.03,397313.37,175695.66,3
+Asia,Tajikistan,Personal Care,Offline,M,8129,81.73,56.67,664383.17,460670.43,203712.74,3
+Europe,Belgium,Cereal,Offline,H,6728,205.7,117.11,1383949.6,787916.08,596033.52,3
+Sub-Saharan Africa,South Sudan,Snacks,Offline,L,9777,152.58,97.44,1491774.66,952670.88,539103.78,3
+Europe,Liechtenstein,Fruits,Offline,C,3008,9.33,6.92,28064.64,20815.36,7249.28,3
+Australia and Oceania,Australia,Clothes,Offline,L,6401,109.28,35.84,699501.28,229411.84,470089.44,3
+Europe,Belarus,Clothes,Offline,L,7128,109.28,35.84,778947.84,255467.52,523480.32,3
+Central America and the Caribbean,Nicaragua,Beverages,Offline,H,6172,47.45,31.79,292861.4,196207.88,96653.52,3
+Middle East and North Africa,Egypt,Personal Care,Offline,H,5826,81.73,56.67,476158.98,330159.42,145999.56,3
+Sub-Saharan Africa,Comoros,Baby Food,Offline,M,5131,255.28,159.42,1309841.68,817984.02,491857.66,3
+Central America and the Caribbean,Saint Kitts and Nevis ,Clothes,Offline,H,6175,109.28,35.84,674804.0,221312.0,453492.0,3
+Europe,Netherlands,Clothes,Offline,H,2979,109.28,35.84,325545.12,106767.36,218777.76,3
+Sub-Saharan Africa,Djibouti,Cereal,Offline,M,3868,205.7,117.11,795647.6,452981.48,342666.12,3
+Asia,Thailand,Clothes,Offline,H,1863,109.28,35.84,203588.64,66769.92,136818.72,3
+Asia,Uzbekistan,Cereal,Offline,C,5007,205.7,117.11,1029939.9,586369.77,443570.13,3
+Europe,Portugal,Clothes,Offline,H,2265,109.28,35.84,247519.2,81177.6,166341.6,3
+North America,Canada,Fruits,Offline,M,4052,9.33,6.92,37805.16,28039.84,9765.32,3
+Europe,Montenegro,Cereal,Offline,H,1845,205.7,117.11,379516.5,216067.95,163448.55,3
+Sub-Saharan Africa,Ghana,Cosmetics,Offline,C,997,437.2,263.33,435888.4,262540.01,173348.39,3
+Middle East and North Africa,Syria,Fruits,Offline,C,9798,9.33,6.92,91415.34,67802.16,23613.18,3
+Sub-Saharan Africa,Eritrea,Fruits,Offline,L,5500,9.33,6.92,51315.0,38060.0,13255.0,3
+Middle East and North Africa,Tunisia ,Cereal,Offline,M,4050,205.7,117.11,833085.0,474295.5,358789.5,3
+Europe,Romania,Fruits,Offline,M,3069,9.33,6.92,28633.77,21237.48,7396.29,3
+Sub-Saharan Africa,Tanzania,Baby Food,Offline,M,1641,255.28,159.42,418914.48,261608.22,157306.26,3
+Europe,Iceland,Fruits,Offline,H,1457,9.33,6.92,13593.81,10082.44,3511.37,3
+Asia,India,Fruits,Offline,L,1784,9.33,6.92,16644.72,12345.28,4299.44,3
+Sub-Saharan Africa,Cape Verde,Snacks,Offline,C,7279,152.58,97.44,1110629.82,709265.76,401364.06,3
+Central America and the Caribbean,Cuba,Cosmetics,Offline,C,502,437.2,263.33,219474.4,132191.66,87282.74,3
+Europe,Germany,Clothes,Offline,L,9895,109.28,35.84,1081325.6,354636.8,726688.8,3
+Asia,Myanmar,Personal Care,Offline,L,7293,81.73,56.67,596056.89,413294.31,182762.58,3
+Sub-Saharan Africa,Namibia,Personal Care,Offline,H,2836,81.73,56.67,231786.28,160716.12,71070.16,3
+Australia and Oceania,Australia,Personal Care,Offline,L,4772,81.73,56.67,390015.56,270429.24,119586.32,3
+Australia and Oceania,Australia,Snacks,Offline,M,8261,152.58,97.44,1260463.38,804951.84,455511.54,3
+Central America and the Caribbean,Belize,Clothes,Offline,M,1838,109.28,35.84,200856.64,65873.92,134982.72,3
+Sub-Saharan Africa,Cameroon,Snacks,Offline,C,6782,152.58,97.44,1034797.56,660838.08,373959.48,3
+Sub-Saharan Africa,Niger,Cereal,Offline,C,1629,205.7,117.11,335085.3,190772.19,144313.11,3
+Europe,Spain,Fruits,Offline,L,3540,9.33,6.92,33028.2,24496.8,8531.4,3
+Asia,Bangladesh,Beverages,Offline,H,182,47.45,31.79,8635.9,5785.78,2850.12,3
+Europe,Romania,Vegetables,Offline,H,2809,154.06,90.93,432754.54,255422.37,177332.17,3
+Central America and the Caribbean,Jamaica,Personal Care,Offline,M,9146,81.73,56.67,747502.58,518303.82,229198.76,3
+Australia and Oceania,East Timor,Baby Food,Offline,C,1539,255.28,159.42,392875.92,245347.38,147528.54,3
+Asia,Japan,Snacks,Offline,H,636,152.58,97.44,97040.88,61971.84,35069.04,3
+Sub-Saharan Africa,Guinea-Bissau,Fruits,Offline,L,2813,9.33,6.92,26245.29,19465.96,6779.33,3
+Asia,Brunei,Personal Care,Offline,M,167,81.73,56.67,13648.91,9463.89,4185.02,3
+Europe,Vatican City,Snacks,Offline,L,3006,152.58,97.44,458655.48,292904.64,165750.84,3
+Europe,Liechtenstein,Vegetables,Offline,L,192,154.06,90.93,29579.52,17458.56,12120.96,3
+Asia,Turkmenistan,Baby Food,Offline,C,241,255.28,159.42,61522.48,38420.22,23102.26,3
+Central America and the Caribbean,Cuba,Clothes,Offline,L,697,109.28,35.84,76168.16,24980.48,51187.68,3
+Middle East and North Africa,Saudi Arabia,Personal Care,Offline,C,6383,81.73,56.67,521682.59,361724.61,159957.98,3
+Europe,Macedonia,Beverages,Offline,L,5745,47.45,31.79,272600.25,182633.55,89966.7,3
+Central America and the Caribbean,Saint Lucia,Personal Care,Offline,M,20,81.73,56.67,1634.6,1133.4,501.2,3
+Sub-Saharan Africa,Central African Republic,Fruits,Offline,M,722,9.33,6.92,6736.26,4996.24,1740.02,3
+Europe,Lithuania,Beverages,Offline,H,5919,47.45,31.79,280856.55,188165.01,92691.54,3
+Europe,Greece,Vegetables,Offline,L,4046,154.06,90.93,623326.76,367902.78,255423.98,3
+Europe,Cyprus,Snacks,Offline,H,171,152.58,97.44,26091.18,16662.24,9428.94,3
+Asia,Nepal,Fruits,Offline,C,2442,9.33,6.92,22783.86,16898.64,5885.22,3
+Sub-Saharan Africa,Cote d'Ivoire,Vegetables,Offline,H,5076,154.06,90.93,782008.56,461560.68,320447.88,3
+Middle East and North Africa,Kuwait,Clothes,Offline,M,2481,109.28,35.84,271123.68,88919.04,182204.64,3
+Central America and the Caribbean,Saint Kitts and Nevis ,Clothes,Offline,C,7197,109.28,35.84,786488.16,257940.48,528547.68,3
+Europe,Netherlands,Beverages,Offline,M,3134,47.45,31.79,148708.3,99629.86,49078.44,3
+Sub-Saharan Africa,Central African Republic,Vegetables,Offline,L,2199,154.06,90.93,338777.94,199955.07,138822.87,3
+Sub-Saharan Africa,Mauritius ,Fruits,Offline,H,2556,9.33,6.92,23847.48,17687.52,6159.96,3
+Australia and Oceania,Australia,Snacks,Offline,H,1532,152.58,97.44,233752.56,149278.08,84474.48,3
+Europe,Serbia,Snacks,Offline,M,4869,152.58,97.44,742912.02,474435.36,268476.66,3
+Central America and the Caribbean,Barbados,Snacks,Offline,L,2728,152.58,97.44,416238.24,265816.32,150421.92,3
+Europe,Serbia,Vegetables,Offline,M,3705,154.06,90.93,570792.3,336895.65,233896.65,3
+Central America and the Caribbean,Guatemala,Personal Care,Offline,L,9813,81.73,56.67,802016.49,556102.71,245913.78,3
+Middle East and North Africa,Jordan,Clothes,Offline,L,7840,109.28,35.84,856755.2,280985.6,575769.6,3
+Middle East and North Africa,Afghanistan,Snacks,Offline,H,2206,152.58,97.44,336591.48,214952.64,121638.84,3
+Australia and Oceania,Samoa ,Vegetables,Offline,C,8485,154.06,90.93,1307199.1,771541.05,535658.05,3
+Middle East and North Africa,Kuwait,Baby Food,Offline,M,787,255.28,159.42,200905.36,125463.54,75441.82,3
+Europe,Russia,Clothes,Offline,M,9186,109.28,35.84,1003846.08,329226.24,674619.84,3
+Sub-Saharan Africa,Namibia,Fruits,Offline,M,4453,9.33,6.92,41546.49,30814.76,10731.73,3
+Asia,Singapore,Baby Food,Offline,C,5103,255.28,159.42,1302693.84,813520.26,489173.58,3
+Middle East and North Africa,Kuwait,Fruits,Offline,L,6306,9.33,6.92,58834.98,43637.52,15197.46,3
+Middle East and North Africa,United Arab Emirates,Clothes,Offline,M,5872,109.28,35.84,641692.16,210452.48,431239.68,3
+Sub-Saharan Africa,Mauritius ,Fruits,Offline,C,9326,9.33,6.92,87011.58,64535.92,22475.66,3
+Sub-Saharan Africa,Cote d'Ivoire,Beverages,Offline,M,5082,47.45,31.79,241140.9,161556.78,79584.12,3
+Asia,Sri Lanka,Clothes,Offline,L,546,109.28,35.84,59666.88,19568.64,40098.24,3
+Australia and Oceania,East Timor,Beverages,Offline,C,2891,47.45,31.79,137177.95,91904.89,45273.06,3
+Europe,Switzerland,Personal Care,Offline,M,3383,81.73,56.67,276492.59,191714.61,84777.98,3
+Europe,Ireland,Vegetables,Offline,M,8076,154.06,90.93,1244188.56,734350.68,509837.88,3
+Middle East and North Africa,Tunisia ,Vegetables,Offline,M,7641,154.06,90.93,1177172.46,694796.13,482376.33,3
+Europe,San Marino,Snacks,Offline,C,2902,152.58,97.44,442787.16,282770.88,160016.28,3
+Middle East and North Africa,Algeria,Beverages,Offline,M,7946,47.45,31.79,377037.7,252603.34,124434.36,3
+Asia,Mongolia,Snacks,Offline,C,1353,152.58,97.44,206440.74,131836.32,74604.42,3
+Asia,Brunei,Vegetables,Offline,L,368,154.06,90.93,56694.08,33462.24,23231.84,3
+Asia,Kazakhstan,Fruits,Offline,L,4074,9.33,6.92,38010.42,28192.08,9818.34,3
+Europe,France,Fruits,Offline,H,493,9.33,6.92,4599.69,3411.56,1188.13,3
+Australia and Oceania,Palau,Vegetables,Offline,M,9521,154.06,90.93,1466805.26,865744.53,601060.73,3
+Asia,South Korea,Snacks,Offline,M,8240,152.58,97.44,1257259.2,802905.6,454353.6,3
+Central America and the Caribbean,Haiti,Personal Care,Offline,M,9904,81.73,56.67,809453.92,561259.68,248194.24,3
+Sub-Saharan Africa,Kenya,Personal Care,Offline,C,9114,81.73,56.67,744887.22,516490.38,228396.84,3
+Middle East and North Africa,Yemen,Vegetables,Offline,M,432,154.06,90.93,66553.92,39281.76,27272.16,3
+Asia,Bhutan,Meat,Offline,L,1252,421.89,364.69,528206.28,456591.88,71614.4,3
+Middle East and North Africa,Oman,Clothes,Offline,L,1385,109.28,35.84,151352.8,49638.4,101714.4,3
+Europe,Moldova ,Baby Food,Offline,C,1534,255.28,159.42,391599.52,244550.28,147049.24,3
+Sub-Saharan Africa,Uganda,Snacks,Offline,H,2259,152.58,97.44,344678.22,220116.96,124561.26,3
+Europe,Sweden,Personal Care,Offline,H,6960,81.73,56.67,568840.8,394423.2,174417.6,3
+Europe,Czech Republic,Clothes,Offline,L,2942,109.28,35.84,321501.76,105441.28,216060.48,3
+Europe,Cyprus,Cereal,Offline,H,567,205.7,117.11,116631.9,66401.37,50230.53,3
+Asia,Indonesia,Vegetables,Offline,M,1320,154.06,90.93,203359.2,120027.6,83331.6,3
+Central America and the Caribbean,Trinidad and Tobago,Snacks,Offline,C,82,152.58,97.44,12511.56,7990.08,4521.48,3
+Sub-Saharan Africa,Kenya,Clothes,Offline,L,1605,109.28,35.84,175394.4,57523.2,117871.2,3
+Asia,Singapore,Fruits,Offline,C,8285,9.33,6.92,77299.05,57332.2,19966.85,3
+Europe,Croatia,Beverages,Offline,H,5796,47.45,31.79,275020.2,184254.84,90765.36,3
+Asia,South Korea,Personal Care,Offline,M,1042,81.73,56.67,85162.66,59050.14,26112.52,3
+Sub-Saharan Africa,Madagascar,Fruits,Offline,L,7779,9.33,6.92,72578.07,53830.68,18747.39,3
+Australia and Oceania,Australia,Personal Care,Offline,M,1791,81.73,56.67,146378.43,101495.97,44882.46,3
+Middle East and North Africa,United Arab Emirates,Beverages,Offline,L,4945,47.45,31.79,234640.25,157201.55,77438.7,3
+Middle East and North Africa,Iran,Baby Food,Offline,C,815,255.28,159.42,208053.2,129927.3,78125.9,3
+Sub-Saharan Africa,Burkina Faso,Fruits,Offline,L,5698,9.33,6.92,53162.34,39430.16,13732.18,3
+Middle East and North Africa,Iraq,Baby Food,Offline,L,510,255.28,159.42,130192.8,81304.2,48888.6,3
+Sub-Saharan Africa,South Sudan,Beverages,Offline,L,6423,47.45,31.79,304771.35,204187.17,100584.18,3
+Australia and Oceania,Kiribati,Snacks,Offline,H,7588,152.58,97.44,1157777.04,739374.72,418402.32,3
+Europe,Bulgaria,Cereal,Offline,H,4448,205.7,117.11,914953.6,520905.28,394048.32,3
+Middle East and North Africa,Pakistan,Clothes,Offline,H,5695,109.28,35.84,622349.6,204108.8,418240.8,3
+Europe,Serbia,Beverages,Offline,H,2466,47.45,31.79,117011.7,78394.14,38617.56,3
+Sub-Saharan Africa,Democratic Republic of the Congo,Snacks,Offline,M,6173,152.58,97.44,941876.34,601497.12,340379.22,3
+Middle East and North Africa,Egypt,Clothes,Offline,L,7572,109.28,35.84,827468.16,271380.48,556087.68,3
+Central America and the Caribbean,Costa Rica,Clothes,Offline,L,1663,109.28,35.84,181732.64,59601.92,122130.72,3
+Central America and the Caribbean,Honduras,Fruits,Offline,L,101,9.33,6.92,942.33,698.92,243.41,3
+Sub-Saharan Africa,Burundi,Clothes,Offline,M,6952,109.28,35.84,759714.56,249159.68,510554.88,3
+Central America and the Caribbean,Antigua and Barbuda ,Beverages,Offline,L,8722,47.45,31.79,413858.9,277272.38,136586.52,3
+Sub-Saharan Africa,Niger,Vegetables,Offline,M,4183,154.06,90.93,644432.98,380360.19,264072.79,3
+North America,Canada,Snacks,Offline,M,829,152.58,97.44,126488.82,80777.76,45711.06,3
+Sub-Saharan Africa,Angola,Fruits,Offline,H,2966,9.33,6.92,27672.78,20524.72,7148.06,3
+Sub-Saharan Africa,Central African Republic,Snacks,Offline,L,3444,152.58,97.44,525485.52,335583.36,189902.16,3
+Europe,Finland,Fruits,Offline,L,4080,9.33,6.92,38066.4,28233.6,9832.8,3
+Sub-Saharan Africa,Mauritania,Personal Care,Offline,H,8923,81.73,56.67,729276.79,505666.41,223610.38,3
+Middle East and North Africa,Lebanon,Vegetables,Offline,C,996,154.06,90.93,153443.76,90566.28,62877.48,3
+Europe,Belarus,Snacks,Offline,C,2300,152.58,97.44,350934.0,224112.0,126822.0,3
+North America,United States of America,Beverages,Offline,C,7900,47.45,31.79,374855.0,251141.0,123714.0,3
+Sub-Saharan Africa,Kenya,Clothes,Offline,L,6157,109.28,35.84,672836.96,220666.88,452170.08,3
+Europe,Norway,Fruits,Offline,M,7008,9.33,6.92,65384.64,48495.36,16889.28,3
+Sub-Saharan Africa,Zimbabwe,Snacks,Offline,L,3136,152.58,97.44,478490.88,305571.84,172919.04,3
+Central America and the Caribbean,Saint Lucia,Fruits,Offline,H,2394,9.33,6.92,22336.02,16566.48,5769.54,3
+Asia,Sri Lanka,Cereal,Offline,H,1970,205.7,117.11,405229.0,230706.7,174522.3,3
+North America,Mexico,Personal Care,Offline,M,1925,81.73,56.67,157330.25,109089.75,48240.5,3
+Middle East and North Africa,Yemen,Vegetables,Offline,L,6753,154.06,90.93,1040367.18,614050.29,426316.89,3
+Sub-Saharan Africa,Sao Tome and Principe,Clothes,Offline,C,9898,109.28,35.84,1081653.44,354744.32,726909.12,3
+Asia,Laos,Personal Care,Offline,L,580,81.73,56.67,47403.4,32868.6,14534.8,3
+Sub-Saharan Africa,Burkina Faso,Baby Food,Offline,H,486,255.28,159.42,124066.08,77478.12,46587.96,3
+Sub-Saharan Africa,Namibia,Beverages,Offline,L,7836,47.45,31.79,371818.2,249106.44,122711.76,3
+Central America and the Caribbean,Antigua and Barbuda ,Snacks,Offline,H,6980,152.58,97.44,1065008.4,680131.2,384877.2,3
+Central America and the Caribbean,Honduras,Snacks,Offline,H,9233,152.58,97.44,1408771.14,899663.52,509107.62,3
+Sub-Saharan Africa,Lesotho,Clothes,Offline,C,4918,109.28,35.84,537439.04,176261.12,361177.92,3
+Europe,Moldova ,Snacks,Offline,M,5772,152.58,97.44,880691.76,562423.68,318268.08,3
+Middle East and North Africa,Tunisia ,Meat,Offline,M,90,421.89,364.69,37970.1,32822.1,5148.0,3
+Australia and Oceania,Federated States of Micronesia,Vegetables,Offline,H,7107,154.06,90.93,1094904.42,646239.51,448664.91,3
+North America,Mexico,Cereal,Offline,M,5897,205.7,117.11,1213012.9,690597.67,522415.23,3
+Sub-Saharan Africa,The Gambia,Vegetables,Offline,C,4236,154.06,90.93,652598.16,385179.48,267418.68,3
+Middle East and North Africa,Turkey,Fruits,Offline,C,2470,9.33,6.92,23045.1,17092.4,5952.7,3
+Sub-Saharan Africa,Djibouti,Snacks,Offline,H,8975,152.58,97.44,1369405.5,874524.0,494881.5,3
+North America,Canada,Fruits,Offline,C,79,9.33,6.92,737.07,546.68,190.39,3
+Sub-Saharan Africa,Ghana,Clothes,Offline,H,9179,109.28,35.84,1003081.12,328975.36,674105.76,3
+Australia and Oceania,Australia,Personal Care,Offline,H,7529,81.73,56.67,615345.17,426668.43,188676.74,3
+Central America and the Caribbean,El Salvador,Snacks,Offline,C,7698,152.58,97.44,1174560.84,750093.12,424467.72,3
+Australia and Oceania,Samoa ,Vegetables,Offline,L,3650,154.06,90.93,562319.0,331894.5,230424.5,3
+Sub-Saharan Africa,Liberia,Personal Care,Offline,L,965,81.73,56.67,78869.45,54686.55,24182.9,3
+Europe,Estonia,Clothes,Offline,H,6169,109.28,35.84,674148.32,221096.96,453051.36,3
+Australia and Oceania,Solomon Islands,Fruits,Offline,L,9107,9.33,6.92,84968.31,63020.44,21947.87,3
+Asia,Indonesia,Vegetables,Offline,M,8050,154.06,90.93,1240183.0,731986.5,508196.5,3
+Sub-Saharan Africa,Benin,Clothes,Offline,H,8151,109.28,35.84,890741.28,292131.84,598609.44,3
+Sub-Saharan Africa,Mauritania,Fruits,Offline,C,9561,9.33,6.92,89204.13,66162.12,23042.01,3
+Middle East and North Africa,Pakistan,Baby Food,Offline,H,860,255.28,159.42,219540.8,137101.2,82439.6,3
+Europe,Spain,Fruits,Offline,H,3103,9.33,6.92,28950.99,21472.76,7478.23,3
+Sub-Saharan Africa,Lesotho,Beverages,Offline,L,4942,47.45,31.79,234497.9,157106.18,77391.72,3
+Australia and Oceania,Vanuatu,Meat,Offline,C,128,421.89,364.69,54001.92,46680.32,7321.6,3
+Central America and the Caribbean,Costa Rica,Cereal,Offline,C,5417,205.7,117.11,1114276.9,634384.87,479892.03,3
+Australia and Oceania,Marshall Islands,Personal Care,Offline,M,9720,81.73,56.67,794415.6,550832.4,243583.2,3
+Europe,Albania,Clothes,Offline,H,1172,109.28,35.84,128076.16,42004.48,86071.68,3
+Europe,Austria,Beverages,Offline,C,6395,47.45,31.79,303442.75,203297.05,100145.7,3
+North America,Mexico,Clothes,Offline,H,9806,109.28,35.84,1071599.68,351447.04,720152.64,3
+Europe,Poland,Clothes,Offline,M,4908,109.28,35.84,536346.24,175902.72,360443.52,3
+Australia and Oceania,Tuvalu,Beverages,Offline,M,798,47.45,31.79,37865.1,25368.42,12496.68,3
+Central America and the Caribbean,Panama,Cereal,Offline,C,7421,205.7,117.11,1526499.7,869073.31,657426.39,3
+Sub-Saharan Africa,Central African Republic,Beverages,Offline,C,1095,47.45,31.79,51957.75,34810.05,17147.7,3
+Australia and Oceania,Solomon Islands,Vegetables,Offline,L,1201,154.06,90.93,185026.06,109206.93,75819.13,3
+Sub-Saharan Africa,Liberia,Fruits,Offline,C,9631,9.33,6.92,89857.23,66646.52,23210.71,3
+Sub-Saharan Africa,Sierra Leone,Personal Care,Offline,H,8108,81.73,56.67,662666.84,459480.36,203186.48,3
+Europe,Norway,Snacks,Offline,L,4681,152.58,97.44,714226.98,456116.64,258110.34,3
+Asia,South Korea,Personal Care,Offline,H,7525,81.73,56.67,615018.25,426441.75,188576.5,3
+Australia and Oceania,Tonga,Fruits,Offline,M,7981,9.33,6.92,74462.73,55228.52,19234.21,3
+Asia,Nepal,Cosmetics,Offline,L,660,437.2,263.33,288552.0,173797.8,114754.2,3
+Europe,Iceland,Snacks,Offline,L,4922,152.58,97.44,750998.76,479599.68,271399.08,3
+Europe,Denmark,Snacks,Offline,C,9631,152.58,97.44,1469497.98,938444.64,531053.34,3
+Sub-Saharan Africa,Ghana,Beverages,Offline,M,8270,47.45,31.79,392411.5,262903.3,129508.2,3
+Europe,Moldova ,Clothes,Offline,H,2366,109.28,35.84,258556.48,84797.44,173759.04,3
+Australia and Oceania,Tonga,Personal Care,Offline,C,5856,81.73,56.67,478610.88,331859.52,146751.36,3
+Europe,Russia,Vegetables,Offline,L,5119,154.06,90.93,788633.14,465470.67,323162.47,3
+Central America and the Caribbean,Cuba,Snacks,Offline,H,9958,152.58,97.44,1519391.64,970307.52,549084.12,3
+Australia and Oceania,Fiji,Snacks,Offline,M,1110,152.58,97.44,169363.8,108158.4,61205.4,3
+Europe,Bosnia and Herzegovina,Vegetables,Offline,M,7763,154.06,90.93,1195967.78,705889.59,490078.19,3
+Sub-Saharan Africa,Benin,Fruits,Offline,M,2047,9.33,6.92,19098.51,14165.24,4933.27,3
+Middle East and North Africa,Libya,Cereal,Offline,L,7597,205.7,117.11,1562702.9,889684.67,673018.23,3
+Europe,Poland,Cereal,Offline,M,4080,205.7,117.11,839256.0,477808.8,361447.2,3
+Sub-Saharan Africa,Mozambique,Personal Care,Offline,H,3773,81.73,56.67,308367.29,213815.91,94551.38,3
+Europe,Bosnia and Herzegovina,Fruits,Offline,L,1523,9.33,6.92,14209.59,10539.16,3670.43,3
+Australia and Oceania,Kiribati,Snacks,Offline,M,2947,152.58,97.44,449653.26,287155.68,162497.58,3
+Europe,Kosovo,Vegetables,Offline,M,9917,154.06,90.93,1527813.02,901752.81,626060.21,3
+Asia,Kyrgyzstan,Meat,Offline,L,367,421.89,364.69,154833.63,133841.23,20992.4,3
+Europe,Georgia,Fruits,Offline,M,1735,9.33,6.92,16187.55,12006.2,4181.35,3
+Sub-Saharan Africa,Seychelles ,Clothes,Offline,H,9068,109.28,35.84,990951.04,324997.12,665953.92,3
+Asia,Bangladesh,Snacks,Offline,L,5553,152.58,97.44,847276.74,541084.32,306192.42,3
+Sub-Saharan Africa,Sudan,Fruits,Offline,C,8326,9.33,6.92,77681.58,57615.92,20065.66,3
+Asia,Vietnam,Vegetables,Offline,H,2074,154.06,90.93,319520.44,188588.82,130931.62,3
+Sub-Saharan Africa,Niger,Personal Care,Offline,C,9319,81.73,56.67,761641.87,528107.73,233534.14,3
+Middle East and North Africa,Lebanon,Clothes,Offline,H,6626,109.28,35.84,724089.28,237475.84,486613.44,3
+Central America and the Caribbean,Saint Lucia,Vegetables,Offline,M,5569,154.06,90.93,857960.14,506389.17,351570.97,3
+Sub-Saharan Africa,Zimbabwe,Baby Food,Offline,M,3950,255.28,159.42,1008356.0,629709.0,378647.0,3
+Asia,China,Personal Care,Offline,C,1988,81.73,56.67,162479.24,112659.96,49819.28,3
+Asia,Tajikistan,Clothes,Offline,H,5745,109.28,35.84,627813.6,205900.8,421912.8,3
+Europe,Netherlands,Personal Care,Offline,H,240,81.73,56.67,19615.2,13600.8,6014.4,3
+Sub-Saharan Africa,Botswana,Cereal,Offline,L,7161,205.7,117.11,1473017.7,838624.71,634392.99,3
+Sub-Saharan Africa,Sudan,Fruits,Offline,M,9872,9.33,6.92,92105.76,68314.24,23791.52,3
+Central America and the Caribbean,Saint Kitts and Nevis ,Clothes,Offline,L,2,109.28,35.84,218.56,71.68,146.88,3
+Europe,Finland,Snacks,Offline,H,3223,152.58,97.44,491765.34,314049.12,177716.22,3
+Sub-Saharan Africa,Namibia,Vegetables,Offline,H,4282,154.06,90.93,659684.92,389362.26,270322.66,3
+Middle East and North Africa,Libya,Cereal,Offline,L,866,205.7,117.11,178136.2,101417.26,76718.94,3
+Central America and the Caribbean,Guatemala,Beverages,Offline,H,4508,47.45,31.79,213904.6,143309.32,70595.28,3
+Australia and Oceania,Tonga,Cereal,Offline,L,2048,205.7,117.11,421273.6,239841.28,181432.32,3
+Middle East and North Africa,Azerbaijan,Personal Care,Offline,C,6554,81.73,56.67,535658.42,371415.18,164243.24,3
+Sub-Saharan Africa,Sudan,Beverages,Offline,C,8249,47.45,31.79,391415.05,262235.71,129179.34,3
+Europe,Montenegro,Personal Care,Offline,L,3699,81.73,56.67,302319.27,209622.33,92696.94,3
+Asia,Indonesia,Personal Care,Offline,M,647,81.73,56.67,52879.31,36665.49,16213.82,3
+Europe,Ukraine,Beverages,Offline,M,5971,47.45,31.79,283323.95,189818.09,93505.86,3
+Europe,Armenia,Clothes,Offline,C,5436,109.28,35.84,594046.08,194826.24,399219.84,3
+Sub-Saharan Africa,Sao Tome and Principe,Vegetables,Offline,M,9614,154.06,90.93,1481132.84,874201.02,606931.82,3
+Middle East and North Africa,Qatar,Baby Food,Offline,H,732,255.28,159.42,186864.96,116695.44,70169.52,3
+Europe,Norway,Cereal,Offline,C,6109,205.7,117.11,1256621.3,715424.99,541196.31,3
+Middle East and North Africa,Oman,Snacks,Offline,C,7187,152.58,97.44,1096592.46,700301.28,396291.18,3
+Middle East and North Africa,Yemen,Beverages,Offline,C,4275,47.45,31.79,202848.75,135902.25,66946.5,3
+Central America and the Caribbean,Panama,Vegetables,Offline,C,1801,154.06,90.93,277462.06,163764.93,113697.13,3
+Asia,Taiwan,Vegetables,Offline,H,2349,154.06,90.93,361886.94,213594.57,148292.37,3
+Europe,Cyprus,Fruits,Offline,C,5556,9.33,6.92,51837.48,38447.52,13389.96,3
+Sub-Saharan Africa,Kenya,Fruits,Offline,M,9864,9.33,6.92,92031.12,68258.88,23772.24,3
+Asia,Bhutan,Beverages,Offline,H,3909,47.45,31.79,185482.05,124267.11,61214.94,3
+Sub-Saharan Africa,Eritrea,Fruits,Offline,H,9278,9.33,6.92,86563.74,64203.76,22359.98,3
+Sub-Saharan Africa,Comoros,Cereal,Offline,H,6145,205.7,117.11,1264026.5,719640.95,544385.55,3
+Asia,Brunei,Beverages,Offline,H,2463,47.45,31.79,116869.35,78298.77,38570.58,3
+Australia and Oceania,Tuvalu,Cosmetics,Offline,H,196,437.2,263.33,85691.2,51612.68,34078.52,3
+Sub-Saharan Africa,Malawi,Snacks,Offline,H,5755,152.58,97.44,878097.9,560767.2,317330.7,3
+Sub-Saharan Africa,Seychelles ,Snacks,Offline,C,8390,152.58,97.44,1280146.2,817521.6,462624.6,3
+Australia and Oceania,Marshall Islands,Personal Care,Offline,M,7489,81.73,56.67,612075.97,424401.63,187674.34,3
+Sub-Saharan Africa,Ghana,Snacks,Offline,H,9375,152.58,97.44,1430437.5,913500.0,516937.5,3
+Asia,Nepal,Snacks,Offline,L,684,152.58,97.44,104364.72,66648.96,37715.76,3
+Middle East and North Africa,Turkey,Cereal,Offline,L,7631,205.7,117.11,1569696.7,893666.41,676030.29,3
+Sub-Saharan Africa,South Africa,Cereal,Offline,M,1398,205.7,117.11,287568.6,163719.78,123848.82,3
+Central America and the Caribbean,Jamaica,Meat,Offline,C,190,421.89,364.69,80159.1,69291.1,10868.0,3
+Sub-Saharan Africa,Cape Verde,Vegetables,Offline,L,419,154.06,90.93,64551.14,38099.67,26451.47,3
+Central America and the Caribbean,Trinidad and Tobago,Snacks,Offline,L,5527,152.58,97.44,843309.66,538550.88,304758.78,3
+Australia and Oceania,Tuvalu,Beverages,Offline,L,987,47.45,31.79,46833.15,31376.73,15456.42,3
+Sub-Saharan Africa,Chad,Fruits,Offline,H,9685,9.33,6.92,90361.05,67020.2,23340.85,3
+Sub-Saharan Africa,Malawi,Personal Care,Offline,C,5418,81.73,56.67,442813.14,307038.06,135775.08,3
+Asia,China,Snacks,Offline,L,1404,152.58,97.44,214222.32,136805.76,77416.56,3
+Europe,Albania,Beverages,Offline,M,4028,47.45,31.79,191128.6,128050.12,63078.48,3
+Europe,Italy,Personal Care,Offline,M,6485,81.73,56.67,530019.05,367504.95,162514.1,3
+Europe,Poland,Cereal,Offline,C,5191,205.7,117.11,1067788.7,607918.01,459870.69,3
+Middle East and North Africa,Yemen,Vegetables,Offline,L,3643,154.06,90.93,561240.58,331257.99,229982.59,3
+Australia and Oceania,New Zealand,Cereal,Offline,C,3138,205.7,117.11,645486.6,367491.18,277995.42,3
+Europe,Slovakia,Fruits,Offline,L,314,9.33,6.92,2929.62,2172.88,756.74,3
+Central America and the Caribbean,Belize,Beverages,Offline,C,9525,47.45,31.79,451961.25,302799.75,149161.5,3
+Sub-Saharan Africa,Tanzania,Beverages,Offline,H,1900,47.45,31.79,90155.0,60401.0,29754.0,3
+Europe,Sweden,Vegetables,Offline,C,101,154.06,90.93,15560.06,9183.93,6376.13,3
+Middle East and North Africa,Tunisia ,Cereal,Offline,L,154,205.7,117.11,31677.8,18034.94,13642.86,3
+Asia,Laos,Personal Care,Offline,H,3714,81.73,56.67,303545.22,210472.38,93072.84,3
+Middle East and North Africa,Azerbaijan,Snacks,Offline,L,5474,152.58,97.44,835222.92,533386.56,301836.36,3
+Australia and Oceania,Vanuatu,Cereal,Offline,H,4442,205.7,117.11,913719.4,520202.62,393516.78,3
+Central America and the Caribbean,Antigua and Barbuda ,Personal Care,Offline,M,9973,81.73,56.67,815093.29,565169.91,249923.38,3
+Australia and Oceania,Fiji,Cereal,Offline,L,3678,205.7,117.11,756564.6,430730.58,325834.02,3
+Central America and the Caribbean,Dominican Republic,Beverages,Offline,L,1261,47.45,31.79,59834.45,40087.19,19747.26,3
+Middle East and North Africa,Israel,Clothes,Offline,L,6361,109.28,35.84,695130.08,227978.24,467151.84,3
+Europe,Romania,Personal Care,Offline,H,8152,81.73,56.67,666262.96,461973.84,204289.12,3
+Sub-Saharan Africa,Namibia,Snacks,Offline,M,516,152.58,97.44,78731.28,50279.04,28452.24,3
+Europe,Ukraine,Personal Care,Offline,C,6171,81.73,56.67,504355.83,349710.57,154645.26,3
+Central America and the Caribbean,Jamaica,Snacks,Offline,M,1219,152.58,97.44,185995.02,118779.36,67215.66,3
+Asia,Bhutan,Fruits,Offline,C,6028,9.33,6.92,56241.24,41713.76,14527.48,3
+Central America and the Caribbean,Honduras,Vegetables,Offline,H,2881,154.06,90.93,443846.86,261969.33,181877.53,3
+Europe,Austria,Vegetables,Offline,L,6212,154.06,90.93,957020.72,564857.16,392163.56,3
+Europe,Italy,Beverages,Offline,C,4141,47.45,31.79,196490.45,131642.39,64848.06,3
+Europe,Cyprus,Snacks,Offline,L,5967,152.58,97.44,910444.86,581424.48,329020.38,3
+Asia,Laos,Vegetables,Offline,L,2021,154.06,90.93,311355.26,183769.53,127585.73,3
+Australia and Oceania,Tuvalu,Clothes,Offline,C,4482,109.28,35.84,489792.96,160634.88,329158.08,3
+Middle East and North Africa,Iraq,Fruits,Offline,C,5675,9.33,6.92,52947.75,39271.0,13676.75,3
+Europe,Moldova ,Snacks,Offline,C,3961,152.58,97.44,604369.38,385959.84,218409.54,3
+Asia,China,Fruits,Offline,H,2904,9.33,6.92,27094.32,20095.68,6998.64,3
+Europe,Russia,Cereal,Offline,M,651,205.7,117.11,133910.7,76238.61,57672.09,3
+Sub-Saharan Africa,Seychelles ,Clothes,Offline,H,3814,109.28,35.84,416793.92,136693.76,280100.16,3
+Europe,Liechtenstein,Cereal,Offline,L,280,205.7,117.11,57596.0,32790.8,24805.2,3
+Asia,North Korea,Clothes,Offline,M,7246,109.28,35.84,791842.88,259696.64,532146.24,3
+Europe,Andorra,Vegetables,Offline,L,5529,154.06,90.93,851797.74,502751.97,349045.77,3
+Central America and the Caribbean,Guatemala,Cosmetics,Offline,H,959,437.2,263.33,419274.8,252533.47,166741.33,3
+Europe,Croatia,Personal Care,Offline,M,523,81.73,56.67,42744.79,29638.41,13106.38,3
+Central America and the Caribbean,El Salvador,Personal Care,Offline,M,9202,81.73,56.67,752079.46,521477.34,230602.12,3
+Middle East and North Africa,Afghanistan,Vegetables,Offline,M,3298,154.06,90.93,508089.88,299887.14,208202.74,3
+Sub-Saharan Africa,Mozambique,Vegetables,Offline,L,326,154.06,90.93,50223.56,29643.18,20580.38,3
+Sub-Saharan Africa,Mauritania,Fruits,Offline,H,4932,9.33,6.92,46015.56,34129.44,11886.12,3
+Asia,Kyrgyzstan,Vegetables,Offline,M,8548,154.06,90.93,1316904.88,777269.64,539635.24,3
+Asia,Nepal,Fruits,Offline,M,6969,9.33,6.92,65020.77,48225.48,16795.29,3
+Sub-Saharan Africa,Mali,Personal Care,Offline,M,279,81.73,56.67,22802.67,15810.93,6991.74,3
+Sub-Saharan Africa,Sudan,Cereal,Offline,C,6271,205.7,117.11,1289944.7,734396.81,555547.89,3
+Europe,Switzerland,Clothes,Offline,M,9275,109.28,35.84,1013572.0,332416.0,681156.0,3
+Australia and Oceania,Palau,Clothes,Offline,H,7909,109.28,35.84,864295.52,283458.56,580836.96,3
+Central America and the Caribbean,Jamaica,Vegetables,Offline,L,8620,154.06,90.93,1327997.2,783816.6,544180.6,3
+Asia,China,Snacks,Offline,L,7638,152.58,97.44,1165406.04,744246.72,421159.32,3
+Europe,Estonia,Beverages,Offline,L,8222,47.45,31.79,390133.9,261377.38,128756.52,3
+Europe,Andorra,Vegetables,Offline,L,653,154.06,90.93,100601.18,59377.29,41223.89,3
+Middle East and North Africa,Syria,Clothes,Offline,L,3506,109.28,35.84,383135.68,125655.04,257480.64,3
+Sub-Saharan Africa,Guinea,Snacks,Offline,M,598,152.58,97.44,91242.84,58269.12,32973.72,3
+Australia and Oceania,New Zealand,Snacks,Offline,L,6993,152.58,97.44,1066991.94,681397.92,385594.02,3
+Asia,Sri Lanka,Snacks,Offline,H,2111,152.58,97.44,322096.38,205695.84,116400.54,3
+Europe,Belgium,Fruits,Offline,M,6924,9.33,6.92,64600.92,47914.08,16686.84,3
+Europe,Slovenia,Vegetables,Offline,M,1997,154.06,90.93,307657.82,181587.21,126070.61,3
+Europe,Moldova ,Beverages,Offline,C,389,47.45,31.79,18458.05,12366.31,6091.74,3
+Sub-Saharan Africa,Tanzania,Personal Care,Offline,M,6404,81.73,56.67,523398.92,362914.68,160484.24,3
+Europe,Spain,Vegetables,Offline,M,3545,154.06,90.93,546142.7,322346.85,223795.85,3
+Sub-Saharan Africa,Malawi,Beverages,Offline,H,6080,47.45,31.79,288496.0,193283.2,95212.8,3
+Sub-Saharan Africa,Republic of the Congo,Vegetables,Offline,M,3456,154.06,90.93,532431.36,314254.08,218177.28,3
+Asia,Sri Lanka,Snacks,Offline,C,1864,152.58,97.44,284409.12,181628.16,102780.96,3
+Middle East and North Africa,Israel,Vegetables,Offline,M,6498,154.06,90.93,1001081.88,590863.14,410218.74,3
+Sub-Saharan Africa,Ethiopia,Snacks,Offline,M,8903,152.58,97.44,1358419.74,867508.32,490911.42,3
+Sub-Saharan Africa,Ethiopia,Baby Food,Offline,L,4741,255.28,159.42,1210282.48,755810.22,454472.26,3
+Europe,Slovakia,Snacks,Offline,C,1500,152.58,97.44,228870.0,146160.0,82710.0,3
+Sub-Saharan Africa,Tanzania,Fruits,Offline,C,6122,9.33,6.92,57118.26,42364.24,14754.02,3
+Asia,Philippines,Beverages,Offline,C,879,47.45,31.79,41708.55,27943.41,13765.14,3
+Sub-Saharan Africa,Zimbabwe,Cereal,Offline,L,4623,205.7,117.11,950951.1,541399.53,409551.57,3
+Sub-Saharan Africa,Gabon,Cosmetics,Offline,M,617,437.2,263.33,269752.4,162474.61,107277.79,3
+Sub-Saharan Africa,Sudan,Baby Food,Offline,H,2210,255.28,159.42,564168.8,352318.2,211850.6,3
+Asia,Kyrgyzstan,Clothes,Offline,H,2863,109.28,35.84,312868.64,102609.92,210258.72,3
+Asia,Bhutan,Snacks,Offline,L,3813,152.58,97.44,581787.54,371538.72,210248.82,3
+Europe,United Kingdom,Personal Care,Offline,M,5997,81.73,56.67,490134.81,339849.99,150284.82,3
+Europe,Russia,Clothes,Offline,M,3755,109.28,35.84,410346.4,134579.2,275767.2,3
+Sub-Saharan Africa,Zimbabwe,Beverages,Offline,H,1328,47.45,31.79,63013.6,42217.12,20796.48,3
+Asia,Bhutan,Cereal,Offline,H,3053,205.7,117.11,628002.1,357536.83,270465.27,3
+Sub-Saharan Africa,Swaziland,Baby Food,Offline,M,2560,255.28,159.42,653516.8,408115.2,245401.6,3
+Middle East and North Africa,Kuwait,Baby Food,Offline,M,2948,255.28,159.42,752565.44,469970.16,282595.28,3
+Asia,Philippines,Fruits,Offline,M,1978,9.33,6.92,18454.74,13687.76,4766.98,3
+Asia,Philippines,Snacks,Offline,L,7734,152.58,97.44,1180053.72,753600.96,426452.76,3
+Australia and Oceania,Australia,Cereal,Offline,L,1136,205.7,117.11,233675.2,133036.96,100638.24,3
+Middle East and North Africa,Kuwait,Fruits,Offline,C,569,9.33,6.92,5308.77,3937.48,1371.29,3
+Europe,Slovakia,Baby Food,Offline,H,4835,255.28,159.42,1234278.8,770795.7,463483.1,3
+Europe,San Marino,Cereal,Offline,L,2447,205.7,117.11,503347.9,286568.17,216779.73,3
+Sub-Saharan Africa,Tanzania,Personal Care,Offline,L,9865,81.73,56.67,806266.45,559049.55,247216.9,3
+Europe,Netherlands,Vegetables,Offline,H,22,154.06,90.93,3389.32,2000.46,1388.86,3
+Europe,Belgium,Cereal,Offline,L,3705,205.7,117.11,762118.5,433892.55,328225.95,3
+Middle East and North Africa,Azerbaijan,Baby Food,Offline,C,2114,255.28,159.42,539661.92,337013.88,202648.04,3
+Europe,Slovakia,Vegetables,Offline,M,8843,154.06,90.93,1362352.58,804093.99,558258.59,3
+Sub-Saharan Africa,Uganda,Clothes,Offline,M,8238,109.28,35.84,900248.64,295249.92,604998.72,3
+Central America and the Caribbean,Saint Kitts and Nevis ,Fruits,Offline,C,922,9.33,6.92,8602.26,6380.24,2222.02,3
+Middle East and North Africa,Egypt,Vegetables,Offline,H,6907,154.06,90.93,1064092.42,628053.51,436038.91,3
+Asia,Myanmar,Clothes,Offline,H,663,109.28,35.84,72452.64,23761.92,48690.72,3
+Middle East and North Africa,Kuwait,Snacks,Offline,H,8951,152.58,97.44,1365743.58,872185.44,493558.14,3
+Sub-Saharan Africa,Burkina Faso,Baby Food,Offline,L,2210,255.28,159.42,564168.8,352318.2,211850.6,3
+Sub-Saharan Africa,Guinea,Baby Food,Offline,M,3266,255.28,159.42,833744.48,520665.72,313078.76,3
+Sub-Saharan Africa,Ghana,Cereal,Offline,C,6671,205.7,117.11,1372224.7,781240.81,590983.89,3
+Sub-Saharan Africa,Ghana,Personal Care,Offline,H,4032,81.73,56.67,329535.36,228493.44,101041.92,3
+Sub-Saharan Africa,Uganda,Personal Care,Offline,H,6916,81.73,56.67,565244.68,391929.72,173314.96,3
+Asia,Tajikistan,Fruits,Offline,M,679,9.33,6.92,6335.07,4698.68,1636.39,3
+Europe,Denmark,Beverages,Offline,H,1126,47.45,31.79,53428.7,35795.54,17633.16,3
+Sub-Saharan Africa,Cote d'Ivoire,Baby Food,Offline,C,3919,255.28,159.42,1000442.32,624766.98,375675.34,3
+Sub-Saharan Africa,Democratic Republic of the Congo,Snacks,Offline,C,7223,152.58,97.44,1102085.34,703809.12,398276.22,3
+Asia,Myanmar,Cereal,Offline,C,4726,205.7,117.11,972138.2,553461.86,418676.34,3
+Europe,Romania,Personal Care,Offline,L,519,81.73,56.67,42417.87,29411.73,13006.14,3
+Sub-Saharan Africa,Rwanda,Personal Care,Offline,H,7056,81.73,56.67,576686.88,399863.52,176823.36,3
+Sub-Saharan Africa,Zambia,Beverages,Offline,C,4408,47.45,31.79,209159.6,140130.32,69029.28,3
+Sub-Saharan Africa,Nigeria,Clothes,Offline,L,1198,109.28,35.84,130917.44,42936.32,87981.12,3
+Asia,South Korea,Fruits,Offline,H,9826,9.33,6.92,91676.58,67995.92,23680.66,3
+Australia and Oceania,Kiribati,Clothes,Offline,C,8503,109.28,35.84,929207.84,304747.52,624460.32,3
+Sub-Saharan Africa,Lesotho,Beverages,Offline,M,4517,47.45,31.79,214331.65,143595.43,70736.22,3
+Middle East and North Africa,Jordan,Fruits,Offline,L,6186,9.33,6.92,57715.38,42807.12,14908.26,3
+Sub-Saharan Africa,Seychelles ,Beverages,Offline,L,2291,47.45,31.79,108707.95,72830.89,35877.06,3
+Europe,Norway,Fruits,Offline,L,4705,9.33,6.92,43897.65,32558.6,11339.05,3
+Central America and the Caribbean,Jamaica,Beverages,Offline,L,2771,47.45,31.79,131483.95,88090.09,43393.86,3
+Sub-Saharan Africa,Equatorial Guinea,Cereal,Offline,H,3621,205.7,117.11,744839.7,424055.31,320784.39,3
+Central America and the Caribbean,Saint Vincent and the Grenadines,Personal Care,Offline,L,5028,81.73,56.67,410938.44,284936.76,126001.68,3
+Europe,Lithuania,Cereal,Offline,M,5086,205.7,117.11,1046190.2,595621.46,450568.74,3
+Europe,Georgia,Fruits,Offline,C,8169,9.33,6.92,76216.77,56529.48,19687.29,3
+Central America and the Caribbean,Guatemala,Personal Care,Offline,C,1361,81.73,56.67,111234.53,77127.87,34106.66,3
+Sub-Saharan Africa,Swaziland,Cereal,Offline,C,1338,205.7,117.11,275226.6,156693.18,118533.42,3
+Europe,Latvia,Vegetables,Offline,M,3519,154.06,90.93,542137.14,319982.67,222154.47,3
+Asia,Turkmenistan,Personal Care,Offline,C,5737,81.73,56.67,468885.01,325115.79,143769.22,3
+Central America and the Caribbean,Barbados,Beverages,Offline,C,2723,47.45,31.79,129206.35,86564.17,42642.18,3
+Europe,Slovakia,Personal Care,Offline,C,6158,81.73,56.67,503293.34,348973.86,154319.48,3
+Central America and the Caribbean,Cuba,Clothes,Offline,M,6434,109.28,35.84,703107.52,230594.56,472512.96,3
+Central America and the Caribbean,Saint Kitts and Nevis ,Cereal,Offline,L,4240,205.7,117.11,872168.0,496546.4,375621.6,3
+Sub-Saharan Africa,Equatorial Guinea,Clothes,Offline,H,4755,109.28,35.84,519626.4,170419.2,349207.2,3
+Sub-Saharan Africa,Rwanda,Snacks,Offline,H,4972,152.58,97.44,758627.76,484471.68,274156.08,3
+Asia,Mongolia,Snacks,Offline,C,6726,152.58,97.44,1026253.08,655381.44,370871.64,3
+Europe,Macedonia,Vegetables,Offline,C,9641,154.06,90.93,1485292.46,876656.13,608636.33,3
+Central America and the Caribbean,Haiti,Cereal,Offline,H,3116,205.7,117.11,640961.2,364914.76,276046.44,3
+Middle East and North Africa,Jordan,Baby Food,Offline,L,4917,255.28,159.42,1255211.76,783868.14,471343.62,3
+Sub-Saharan Africa,Namibia,Vegetables,Offline,C,4984,154.06,90.93,767835.04,453195.12,314639.92,3
+Asia,South Korea,Cosmetics,Offline,H,146,437.2,263.33,63831.2,38446.18,25385.02,3
+Central America and the Caribbean,Belize,Cereal,Offline,C,1957,205.7,117.11,402554.9,229184.27,173370.63,3
+Central America and the Caribbean,Jamaica,Snacks,Offline,H,1904,152.58,97.44,290512.32,185525.76,104986.56,3
+Sub-Saharan Africa,Niger,Clothes,Offline,M,206,109.28,35.84,22511.68,7383.04,15128.64,3
+Central America and the Caribbean,Grenada,Vegetables,Offline,H,2557,154.06,90.93,393931.42,232508.01,161423.41,3
+Europe,Croatia,Personal Care,Offline,C,2802,81.73,56.67,229007.46,158789.34,70218.12,3
+Asia,Nepal,Clothes,Offline,M,3493,109.28,35.84,381715.04,125189.12,256525.92,3
+Asia,Maldives,Snacks,Offline,C,7892,152.58,97.44,1204161.36,768996.48,435164.88,3
+Europe,Sweden,Snacks,Offline,H,8771,152.58,97.44,1338279.18,854646.24,483632.94,3
+Australia and Oceania,New Zealand,Clothes,Offline,C,9453,109.28,35.84,1033023.84,338795.52,694228.32,3
+Asia,Indonesia,Fruits,Offline,M,8658,9.33,6.92,80779.14,59913.36,20865.78,3
+Sub-Saharan Africa,Central African Republic,Baby Food,Offline,C,1438,255.28,159.42,367092.64,229245.96,137846.68,3
+Europe,Germany,Baby Food,Offline,C,2273,255.28,159.42,580251.44,362361.66,217889.78,3
+Australia and Oceania,Solomon Islands,Snacks,Offline,M,1373,152.58,97.44,209492.34,133785.12,75707.22,3
+North America,Mexico,Snacks,Offline,M,4073,152.58,97.44,621458.34,396873.12,224585.22,3
+Europe,Romania,Cereal,Offline,C,4828,205.7,117.11,993119.6,565407.08,427712.52,3
+Asia,Turkmenistan,Vegetables,Offline,H,5530,154.06,90.93,851951.8,502842.9,349108.9,3
+Australia and Oceania,Kiribati,Cereal,Offline,M,6147,205.7,117.11,1264437.9,719875.17,544562.73,3
+Middle East and North Africa,Libya,Snacks,Offline,C,1871,152.58,97.44,285477.18,182310.24,103166.94,3
+Sub-Saharan Africa,Zambia,Personal Care,Offline,M,69,81.73,56.67,5639.37,3910.23,1729.14,3
+Europe,Serbia,Beverages,Offline,C,5312,47.45,31.79,252054.4,168868.48,83185.92,3
+Middle East and North Africa,Kuwait,Fruits,Offline,C,7033,9.33,6.92,65617.89,48668.36,16949.53,3
+Sub-Saharan Africa,Sao Tome and Principe,Vegetables,Offline,L,6591,154.06,90.93,1015409.46,599319.63,416089.83,3
+Sub-Saharan Africa,Guinea-Bissau,Fruits,Offline,C,2754,9.33,6.92,25694.82,19057.68,6637.14,3
+Sub-Saharan Africa,Mali,Vegetables,Offline,L,1625,154.06,90.93,250347.5,147761.25,102586.25,3
+Central America and the Caribbean,Saint Vincent and the Grenadines,Beverages,Offline,H,6186,47.45,31.79,293525.7,196652.94,96872.76,3
+Central America and the Caribbean,Dominica,Vegetables,Offline,L,6880,154.06,90.93,1059932.8,625598.4,434334.4,3
+Australia and Oceania,Australia,Fruits,Offline,H,3380,9.33,6.92,31535.4,23389.6,8145.8,3
+Europe,Monaco,Meat,Offline,L,615,421.89,364.69,259462.35,224284.35,35178.0,3
+Europe,Vatican City,Snacks,Offline,M,6086,152.58,97.44,928601.88,593019.84,335582.04,3
+Europe,San Marino,Vegetables,Offline,L,7222,154.06,90.93,1112621.32,656696.46,455924.86,3
+Europe,France,Cereal,Offline,L,1462,205.7,117.11,300733.4,171214.82,129518.58,3
+Sub-Saharan Africa,Zambia,Snacks,Offline,H,1705,152.58,97.44,260148.9,166135.2,94013.7,3
+Asia,Brunei,Cereal,Offline,M,2605,205.7,117.11,535848.5,305071.55,230776.95,3
+Sub-Saharan Africa,Djibouti,Clothes,Offline,C,927,109.28,35.84,101302.56,33223.68,68078.88,3
+Europe,Ireland,Baby Food,Offline,L,3135,255.28,159.42,800302.8,499781.7,300521.1,3
+Europe,Macedonia,Clothes,Offline,H,9198,109.28,35.84,1005157.44,329656.32,675501.12,3
+Sub-Saharan Africa,Cote d'Ivoire,Beverages,Offline,M,1870,47.45,31.79,88731.5,59447.3,29284.2,3
+Sub-Saharan Africa,Liberia,Baby Food,Offline,M,4175,255.28,159.42,1065794.0,665578.5,400215.5,3
+Sub-Saharan Africa,Chad,Baby Food,Offline,M,3174,255.28,159.42,810258.72,505999.08,304259.64,3
+Asia,Brunei,Snacks,Offline,H,1975,152.58,97.44,301345.5,192444.0,108901.5,3
+Central America and the Caribbean,Cuba,Vegetables,Offline,L,7243,154.06,90.93,1115856.58,658605.99,457250.59,3
+Middle East and North Africa,Kuwait,Beverages,Offline,M,5893,47.45,31.79,279622.85,187338.47,92284.38,3
+Asia,Kazakhstan,Cereal,Offline,L,2534,205.7,117.11,521243.8,296756.74,224487.06,3
+Middle East and North Africa,Jordan,Snacks,Offline,M,950,152.58,97.44,144951.0,92568.0,52383.0,3
+Sub-Saharan Africa,Sudan,Beverages,Offline,H,5941,47.45,31.79,281900.45,188864.39,93036.06,3
+Central America and the Caribbean,Honduras,Cereal,Offline,L,6866,205.7,117.11,1412336.2,804077.26,608258.94,3
+Europe,Iceland,Clothes,Offline,C,1004,109.28,35.84,109717.12,35983.36,73733.76,3
+Sub-Saharan Africa,Liberia,Vegetables,Offline,C,6921,154.06,90.93,1066249.26,629326.53,436922.73,3
+Sub-Saharan Africa,Cameroon,Beverages,Offline,H,189,47.45,31.79,8968.05,6008.31,2959.74,3
+Asia,South Korea,Personal Care,Offline,M,4254,81.73,56.67,347679.42,241074.18,106605.24,3
+Sub-Saharan Africa,Mauritania,Cereal,Offline,H,4178,205.7,117.11,859414.6,489285.58,370129.02,3
+Europe,San Marino,Baby Food,Offline,M,2004,255.28,159.42,511581.12,319477.68,192103.44,3
+Australia and Oceania,East Timor,Fruits,Offline,M,3978,9.33,6.92,37114.74,27527.76,9586.98,3
+Europe,Netherlands,Personal Care,Offline,H,3045,81.73,56.67,248867.85,172560.15,76307.7,3
+North America,United States of America,Personal Care,Offline,L,6130,81.73,56.67,501004.9,347387.1,153617.8,3
+Europe,Hungary,Fruits,Offline,H,1456,9.33,6.92,13584.48,10075.52,3508.96,3
+Central America and the Caribbean,Saint Vincent and the Grenadines,Vegetables,Offline,C,4445,154.06,90.93,684796.7,404183.85,280612.85,3
+Australia and Oceania,Marshall Islands,Clothes,Offline,L,6024,109.28,35.84,658302.72,215900.16,442402.56,3
+Europe,Sweden,Baby Food,Offline,H,4486,255.28,159.42,1145186.08,715158.12,430027.96,3
+Sub-Saharan Africa,Madagascar,Snacks,Offline,C,4266,152.58,97.44,650906.28,415679.04,235227.24,3
+Europe,Albania,Clothes,Offline,C,8586,109.28,35.84,938278.08,307722.24,630555.84,3
+Sub-Saharan Africa,Botswana,Vegetables,Offline,L,898,154.06,90.93,138345.88,81655.14,56690.74,3
+Australia and Oceania,New Zealand,Cosmetics,Offline,L,1160,437.2,263.33,507152.0,305462.8,201689.2,3
+Sub-Saharan Africa,Benin,Personal Care,Offline,H,2271,81.73,56.67,185608.83,128697.57,56911.26,3
+Australia and Oceania,Tonga,Personal Care,Offline,L,2148,81.73,56.67,175556.04,121727.16,53828.88,3
+Europe,Moldova ,Beverages,Offline,H,4958,47.45,31.79,235257.1,157614.82,77642.28,3
+Europe,Montenegro,Beverages,Offline,C,8739,47.45,31.79,414665.55,277812.81,136852.74,3
+Europe,Serbia,Cereal,Offline,C,1993,205.7,117.11,409960.1,233400.23,176559.87,3
+Europe,Latvia,Personal Care,Offline,L,3915,81.73,56.67,319972.95,221863.05,98109.9,3
+Sub-Saharan Africa,Mauritania,Beverages,Offline,H,1644,47.45,31.79,78007.8,52262.76,25745.04,3
+Sub-Saharan Africa,Djibouti,Baby Food,Offline,L,592,255.28,159.42,151125.76,94376.64,56749.12,3
+Asia,Philippines,Cereal,Offline,M,638,205.7,117.11,131236.6,74716.18,56520.42,3
+Central America and the Caribbean,Barbados,Vegetables,Offline,M,8029,154.06,90.93,1236947.74,730076.97,506870.77,3
+Europe,Finland,Baby Food,Offline,L,343,255.28,159.42,87561.04,54681.06,32879.98,3
+Sub-Saharan Africa,Niger,Snacks,Offline,M,1262,152.58,97.44,192555.96,122969.28,69586.68,3
+Middle East and North Africa,Morocco,Clothes,Offline,M,7180,109.28,35.84,784630.4,257331.2,527299.2,3
+Europe,Ukraine,Cereal,Offline,C,859,205.7,117.11,176696.3,100597.49,76098.81,3
+Europe,Italy,Clothes,Offline,M,3180,109.28,35.84,347510.4,113971.2,233539.2,3
+Europe,Hungary,Snacks,Offline,M,3126,152.58,97.44,476965.08,304597.44,172367.64,3
+Europe,Slovenia,Vegetables,Offline,M,4637,154.06,90.93,714376.22,421642.41,292733.81,3
+Asia,Kyrgyzstan,Personal Care,Offline,M,1978,81.73,56.67,161661.94,112093.26,49568.68,3
+Middle East and North Africa,Libya,Personal Care,Offline,M,6717,81.73,56.67,548980.41,380652.39,168328.02,3
+Middle East and North Africa,Tunisia ,Personal Care,Offline,C,4228,81.73,56.67,345554.44,239600.76,105953.68,3
+Central America and the Caribbean,Saint Lucia,Snacks,Offline,C,1993,152.58,97.44,304091.94,194197.92,109894.02,3
+Europe,Georgia,Cereal,Offline,H,5972,205.7,117.11,1228440.4,699380.92,529059.48,3
+Middle East and North Africa,Somalia,Snacks,Offline,M,9804,152.58,97.44,1495894.32,955301.76,540592.56,3
+Europe,Greece,Cereal,Offline,M,2045,205.7,117.11,420656.5,239489.95,181166.55,3
+Sub-Saharan Africa,Djibouti,Fruits,Offline,M,6052,9.33,6.92,56465.16,41879.84,14585.32,3
+Europe,Luxembourg,Snacks,Offline,M,9929,152.58,97.44,1514966.82,967481.76,547485.06,3
+Australia and Oceania,Tonga,Vegetables,Offline,M,1274,154.06,90.93,196272.44,115844.82,80427.62,3
+Central America and the Caribbean,Saint Vincent and the Grenadines,Baby Food,Offline,M,4793,255.28,159.42,1223557.04,764100.06,459456.98,3
+Sub-Saharan Africa,Burundi,Clothes,Offline,H,4603,109.28,35.84,503015.84,164971.52,338044.32,3
+Australia and Oceania,Tonga,Clothes,Offline,H,713,109.28,35.84,77916.64,25553.92,52362.72,3
+Europe,Slovakia,Snacks,Offline,L,3968,152.58,97.44,605437.44,386641.92,218795.52,3
+Middle East and North Africa,Bahrain,Fruits,Offline,M,5906,9.33,6.92,55102.98,40869.52,14233.46,3
+Europe,Russia,Clothes,Offline,L,8980,109.28,35.84,981334.4,321843.2,659491.2,3
+Asia,Indonesia,Vegetables,Offline,L,3906,154.06,90.93,601758.36,355172.58,246585.78,3
+Central America and the Caribbean,Saint Kitts and Nevis ,Personal Care,Offline,C,7086,81.73,56.67,579138.78,401563.62,177575.16,3
+Sub-Saharan Africa,Kenya,Vegetables,Offline,M,5797,154.06,90.93,893085.82,527121.21,365964.61,3
+Europe,Poland,Baby Food,Offline,H,1725,255.28,159.42,440358.0,274999.5,165358.5,3
+Europe,Montenegro,Clothes,Offline,M,7547,109.28,35.84,824736.16,270484.48,554251.68,3
+Sub-Saharan Africa,Zambia,Personal Care,Offline,L,6670,81.73,56.67,545139.1,377988.9,167150.2,3
+Middle East and North Africa,Algeria,Cereal,Offline,M,2308,205.7,117.11,474755.6,270289.88,204465.72,3
+Sub-Saharan Africa,Democratic Republic of the Congo,Fruits,Offline,M,8881,9.33,6.92,82859.73,61456.52,21403.21,3
+Europe,Slovenia,Fruits,Offline,L,5669,9.33,6.92,52891.77,39229.48,13662.29,3
+Sub-Saharan Africa,South Sudan,Personal Care,Offline,L,915,81.73,56.67,74782.95,51853.05,22929.9,3
+Europe,Ireland,Personal Care,Offline,L,2179,81.73,56.67,178089.67,123483.93,54605.74,3
+North America,Canada,Beverages,Offline,L,1667,47.45,31.79,79099.15,52993.93,26105.22,3
+Middle East and North Africa,Tunisia ,Baby Food,Offline,M,279,255.28,159.42,71223.12,44478.18,26744.94,3
+Australia and Oceania,Marshall Islands,Vegetables,Offline,C,4260,154.06,90.93,656295.6,387361.8,268933.8,3
+Sub-Saharan Africa,Malawi,Fruits,Offline,H,7852,9.33,6.92,73259.16,54335.84,18923.32,3
+North America,Greenland,Clothes,Offline,M,7306,109.28,35.84,798399.68,261847.04,536552.64,3
+Sub-Saharan Africa,Republic of the Congo,Snacks,Offline,M,9576,152.58,97.44,1461106.08,933085.44,528020.64,3
+Central America and the Caribbean,Belize,Fruits,Offline,C,8959,9.33,6.92,83587.47,61996.28,21591.19,3
+Middle East and North Africa,Syria,Vegetables,Offline,M,8341,154.06,90.93,1285014.46,758447.13,526567.33,3
+Central America and the Caribbean,Panama,Snacks,Offline,C,3276,152.58,97.44,499852.08,319213.44,180638.64,3
+Middle East and North Africa,Yemen,Personal Care,Offline,L,1453,81.73,56.67,118753.69,82341.51,36412.18,3
+Sub-Saharan Africa,Burundi,Fruits,Offline,H,647,9.33,6.92,6036.51,4477.24,1559.27,3
+Sub-Saharan Africa,Liberia,Vegetables,Offline,L,7157,154.06,90.93,1102607.42,650786.01,451821.41,3
+Central America and the Caribbean,Saint Vincent and the Grenadines,Beverages,Offline,M,1079,47.45,31.79,51198.55,34301.41,16897.14,3
+Sub-Saharan Africa,Zambia,Beverages,Offline,M,5843,47.45,31.79,277250.35,185748.97,91501.38,3
+Europe,Bulgaria,Fruits,Offline,C,7742,9.33,6.92,72232.86,53574.64,18658.22,3
+Europe,Russia,Snacks,Offline,L,6052,152.58,97.44,923414.16,589706.88,333707.28,3
+Asia,Kyrgyzstan,Beverages,Offline,C,159,47.45,31.79,7544.55,5054.61,2489.94,3
+Australia and Oceania,Solomon Islands,Fruits,Offline,L,2129,9.33,6.92,19863.57,14732.68,5130.89,3
+Sub-Saharan Africa,Madagascar,Fruits,Offline,H,7661,9.33,6.92,71477.13,53014.12,18463.01,3
+Australia and Oceania,Papua New Guinea,Clothes,Offline,H,5762,109.28,35.84,629671.36,206510.08,423161.28,3
+Sub-Saharan Africa,Central African Republic,Beverages,Offline,M,1125,47.45,31.79,53381.25,35763.75,17617.5,3
+Sub-Saharan Africa,Togo,Fruits,Offline,H,5132,9.33,6.92,47881.56,35513.44,12368.12,3
+Asia,Taiwan,Vegetables,Offline,C,3281,154.06,90.93,505470.86,298341.33,207129.53,3
+Europe,Slovakia,Beverages,Offline,M,5868,47.45,31.79,278436.6,186543.72,91892.88,3
+Europe,Cyprus,Clothes,Offline,L,3802,109.28,35.84,415482.56,136263.68,279218.88,3
+Sub-Saharan Africa,Comoros,Clothes,Offline,L,4676,109.28,35.84,510993.28,167587.84,343405.44,3
+Australia and Oceania,Solomon Islands,Personal Care,Offline,H,9390,81.73,56.67,767444.7,532131.3,235313.4,3
+Sub-Saharan Africa,Mali,Snacks,Offline,L,6601,152.58,97.44,1007180.58,643201.44,363979.14,3
+Middle East and North Africa,Qatar,Vegetables,Offline,M,6913,154.06,90.93,1065016.78,628599.09,436417.69,3
+Sub-Saharan Africa,Chad,Baby Food,Offline,C,807,255.28,159.42,206010.96,128651.94,77359.02,3
+Middle East and North Africa,Lebanon,Personal Care,Offline,L,8806,81.73,56.67,719714.38,499036.02,220678.36,3
+Sub-Saharan Africa,Burkina Faso,Baby Food,Offline,L,1407,255.28,159.42,359178.96,224303.94,134875.02,3
+Europe,Liechtenstein,Fruits,Offline,H,1573,9.33,6.92,14676.09,10885.16,3790.93,3
+Sub-Saharan Africa,Gabon,Beverages,Offline,M,4005,47.45,31.79,190037.25,127318.95,62718.3,3
+Europe,Russia,Beverages,Offline,L,1111,47.45,31.79,52716.95,35318.69,17398.26,3
+Central America and the Caribbean,Saint Vincent and the Grenadines,Beverages,Offline,H,507,47.45,31.79,24057.15,16117.53,7939.62,3
+Sub-Saharan Africa,Burkina Faso,Personal Care,Offline,H,5249,81.73,56.67,429000.77,297460.83,131539.94,3
+Middle East and North Africa,Jordan,Beverages,Offline,L,5715,47.45,31.79,271176.75,181679.85,89496.9,3
+Asia,Mongolia,Personal Care,Offline,M,3484,81.73,56.67,284747.32,197438.28,87309.04,3
+Europe,Austria,Personal Care,Offline,M,6348,81.73,56.67,518822.04,359741.16,159080.88,3
+Europe,Ireland,Personal Care,Offline,H,3331,81.73,56.67,272242.63,188767.77,83474.86,3
+Sub-Saharan Africa,Gabon,Fruits,Offline,H,7806,9.33,6.92,72829.98,54017.52,18812.46,3
+Middle East and North Africa,Saudi Arabia,Personal Care,Offline,M,2198,81.73,56.67,179642.54,124560.66,55081.88,3
+North America,Mexico,Personal Care,Offline,H,3665,81.73,56.67,299540.45,207695.55,91844.9,3
+Europe,Vatican City,Fruits,Offline,M,8431,9.33,6.92,78661.23,58342.52,20318.71,3
+Europe,France,Meat,Offline,L,167,421.89,364.69,70455.63,60903.23,9552.4,3
+Sub-Saharan Africa,Togo,Beverages,Offline,M,5780,47.45,31.79,274261.0,183746.2,90514.8,3
+Europe,Macedonia,Cereal,Offline,L,1713,205.7,117.11,352364.1,200609.43,151754.67,3
+Asia,Brunei,Vegetables,Offline,M,9070,154.06,90.93,1397324.2,824735.1,572589.1,3
+Europe,Estonia,Baby Food,Offline,M,2797,255.28,159.42,714018.16,445897.74,268120.42,3
+Australia and Oceania,Fiji,Cereal,Offline,H,6264,205.7,117.11,1288504.8,733577.04,554927.76,3
+Asia,Indonesia,Clothes,Offline,L,7287,109.28,35.84,796323.36,261166.08,535157.28,3
+Middle East and North Africa,Egypt,Personal Care,Offline,M,9768,81.73,56.67,798338.64,553552.56,244786.08,3
+Europe,Austria,Vegetables,Offline,M,5397,154.06,90.93,831461.82,490749.21,340712.61,3
+Europe,Moldova ,Snacks,Offline,H,5260,152.58,97.44,802570.8,512534.4,290036.4,3
+Australia and Oceania,Nauru,Fruits,Offline,M,562,9.33,6.92,5243.46,3889.04,1354.42,3
+Central America and the Caribbean,Dominica,Snacks,Offline,L,5622,152.58,97.44,857804.76,547807.68,309997.08,3
+Central America and the Caribbean,Honduras,Clothes,Offline,L,7987,109.28,35.84,872819.36,286254.08,586565.28,3
+Asia,Indonesia,Fruits,Offline,H,1342,9.33,6.92,12520.86,9286.64,3234.22,3
+Sub-Saharan Africa,Mozambique,Clothes,Offline,H,2845,109.28,35.84,310901.6,101964.8,208936.8,3
+Sub-Saharan Africa,Angola,Baby Food,Offline,L,3012,255.28,159.42,768903.36,480173.04,288730.32,3
+North America,Greenland,Beverages,Offline,C,6910,47.45,31.79,327879.5,219668.9,108210.6,3
+Australia and Oceania,Samoa ,Fruits,Offline,C,451,9.33,6.92,4207.83,3120.92,1086.91,3
+Europe,Lithuania,Fruits,Offline,M,4567,9.33,6.92,42610.11,31603.64,11006.47,3
+Central America and the Caribbean,Dominica,Fruits,Offline,H,7281,9.33,6.92,67931.73,50384.52,17547.21,3
+Middle East and North Africa,Morocco,Snacks,Offline,C,4587,152.58,97.44,699884.46,446957.28,252927.18,3
+Central America and the Caribbean,Jamaica,Vegetables,Offline,M,427,154.06,90.93,65783.62,38827.11,26956.51,3
+Australia and Oceania,Solomon Islands,Fruits,Offline,C,4714,9.33,6.92,43981.62,32620.88,11360.74,3
+Central America and the Caribbean,Dominica,Vegetables,Offline,M,1260,154.06,90.93,194115.6,114571.8,79543.8,3
+Middle East and North Africa,Iraq,Personal Care,Offline,M,2205,81.73,56.67,180214.65,124957.35,55257.3,3
+Europe,Malta,Baby Food,Offline,L,5097,255.28,159.42,1301162.16,812563.74,488598.42,3
+Sub-Saharan Africa,Burundi,Baby Food,Offline,C,2648,255.28,159.42,675981.44,422144.16,253837.28,3
+Sub-Saharan Africa,Lesotho,Vegetables,Offline,H,8530,154.06,90.93,1314131.8,775632.9,538498.9,3
+Sub-Saharan Africa,Kenya,Beverages,Offline,H,8399,47.45,31.79,398532.55,267004.21,131528.34,3
+Sub-Saharan Africa,Burundi,Clothes,Offline,M,9100,109.28,35.84,994448.0,326144.0,668304.0,3
+Sub-Saharan Africa,Benin,Vegetables,Offline,H,4520,154.06,90.93,696351.2,411003.6,285347.6,3
+Middle East and North Africa,Pakistan,Vegetables,Offline,C,6444,154.06,90.93,992762.64,585952.92,406809.72,3
+Sub-Saharan Africa,Ghana,Beverages,Offline,C,1829,47.45,31.79,86786.05,58143.91,28642.14,3
+Europe,Norway,Vegetables,Offline,H,4344,154.06,90.93,669236.64,394999.92,274236.72,3
+Europe,Cyprus,Vegetables,Offline,M,5869,154.06,90.93,904178.14,533668.17,370509.97,3
+Europe,Bulgaria,Vegetables,Offline,C,5427,154.06,90.93,836083.62,493477.11,342606.51,3
+Asia,Laos,Beverages,Offline,H,668,47.45,31.79,31696.6,21235.72,10460.88,3
+Sub-Saharan Africa,Guinea,Clothes,Offline,C,7557,109.28,35.84,825828.96,270842.88,554986.08,3
+Central America and the Caribbean,The Bahamas,Snacks,Offline,L,324,152.58,97.44,49435.92,31570.56,17865.36,3
+Middle East and North Africa,Iran,Baby Food,Offline,H,2669,255.28,159.42,681342.32,425491.98,255850.34,3
+Middle East and North Africa,Qatar,Snacks,Offline,M,3259,152.58,97.44,497258.22,317556.96,179701.26,3
+Europe,San Marino,Vegetables,Offline,M,5102,154.06,90.93,786014.12,463924.86,322089.26,3
+Australia and Oceania,New Zealand,Beverages,Offline,H,8486,47.45,31.79,402660.7,269769.94,132890.76,3
+Asia,Laos,Clothes,Offline,M,586,109.28,35.84,64038.08,21002.24,43035.84,3
+Australia and Oceania,Solomon Islands,Beverages,Offline,L,8138,47.45,31.79,386148.1,258707.02,127441.08,3
+Middle East and North Africa,Egypt,Fruits,Offline,M,4013,9.33,6.92,37441.29,27769.96,9671.33,3
+Asia,Myanmar,Snacks,Offline,H,7164,152.58,97.44,1093083.12,698060.16,395022.96,3
+Asia,Malaysia,Beverages,Offline,H,9355,47.45,31.79,443894.75,297395.45,146499.3,3
+Asia,Taiwan,Cereal,Offline,M,5985,205.7,117.11,1231114.5,700903.35,530211.15,3
+Sub-Saharan Africa,Angola,Snacks,Offline,H,463,152.58,97.44,70644.54,45114.72,25529.82,3
+Europe,Iceland,Vegetables,Offline,C,2190,154.06,90.93,337391.4,199136.7,138254.7,3
+Sub-Saharan Africa,Sudan,Vegetables,Offline,H,2358,154.06,90.93,363273.48,214412.94,148860.54,3
+Australia and Oceania,Australia,Fruits,Offline,M,1467,9.33,6.92,13687.11,10151.64,3535.47,3
+Europe,Malta,Personal Care,Offline,C,7069,81.73,56.67,577749.37,400600.23,177149.14,3
+Sub-Saharan Africa,Ethiopia,Fruits,Offline,L,6636,9.33,6.92,61913.88,45921.12,15992.76,3
+Central America and the Caribbean,Barbados,Snacks,Offline,C,7799,152.58,97.44,1189971.42,759934.56,430036.86,3
+Sub-Saharan Africa,Uganda,Fruits,Offline,H,6254,9.33,6.92,58349.82,43277.68,15072.14,3
+Middle East and North Africa,Somalia,Personal Care,Offline,H,6822,81.73,56.67,557562.06,386602.74,170959.32,3
+Sub-Saharan Africa,Zambia,Beverages,Offline,C,6817,47.45,31.79,323466.65,216712.43,106754.22,3
+Sub-Saharan Africa,Rwanda,Beverages,Offline,C,3762,47.45,31.79,178506.9,119593.98,58912.92,3
+Australia and Oceania,Tonga,Snacks,Offline,M,9710,152.58,97.44,1481551.8,946142.4,535409.4,3
+Central America and the Caribbean,The Bahamas,Baby Food,Offline,C,2360,255.28,159.42,602460.8,376231.2,226229.6,3
+North America,Mexico,Beverages,Offline,H,6777,47.45,31.79,321568.65,215440.83,106127.82,3
+Sub-Saharan Africa,Seychelles ,Fruits,Offline,H,3626,9.33,6.92,33830.58,25091.92,8738.66,3
+Europe,Kosovo,Snacks,Offline,C,4061,152.58,97.44,619627.38,395703.84,223923.54,3
+Europe,Macedonia,Beverages,Offline,M,1194,47.45,31.79,56655.3,37957.26,18698.04,3
+Europe,Austria,Vegetables,Offline,C,2622,154.06,90.93,403945.32,238418.46,165526.86,3
+Europe,Bosnia and Herzegovina,Personal Care,Offline,L,9528,81.73,56.67,778723.44,539951.76,238771.68,3
+Europe,Russia,Cosmetics,Offline,C,391,437.2,263.33,170945.2,102962.03,67983.17,3
+Europe,Netherlands,Clothes,Offline,H,7797,109.28,35.84,852056.16,279444.48,572611.68,3
+Europe,Russia,Beverages,Offline,M,114,47.45,31.79,5409.3,3624.06,1785.24,3
+Europe,Monaco,Vegetables,Offline,C,5072,154.06,90.93,781392.32,461196.96,320195.36,3
+Middle East and North Africa,Kuwait,Baby Food,Offline,L,2818,255.28,159.42,719379.04,449245.56,270133.48,3
+Australia and Oceania,Tonga,Cereal,Offline,C,5738,205.7,117.11,1180306.6,671977.18,508329.42,3
+Australia and Oceania,East Timor,Clothes,Offline,L,4343,109.28,35.84,474603.04,155653.12,318949.92,3
+Central America and the Caribbean,Dominican Republic,Fruits,Offline,C,6013,9.33,6.92,56101.29,41609.96,14491.33,3
+Europe,Macedonia,Beverages,Offline,L,8957,47.45,31.79,425009.65,284743.03,140266.62,3
+Europe,Italy,Fruits,Offline,L,7152,9.33,6.92,66728.16,49491.84,17236.32,3
+Europe,Luxembourg,Fruits,Offline,M,1723,9.33,6.92,16075.59,11923.16,4152.43,3
+Europe,Hungary,Fruits,Offline,M,4100,9.33,6.92,38253.0,28372.0,9881.0,3
+Europe,Greece,Beverages,Offline,H,8850,47.45,31.79,419932.5,281341.5,138591.0,3
+Australia and Oceania,Samoa ,Vegetables,Offline,C,9417,154.06,90.93,1450783.02,856287.81,594495.21,3
+Australia and Oceania,Palau,Cereal,Offline,L,1959,205.7,117.11,402966.3,229418.49,173547.81,3
+Asia,Uzbekistan,Cereal,Offline,M,6730,205.7,117.11,1384361.0,788150.3,596210.7,3
+Middle East and North Africa,Kuwait,Fruits,Offline,M,9706,9.33,6.92,90556.98,67165.52,23391.46,3
+Europe,Armenia,Fruits,Offline,C,9214,9.33,6.92,85966.62,63760.88,22205.74,3
+Sub-Saharan Africa,Mauritania,Fruits,Offline,M,6072,9.33,6.92,56651.76,42018.24,14633.52,3
+Middle East and North Africa,Israel,Personal Care,Offline,H,2384,81.73,56.67,194844.32,135101.28,59743.04,3
+Middle East and North Africa,Libya,Beverages,Offline,C,6504,47.45,31.79,308614.8,206762.16,101852.64,3
+Middle East and North Africa,Jordan,Clothes,Offline,L,2173,109.28,35.84,237465.44,77880.32,159585.12,3
+Europe,Kosovo,Beverages,Offline,M,2839,47.45,31.79,134710.55,90251.81,44458.74,3
+Europe,Liechtenstein,Vegetables,Offline,C,6531,154.06,90.93,1006165.86,593863.83,412302.03,3
+Sub-Saharan Africa,Niger,Vegetables,Offline,H,5830,154.06,90.93,898169.8,530121.9,368047.9,3
+Central America and the Caribbean,Panama,Vegetables,Offline,H,1422,154.06,90.93,219073.32,129302.46,89770.86,3
+Sub-Saharan Africa,Comoros,Snacks,Offline,C,71,152.58,97.44,10833.18,6918.24,3914.94,3
+Europe,Austria,Vegetables,Offline,C,6637,154.06,90.93,1022496.22,603502.41,418993.81,3
+Central America and the Caribbean,The Bahamas,Vegetables,Offline,M,2892,154.06,90.93,445541.52,262969.56,182571.96,3
+Middle East and North Africa,Tunisia ,Personal Care,Offline,L,5090,81.73,56.67,416005.7,288450.3,127555.4,3
+Sub-Saharan Africa,Kenya,Personal Care,Offline,C,7490,81.73,56.67,612157.7,424458.3,187699.4,3
+Sub-Saharan Africa,The Gambia,Fruits,Offline,L,5630,9.33,6.92,52527.9,38959.6,13568.3,3
+Middle East and North Africa,Iran,Fruits,Offline,M,3631,9.33,6.92,33877.23,25126.52,8750.71,3
+Sub-Saharan Africa,Zimbabwe,Clothes,Offline,M,5568,109.28,35.84,608471.04,199557.12,408913.92,3
+Europe,Georgia,Cereal,Offline,M,1911,205.7,117.11,393092.7,223797.21,169295.49,3
+Europe,Liechtenstein,Vegetables,Offline,H,2647,154.06,90.93,407796.82,240691.71,167105.11,3
+Central America and the Caribbean,Saint Kitts and Nevis ,Personal Care,Offline,C,7552,81.73,56.67,617224.96,427971.84,189253.12,3
+Middle East and North Africa,Iran,Snacks,Offline,M,8909,152.58,97.44,1359335.22,868092.96,491242.26,3
+Asia,North Korea,Snacks,Offline,C,5877,152.58,97.44,896712.66,572654.88,324057.78,3
+Sub-Saharan Africa,Burkina Faso,Beverages,Offline,C,5402,47.45,31.79,256324.9,171729.58,84595.32,3
+Europe,Latvia,Snacks,Offline,M,9085,152.58,97.44,1386189.3,885242.4,500946.9,3
+Sub-Saharan Africa,Guinea-Bissau,Baby Food,Offline,C,872,255.28,159.42,222604.16,139014.24,83589.92,3
+Australia and Oceania,Tonga,Snacks,Offline,H,4716,152.58,97.44,719567.28,459527.04,260040.24,3
+Asia,Uzbekistan,Personal Care,Offline,L,8772,81.73,56.67,716935.56,497109.24,219826.32,3
+Sub-Saharan Africa,Cameroon,Cereal,Offline,M,2957,205.7,117.11,608254.9,346294.27,261960.63,3
+North America,Canada,Vegetables,Offline,L,6337,154.06,90.93,976278.22,576223.41,400054.81,3
+Central America and the Caribbean,El Salvador,Cereal,Offline,M,2107,205.7,117.11,433409.9,246750.77,186659.13,3
+Asia,North Korea,Fruits,Offline,M,2789,9.33,6.92,26021.37,19299.88,6721.49,3
+Sub-Saharan Africa,Cameroon,Fruits,Offline,L,3422,9.33,6.92,31927.26,23680.24,8247.02,3
+Sub-Saharan Africa,Djibouti,Beverages,Offline,H,2120,47.45,31.79,100594.0,67394.8,33199.2,3
+Sub-Saharan Africa,Mauritania,Vegetables,Offline,C,8031,154.06,90.93,1237255.86,730258.83,506997.03,3
+Sub-Saharan Africa,Liberia,Clothes,Offline,L,8380,109.28,35.84,915766.4,300339.2,615427.2,3
+North America,Greenland,Baby Food,Offline,H,388,255.28,159.42,99048.64,61854.96,37193.68,3
+Sub-Saharan Africa,Angola,Vegetables,Offline,H,3774,154.06,90.93,581422.44,343169.82,238252.62,3
+Sub-Saharan Africa,Madagascar,Cereal,Offline,H,6032,205.7,117.11,1240782.4,706407.52,534374.88,3
+Sub-Saharan Africa,Ethiopia,Baby Food,Offline,L,3117,255.28,159.42,795707.76,496912.14,298795.62,3
+Sub-Saharan Africa,Malawi,Snacks,Offline,C,8761,152.58,97.44,1336753.38,853671.84,483081.54,3
+Australia and Oceania,Samoa ,Vegetables,Offline,L,6672,154.06,90.93,1027888.32,606684.96,421203.36,3
+Australia and Oceania,Nauru,Clothes,Offline,L,3585,109.28,35.84,391768.8,128486.4,263282.4,3
+Sub-Saharan Africa,South Africa,Cereal,Offline,L,1587,205.7,117.11,326445.9,185853.57,140592.33,3
+Asia,Kyrgyzstan,Fruits,Offline,H,4338,9.33,6.92,40473.54,30018.96,10454.58,3
+Sub-Saharan Africa,Comoros,Personal Care,Offline,C,5473,81.73,56.67,447308.29,310154.91,137153.38,3
+Europe,Slovakia,Snacks,Offline,M,2727,152.58,97.44,416085.66,265718.88,150366.78,3
+Australia and Oceania,Federated States of Micronesia,Baby Food,Offline,H,3978,255.28,159.42,1015503.84,634172.76,381331.08,3
+Asia,Turkmenistan,Fruits,Offline,L,4095,9.33,6.92,38206.35,28337.4,9868.95,3
+Europe,Sweden,Baby Food,Offline,M,4840,255.28,159.42,1235555.2,771592.8,463962.4,3
+Central America and the Caribbean,Saint Vincent and the Grenadines,Fruits,Offline,H,2354,9.33,6.92,21962.82,16289.68,5673.14,3
+Europe,Slovenia,Personal Care,Offline,M,4376,81.73,56.67,357650.48,247987.92,109662.56,3
+Sub-Saharan Africa,Mauritania,Snacks,Offline,L,2005,152.58,97.44,305922.9,195367.2,110555.7,3
+Europe,Armenia,Baby Food,Offline,M,4983,255.28,159.42,1272060.24,794389.86,477670.38,3
+Central America and the Caribbean,Honduras,Fruits,Offline,H,1647,9.33,6.92,15366.51,11397.24,3969.27,3
+Central America and the Caribbean,Haiti,Cereal,Offline,M,2967,205.7,117.11,610311.9,347465.37,262846.53,3
+Asia,Thailand,Personal Care,Offline,C,4684,81.73,56.67,382823.32,265442.28,117381.04,3
+Sub-Saharan Africa,Guinea,Clothes,Offline,M,8419,109.28,35.84,920028.32,301736.96,618291.36,3
+Europe,Armenia,Cereal,Offline,H,7455,205.7,117.11,1533493.5,873055.05,660438.45,3
+Australia and Oceania,East Timor,Snacks,Offline,M,7153,152.58,97.44,1091404.74,696988.32,394416.42,3
+Middle East and North Africa,Afghanistan,Snacks,Offline,L,1840,152.58,97.44,280747.2,179289.6,101457.6,3
+Europe,Latvia,Cereal,Offline,M,5462,205.7,117.11,1123533.4,639654.82,483878.58,3
+Sub-Saharan Africa,Kenya,Vegetables,Offline,M,5725,154.06,90.93,881993.5,520574.25,361419.25,3
+Sub-Saharan Africa,South Africa,Beverages,Offline,M,4568,47.45,31.79,216751.6,145216.72,71534.88,3
+Europe,Belgium,Beverages,Offline,L,789,47.45,31.79,37438.05,25082.31,12355.74,3
+Asia,Malaysia,Clothes,Offline,H,1213,109.28,35.84,132556.64,43473.92,89082.72,3
+Australia and Oceania,Vanuatu,Personal Care,Offline,L,7654,81.73,56.67,625561.42,433752.18,191809.24,3
+Sub-Saharan Africa,Cote d'Ivoire,Beverages,Offline,L,2691,47.45,31.79,127687.95,85546.89,42141.06,3
+Sub-Saharan Africa,Cote d'Ivoire,Personal Care,Offline,C,3677,81.73,56.67,300521.21,208375.59,92145.62,3
+Asia,Brunei,Baby Food,Offline,M,1939,255.28,159.42,494987.92,309115.38,185872.54,3
+Sub-Saharan Africa,Mali,Meat,Offline,L,845,421.89,364.69,356497.05,308163.05,48334.0,3
+Central America and the Caribbean,Dominica,Beverages,Offline,C,2564,47.45,31.79,121661.8,81509.56,40152.24,3
+Europe,Liechtenstein,Clothes,Offline,H,3940,109.28,35.84,430563.2,141209.6,289353.6,3
+Europe,Iceland,Personal Care,Offline,L,3843,81.73,56.67,314088.39,217782.81,96305.58,3
+Sub-Saharan Africa,Eritrea,Beverages,Offline,L,5713,47.45,31.79,271081.85,181616.27,89465.58,3
+Central America and the Caribbean,Barbados,Beverages,Offline,C,2782,47.45,31.79,132005.9,88439.78,43566.12,3
+Europe,Belarus,Vegetables,Offline,M,5016,154.06,90.93,772764.96,456104.88,316660.08,3
+Europe,Croatia,Snacks,Offline,M,347,152.58,97.44,52945.26,33811.68,19133.58,3
+Europe,Lithuania,Clothes,Offline,C,5370,109.28,35.84,586833.6,192460.8,394372.8,3
+Central America and the Caribbean,Barbados,Clothes,Offline,M,3821,109.28,35.84,417558.88,136944.64,280614.24,3
+Sub-Saharan Africa,Gabon,Vegetables,Offline,H,5592,154.06,90.93,861503.52,508480.56,353022.96,3
+Middle East and North Africa,Egypt,Clothes,Offline,M,8199,109.28,35.84,895986.72,293852.16,602134.56,3
+Europe,Denmark,Vegetables,Offline,H,9809,154.06,90.93,1511174.54,891932.37,619242.17,3
+Central America and the Caribbean,Guatemala,Fruits,Offline,C,3357,9.33,6.92,31320.81,23230.44,8090.37,3
+Sub-Saharan Africa,Madagascar,Snacks,Offline,M,5754,152.58,97.44,877945.32,560669.76,317275.56,3
+Australia and Oceania,Nauru,Fruits,Offline,L,6417,9.33,6.92,59870.61,44405.64,15464.97,3
+Europe,Hungary,Vegetables,Offline,L,7259,154.06,90.93,1118321.54,660060.87,458260.67,3
+Central America and the Caribbean,Grenada,Beverages,Offline,C,2693,47.45,31.79,127782.85,85610.47,42172.38,3
+Australia and Oceania,Federated States of Micronesia,Baby Food,Offline,H,4227,255.28,159.42,1079068.56,673868.34,405200.22,3
+Asia,Sri Lanka,Personal Care,Offline,H,5966,81.73,56.67,487601.18,338093.22,149507.96,3
+Europe,Greece,Fruits,Offline,C,6201,9.33,6.92,57855.33,42910.92,14944.41,3
+Sub-Saharan Africa,Namibia,Personal Care,Offline,M,5116,81.73,56.67,418130.68,289923.72,128206.96,3
+Asia,Sri Lanka,Snacks,Offline,L,4159,152.58,97.44,634580.22,405252.96,229327.26,3
+Sub-Saharan Africa,The Gambia,Vegetables,Offline,L,524,154.06,90.93,80727.44,47647.32,33080.12,3
+Central America and the Caribbean,Guatemala,Personal Care,Offline,C,9831,81.73,56.67,803487.63,557122.77,246364.86,3
+Europe,Andorra,Baby Food,Offline,H,46,255.28,159.42,11742.88,7333.32,4409.56,3
+Europe,Italy,Vegetables,Offline,M,428,154.06,90.93,65937.68,38918.04,27019.64,3
+Europe,Romania,Snacks,Offline,M,1044,152.58,97.44,159293.52,101727.36,57566.16,3
+Sub-Saharan Africa,Mali,Vegetables,Offline,L,78,154.06,90.93,12016.68,7092.54,4924.14,3
+Australia and Oceania,Marshall Islands,Cosmetics,Offline,L,836,437.2,263.33,365499.2,220143.88,145355.32,3
+Asia,Kazakhstan,Cereal,Offline,H,3148,205.7,117.11,647543.6,368662.28,278881.32,3
+Europe,Hungary,Clothes,Offline,H,2359,109.28,35.84,257791.52,84546.56,173244.96,3
+Central America and the Caribbean,Barbados,Clothes,Offline,C,4989,109.28,35.84,545197.92,178805.76,366392.16,3
+Sub-Saharan Africa,Niger,Baby Food,Offline,C,1185,255.28,159.42,302506.8,188912.7,113594.1,3
+Australia and Oceania,Tuvalu,Personal Care,Offline,C,2599,81.73,56.67,212416.27,147285.33,65130.94,3
+Middle East and North Africa,Syria,Snacks,Offline,M,1729,152.58,97.44,263810.82,168473.76,95337.06,3
+Australia and Oceania,Nauru,Beverages,Offline,M,8471,47.45,31.79,401948.95,269293.09,132655.86,3
+Central America and the Caribbean,El Salvador,Fruits,Offline,M,5997,9.33,6.92,55952.01,41499.24,14452.77,3
+Middle East and North Africa,Afghanistan,Snacks,Offline,M,523,152.58,97.44,79799.34,50961.12,28838.22,3
+Europe,Russia,Personal Care,Offline,H,344,81.73,56.67,28115.12,19494.48,8620.64,3
+Sub-Saharan Africa,Cameroon,Beverages,Offline,L,8878,47.45,31.79,421261.1,282231.62,139029.48,3
+Sub-Saharan Africa,Chad,Snacks,Offline,M,5907,152.58,97.44,901290.06,575578.08,325711.98,3
+Asia,Indonesia,Personal Care,Offline,L,4909,81.73,56.67,401212.57,278193.03,123019.54,3
+Middle East and North Africa,Iran,Beverages,Offline,H,3218,47.45,31.79,152694.1,102300.22,50393.88,3
+Asia,Cambodia,Vegetables,Offline,L,3581,154.06,90.93,551688.86,325620.33,226068.53,3
+Europe,Norway,Personal Care,Offline,M,3394,81.73,56.67,277391.62,192337.98,85053.64,3
+Europe,Ukraine,Cereal,Offline,L,3633,205.7,117.11,747308.1,425460.63,321847.47,3
+Middle East and North Africa,Iran,Clothes,Offline,L,1352,109.28,35.84,147746.56,48455.68,99290.88,3
+Europe,Denmark,Clothes,Offline,H,7088,109.28,35.84,774576.64,254033.92,520542.72,3
+Middle East and North Africa,Azerbaijan,Clothes,Offline,L,1077,109.28,35.84,117694.56,38599.68,79094.88,3
+Asia,Myanmar,Baby Food,Offline,H,5204,255.28,159.42,1328477.12,829621.68,498855.44,3

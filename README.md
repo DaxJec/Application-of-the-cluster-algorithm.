@@ -68,8 +68,10 @@ Principal Component 1 (PC_1) and Principal Component 2 (PC_2)
 
 * from the obtained plot, the value of number of clusters in the range 5 to 7,
 
+* the number will be confirmed with the plot of silhouette scores against number clusters and the one with a higher silhouette scores shall be taken
+
 * from the above plot, the number of clusters to be considered are 5, as it has the highest silhouette score
 
 * therefore our final model is to built with n_clusters = 5
 
-* the number will be confirmed with the plot of silhouette scores against number clusters and the one with a higher silhouette scores shall be taken
+* Final we append the labels from the model to the original data for further analysis and understanding of the clusters.

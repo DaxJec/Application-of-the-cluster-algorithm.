@@ -74,4 +74,4 @@ Principal Component 1 (PC_1) and Principal Component 2 (PC_2)
 
 * therefore our final model is to built with n_clusters = 5
 
-* Final we append the labels from the model to the original data for further analysis and understanding of the clusters.
+* Finally, we append the labels from the model to the original data for further analysis and understanding of the clusters.
